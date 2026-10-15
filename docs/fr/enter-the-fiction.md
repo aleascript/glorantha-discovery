@@ -1,23 +1,16 @@
 ---
 id: enter-the-fiction
-title: Comment tester le prototype
-sidebar_position: 2
-description: Protocole de test de la première boucle d'exploration.
+title: Comment jouer
 ---
 
-# Comment tester le prototype
+# Comment jouer au prototype
 
-Ce POC ne simule pas encore un personnage complet. Il vise une seule question : **est-il intéressant de découvrir Sartar en circulant librement entre des lieux ?**
+Commencez au [§077 — Jonstown](./paragraphes/077.md). Un paragraphe est un numéro stable : vous y revenez en suivant les renvois, comme dans un livre-jeu.
 
-1. Partez de [Jonstown](./sartar/jonstown.md), ou ouvrez directement la [liste des lieux](./sartar/index.md).
-2. Depuis un hub, choisissez une route. Sur les pages de route, lancez le dé intégré.
-3. Lisez la situation correspondante puis choisissez la destination indiquée.
-4. Notez librement vos découvertes et les conséquences que vous voudriez revoir dans une future visite.
+**Explorer** permet de visiter les lieux d'un hub. **Voyager** mène à un paragraphe de trajet commun aux deux directions : notez son numéro, effectuez les jets qui y sont indiqués, consultez les rencontres obtenues puis revenez au trajet, sauf instruction contraire. Choisissez enfin votre destination parmi les deux extrémités proposées.
 
-Les rencontres sont des amorces de design, **pas des scènes finalisées**. La durée exacte des trajets, les fréquences et les conditions d'accès seront étudiées à partir des cartes et des sources avant d'être fixées.
+**Connaissances et personnage sont distincts.** Une mémoire est une information apprise pendant le jeu : histoire, nom, récit, signe reconnu, témoignage. Elle n'est ni une Rune, ni une culture, ni un culte, ni un trait constitutif du personnage. Vous pouvez noter vos mémoires librement.
 
-### Ce qu'il faut observer
+Lorsqu'un paragraphe indique « si vous connaissez… », empruntez ce renvoi uniquement si cette connaissance a réellement été acquise au cours de votre partie ou établie au départ par les règles de création qui restent à écrire. Ne présumez pas des croyances, impressions ou réactions de votre personnage.
 
-Peut-on identifier facilement les lieux accessibles ? Les trajets offrent-ils une découverte culturelle plutôt qu'une succession de combats ? A-t-on envie de revenir dans un lieu déjà visité ? Quelles mémoires seraient réellement utiles ?
-
-[Retour à Glorantha Discovery](./index.md)
+**État du POC :** les scènes, les nombres de jets et les événements sont des essais de structure ; la chronologie et les détails canoniques restent à valider.

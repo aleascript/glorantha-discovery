@@ -1,29 +1,22 @@
 ---
 id: home
-title: Le Monde
+title: Glorantha Discovery
 slug: /
 sidebar_position: 1
 hide_table_of_contents: true
-description: Chaque jeu commence par un monde qui attend de répondre.
+description: Explorez Glorantha en la parcourant.
 ---
 
-# Un monde commence par une question
+# Glorantha Discovery
 
-Au-delà de la dernière route familière s'étend un lieu qui n'a encore jamais
-existé. Ses habitants se souviennent d'anciennes promesses. Ses ruines gardent
-patiemment leurs secrets. Quelque chose a changé, et les personnages sont ceux
-qui ne peuvent simplement détourner le regard.
+**Un monde ne se découvre pas en lisant son encyclopédie : il se découvre en le parcourant.**
 
-Ce soir, la table donne une voix à ce monde.
+*Glorantha Discovery* est un projet de livres-jeux d'exploration ouverts et interconnectés. Voyagez entre les lieux, rencontrez les peuples et les cultes, et conservez la trace de ce que vous avez vécu. L'ambition est de rendre Glorantha accessible par l'expérience, sans exiger d'en connaître le lore avant de jouer.
 
-Vous direz ce que vos personnages remarquent, ce qu'ils désirent et ce qu'ils
-sont prêts à risquer. Leurs choix révéleront des chemins que personne n'aurait
-pu tracer à l'avance. En retour, le monde répondra — parfois par l'émerveillement,
-parfois par le danger, toujours par des conséquences.
+## Premier territoire : Sartar
 
-## La promesse du jeu
+Un premier **prototype français** est en construction. Il ne constitue ni un volume terminé ni une version définitive des règles.
 
-Venez avec des questions plutôt qu'avec des solutions. Écoutez les détails qui
-comptent. Laissez chaque personnage transformer ce qui devient possible.
+[**Commencer à explorer Sartar**](./sartar/index.md)
 
-Personne ne connaît encore toute l'histoire. C'est pour cela que nous jouons.
+L'avancement et les propositions sont suivis sur [GitHub](https://github.com/aleascript/glorantha-discovery). Ce projet amateur n'est pas une publication officielle de Chaosium.

@@ -44,37 +44,29 @@ Le §001 doit aussi indiquer **l'état initial du calendrier et des coches**, ma
 
 **Action technique à préparer :** retirer la dépendance de l'accueil web à un hub de départ unique ; faire commencer le site et le futur livre au **même §001**.
 
-## 4. Temps de jeu : calendrier simple à coches
+## 4. Temps de jeu : calendrier conventionnel à coches
 
-### Principe retenu
+### Principe retenu — progression, pas simulation
 
-Le joueur suit le temps avec des **coches**, de façon compatible avec le papier et le web.
+**Le calendrier appartient au personnage et le suit entre tous les livres de Glorantha Discovery.** Changer de région ou de volume ne remet jamais les saisons à zéro.
 
-Saisons gloranthiennes à représenter : **Mer → Feu → Terre → Ténèbres → Tempêtes → Temps sacré** ; puis nouvelle année. Le calendrier canonique possède des subdivisions rituelles plus fines que la simple saison (semaines, jours saints), mais le prototype peut commencer par un niveau d'abstraction plus grossier.
+**Il n'existe pas de temps continu simulé.** Les coches constituent une **mesure volontairement arbitraire de progression de l'aventure**. On ne compte pas les heures, les journées vécues ni les jours d'inactivité. Ainsi, un trajet décrit dans la fiction comme deux jours de marche peut faire progresser le calendrier d'une coche ; une fois arrivé, le personnage a peut-être passé plusieurs journées sur place sans que cela exige de décompte.
 
-Deux niveaux possibles, **non encore départagés** :
+Une coche de calendrier correspond à une **occasion prescrite par les règles**, en particulier à un **véritable trajet effectué** entre deux lieux. Il ne suffit pas de consulter un paragraphe de trajet, de cliquer un lien ou de revenir après un événement : le trajet doit avoir été effectivement parcouru. Le nombre de coches attribué à chaque trajet ou action reste un paramètre de design, sans prétention de conversion réaliste en jours.
 
-- **Par journées** : chaque trajet fait cocher le nombre de journées correspondant à sa durée, et certaines activités peuvent en consommer. Fidélité temporelle accrue ; comptabilité et granularité potentiellement lourdes.
-- **Par unités abstraites (« coches de temps »)** : un trajet coûte un nombre fixe de coches correspondant approximativement à son importance/durée ; les saisons changent après un nombre déterminé de coches. Très simple, mais **ne doit pas se faire passer pour un calendrier canonique sans table de correspondance**.
+**Les jets de rencontre et les coches de calendrier sont indépendants.** Un voyage peut donner lieu à plusieurs jets d'événements et à une seule coche de calendrier, ou à une autre combinaison fixée par sa page. Les événements ne consomment pas automatiquement de temps ; leur texte peut exceptionnellement imposer une progression supplémentaire.
 
-**Conseil de prototype :** retenir une unité élémentaire claire (par exemple une journée) et permettre de cocher des **blocs** en une opération. On peut simplifier l'interface sans confondre la durée du trajet avec le nombre d'événements.
+### Saisons
 
-### Durée vs sélection des rencontres
+Saisons gloranthiennes : **Mer → Feu → Terre → Ténèbres → Tempêtes → Temps sacré**, puis nouvelle année. Un nombre conventionnel de coches permettra le changement de saison ; les **seuils** et la **saison de départ en 1620** restent à choisir.
 
-Une route peut posséder **deux paramètres indépendants** :
+L'année et la saison sont des états du personnage, conservés au passage d'un livre à l'autre. Cette abstraction permet des embranchements simples sans gérer un calendrier journalier, les fêtes à date précise restant un point à adapter prudemment.
 
-- **temps écoulé**, qui fait avancer le calendrier ;
-- **nombre de jets d'événements**, qui contrôle les opportunités de rencontre.
+### Embranchements saisonniers
 
-Un jet d'événement n'ajoute **aucune durée par défaut**. Une rencontre particulière peut annoncer un détour ou un délai additionnel. Un trajet reste **un seul paragraphe bidirectionnel**, sauf justification fictionnelle explicite ; son temps de parcours pourra varier selon saison, circonstances ou moyen de transport sans dupliquer automatiquement sa page.
+Exemple de forme éditoriale, **numéro fictif non attribué** : à Wilmskirk, « Si vous êtes en Saison de la Mer, allez au §034 ; sinon poursuivez ». Réserver ce type d'embranchement aux découvertes, rencontres, rites et activités réellement distincts selon la saison.
 
-### Saisons et embranchements
-
-Exemple **fictif**, numéro non attribué : à **Wilmskirk**, « si c'est la **Saison de la Mer**, allez au §034 ; sinon continuez au paragraphe ordinaire ». Le §034 pourrait donner à voir un événement saisonnier, une activité, un interlocuteur, une cérémonie ou un marché particulier.
-
-**Règle éditoriale :** ne pas multiplier les pages saisonnières pour une simple couleur météorologique. Réserver les embranchements à des situations qui changent réellement ce qui est possible ou ce qui est découvert. La météo et les rites saisonniers décrits dans le *Sartar Companion* et *Sartar: Kingdom of Heroes* peuvent nourrir ces choix, **sans décider prématurément qu'un événement documenté à un endroit se déroule nécessairement à Wilmskirk**.
-
-**Point critique :** si le joueur dispose d'une saison, il doit pouvoir la déterminer sans compter mentalement ses déplacements ni reconstruire un historique de trajets.
+**Aucun réalisme chronométrique n'est recherché** : la cohérence souhaitée est celle de la progression narrative et des saisons, non le calcul exact des déplacements et de chaque journée vécue.
 
 ## 5. Coches de paragraphes : états de visite, distincts des mémoires
 
@@ -108,16 +100,16 @@ Une même scène peut agir sur plusieurs couches, mais aucune n'est automatiquem
 ## 6. Risques et décisions encore ouvertes
 
 1. **Chronologie** : date initiale précise en 1620, seuil de fin 1621, conséquences des événements historiques majeurs et cohérence des PNJ.
-2. **Économie du temps** : unité de coche, durée des trajets et des activités, saisonnalité, passage du Temps sacré et nouvelle année ; éviter le « farming » de temps/visites par aller-retour artificiel.
+2. **Cadence conventionnelle** : combien de coches pour faire changer de saison, et quelles activités autres qu'un trajet déclenchent exceptionnellement une coche ? Un vrai aller-retour est un vrai déplacement, mais sa répétition mécanique peut accélérer les saisons : à éprouver en jeu, sans imposer du réalisme.
 3. **Lisibilité sur papier** : où figurent les cases ? Dans les § imprimés, sur une fiche de voyageur, ou les deux ? Le web doit reproduire le même contrat de jeu sans imposer un stockage en navigateur pour lire le livre.
 4. **État persistant vs rejouabilité** : une coche épuisée peut supprimer définitivement une scène ; vérifier qu'elle ouvre une autre situation plutôt que réduire les choix.
 5. **Rencontres saisonnières** : distinguer celles propres à une route, un hub, un rite ou à une zone climatique ; ne pas multiplier des listes d'événements indépendantes sans intérêt narratif.
 6. **§001 vs numérotation aléatoire** : rendre §001 explicitement réservé ; préserver les numéros déjà publiés.
-7. **Livres interconnectés** : décider si calendrier et états de visites sont globaux au personnage ou locaux à chaque volume, tandis que les mémoires pertinentes peuvent circuler entre livres.
+7. **Livres interconnectés** : **décidé : calendrier global au personnage** à travers tous les volumes. Reste à définir quels états de visites sont spécifiques à un lieu et lesquels ont des conséquences interrégionales.
 
 ## 7. Prototype vertical à construire ensuite
 
-Un **§001** qui établit une date et laisse choisir le hub, **un hub** avec une branche de Saison de la Mer, **un trajet** qui consomme une durée et propose sa sélection d'événements, **un PNJ** documenté pouvant réapparaître, et **une scène avec trois coches de visite**, produisant un changement durable à la troisième arrivée.
+Un **§001** qui établit une date et laisse choisir le hub, **un hub** avec une branche de Saison de la Mer, **un trajet réellement parcouru** qui déclenche les coches conventionnelles prévues et propose sa sélection d'événements, **un PNJ** documenté pouvant réapparaître, et **une scène avec trois coches de visite**, produisant un changement durable à la troisième arrivée.
 
 Le tout doit fonctionner **sans carte, sans meneur, sans issue mortelle**, par renvois simples et avec une fiche de suivi légère.
 

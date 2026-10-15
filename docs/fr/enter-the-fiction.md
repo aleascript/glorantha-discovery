@@ -1,38 +1,23 @@
 ---
 id: enter-the-fiction
-title: Entrer dans la fiction
+title: Comment tester le prototype
 sidebar_position: 2
-description: Donnez vie à un personnage et découvrez ce que le monde fera de ses choix.
+description: Protocole de test de la première boucle d'exploration.
 ---
 
-# Entrer dans la fiction
+# Comment tester le prototype
 
-Commencez par quelqu'un qui appartient au monde sans y trouver tout à fait sa
-place. Donnez-lui une loyauté qu'il préférerait ne pas trahir, un désir qui
-l'entraîne en avant et une question à laquelle il ne peut répondre seul.
+Ce POC ne simule pas encore un personnage complet. Il vise une seule question : **est-il intéressant de découvrir Sartar en circulant librement entre des lieux ?**
 
-## Regarder avant d'agir
+1. Partez de [Jonstown](./sartar/jonstown.md), ou ouvrez directement la [liste des lieux](./sartar/index.md).
+2. Depuis un hub, choisissez une route. Sur les pages de route, lancez le dé intégré.
+3. Lisez la situation correspondante puis choisissez la destination indiquée.
+4. Notez librement vos découvertes et les conséquences que vous voudriez revoir dans une future visite.
 
-Le monde est plus qu'un décor. Le temps qu'il fait, les souvenirs, les coutumes,
-les blessures, les amitiés, les outils, les peurs et les lieux peuvent tous
-changer le sens d'une action. Demandez-vous ce qui est vrai, ici et maintenant.
-Appuyez-vous sur ce que les autres joueurs ont déjà mis en lumière.
+Les rencontres sont des amorces de design, **pas des scènes finalisées**. La durée exacte des trajets, les fréquences et les conditions d'accès seront étudiées à partir des cartes et des sources avant d'être fixées.
 
-:::note[À la table]
-Ce que les joueurs remarquent n'est pas décoratif : dès qu'un détail compte
-pour la table, il peut devenir matière de jeu.
-:::
+### Ce qu'il faut observer
 
-## Lorsque l'instant devient incertain
+Peut-on identifier facilement les lieux accessibles ? Les trajets offrent-ils une découverte culturelle plutôt qu'une succession de combats ? A-t-on envie de revenir dans un lieu déjà visité ? Quelles mémoires seraient réellement utiles ?
 
-Dites ce que votre personnage cherche à changer et pourquoi cela compte. Rendez
-les enjeux assez clairs pour que chacun puisse imaginer à la fois l'espoir de la
-réussite et le prix de l'échec. Laissez ensuite les règles résoudre l'incertitude
-sans remplacer la fiction qui l'a fait naître.
-
-## Laisser une trace
-
-Chaque choix important devrait transformer quelque chose : une relation, un
-lieu, une croyance, un danger ou le personnage qui agit. Emportez ces changements
-avec vous. L'histoire n'est pas une route qui attend d'être suivie ; elle est la
-trace laissée par le jeu.
+[Retour à Glorantha Discovery](./index.md)

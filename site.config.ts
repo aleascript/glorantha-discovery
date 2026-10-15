@@ -59,11 +59,11 @@ export type SiteTheme = {
 };
 
 export const site = {
-  title: 'Resonance Site',
-  tagline: 'A world begins with a question',
-  description: 'Enter a world shaped by every choice made at the table.',
+  title: 'Glorantha Discovery',
+  tagline: 'Explorez Glorantha en la parcourant',
+  description: 'Un projet de livres-jeux d’exploration ouverte pour découvrir Glorantha en voyageant.',
   author: 'AleaScript',
-  defaultLocale: 'en',
+  defaultLocale: 'fr',
   locales: {
     en: {
       htmlLang: 'en',
@@ -75,7 +75,7 @@ export const site = {
     },
   },
   repository: {
-    defaultFullName: 'aleascript/resonance-site-template',
+    defaultFullName: 'aleascript/glorantha-discovery',
   },
   identity: {
     logo: 'img/site/resonance_simple_200x200.png',
@@ -85,7 +85,7 @@ export const site = {
     label: 'CC BY 4.0',
     href: 'https://creativecommons.org/licenses/by/4.0/',
     attribution: {
-      title: 'Resonance Site',
+      title: 'Glorantha Discovery',
       author: 'AleaScript',
       href: null,
     },

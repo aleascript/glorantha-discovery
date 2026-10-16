@@ -73,6 +73,16 @@ La **Vision** règle la lecture ordinaire des dés (théisme, animisme, logique,
 
 **Cadre Sartar 1620–1621 :** vérifier chaque capacité et son attribution à une tradition dans les sources avant de l'intégrer comme fait du monde. Les exemples inventés restent explicitement des expériences de design.
 
+### Mysticisme de base et Illumination : ne pas les confondre
+
+**Décision de travail :** la Vision mystique ordinaire utilise la **correspondance avec la difficulté initiale** (pairs = Réussites ; si au moins un dé vaut la difficulté, **+1 Réussite une seule fois**). La **Kralorela** est une référence culturelle pertinente à approfondir, non la preuve que tous les mystiques pratiquent une doctrine identique.
+
+L'**Illumination** relève d'une **transformation ou capacité exceptionnelle** à concevoir séparément ; elle ne doit pas être intégrée d'office aux statistiques de la Vision mystique. **Piste non validée :** elle pourrait permettre d'**ignorer les malus runiques** tout en conservant les bonus favorables. Cela représenterait une émancipation vis-à-vis de certains tabous plutôt qu'une nouvelle manière de compter les dés.
+
+**Attention au dépassement :** cette neutralisation ne produit pas à elle seule davantage de Réussites que la lecture mystique de base. En difficulté 3, sans bonus runique favorable, le mystique C ne peut toujours pas dépasser le seuil avec 3D. Avec +1 favorable et −1 défavorable, l'Illumination pourrait faire passer le modificateur de 0 à +1 et débloquer l'issue favorable. Si l'on souhaite un dépassement exceptionnel **même sans Rune favorable**, un effet distinct est nécessaire.
+
+Vérifier l'Illumination dans les sources gloranthiennes avant de lui attribuer des pouvoirs ou des limitations canoniques. Voir [résolution](resolution.md).
+
 ## Progression et rythme
 
 La progression n'est **pas** nécessairement corrélée au nombre de résolutions gagnées ou au nombre de rencontres combattues. L'issue défavorable d'une confrontation peut elle aussi produire une connaissance, une relation ou une nouvelle occasion de découverte.

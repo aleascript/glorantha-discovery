@@ -18,6 +18,12 @@ Les principes en cours de conception (Sartar **1620–1621**, **§001** d'entré
 
 Un trajet est **unique et bidirectionnel** ; son paragraphe cite les deux extrémités, est accessible depuis chacune, contient ses jets et permet le retour après rencontre. Les événements ne doivent pas supposer le sens de déplacement. La carte est facultative et ne constitue pas une source de vérité.
 
+## Conséquences et branches propres aux Visions
+
+Une résolution conserve **deux conséquences communes intéressantes**, puis peut ouvrir des **renvois spécialisés** selon la Vision du personnage, ses mémoires ou ses acquisitions. **Aucune obligation de prévoir quatre branches** : en particulier, le mysticisme n'a pas besoin d'une récompense artificielle à chaque scène. Ces branches produisent de nouvelles **mémoires, relations, objets, esprits, prodiges ou possibilités de rencontre**, dont la réutilisation dans d'autres § doit être prévue. Le statut d'**Illumination** n'est pas une Vision : il sert uniquement à **ignorer le malus runique −1**, sans changer la lecture des dés.
+
+Les consignes de production et le **scénario d'exemple de la bibliothèque de Jonstown (§332)** sont consignés dans [Écriture des paragraphes — conséquences selon les Visions](paragraphes-et-consequences.md). Ce scénario est **une proposition éditoriale**, pas encore une implémentation des § jouables.
+
 ## Publication
 
 Le Markdown (et exceptionnellement MDX pour le dé) est source du site. Une future chaîne livre-jeu doit convertir les renvois relatifs `./NNN.md` / `./NNN.mdx` en références imprimées `§NNN`, produire un ordre physique déterminé et exclure les documents `design/`. Le générateur PDF actuel du template ne réalise pas encore cette conversion ; sa configuration reste un chantier.

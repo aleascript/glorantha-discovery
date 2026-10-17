@@ -14,7 +14,7 @@ for (let i = pool.length - 1; i > 0; i--) {
   [pool[i], pool[j]] = [pool[j], pool[i]];
 }
 const pad = n => String(n).padStart(3, '0');
-const allocated = ['077','193','046','458','600','069','190','332','172','110','129'];
+const allocated = ['077','193','046','458','600','069','190','332','172','110','129','240'];
 // Allocation historique volontairement conservée, y compris si la liste s'allonge.
 const used = new Set(allocated);
 const free = pool.map(pad).filter(n => !used.has(n));

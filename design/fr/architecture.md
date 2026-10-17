@@ -18,7 +18,7 @@ Voir [personnage et calendrier](personnage-et-calendrier.md), [roadmap de volume
 
 ## Découvertes et états
 
-Contrat détaillé : [mots-clés et supports](mots-cles-et-supports.md). Une MAJUSCULE est un acquis de lore officiel **vécu**, le gras un déclencheur spécifique de Discovery. Le mot-clé d'une rencontre est **indépendant** de l'issue d'une résolution ; des états ou bénéfices supplémentaires peuvent dépendre de l'issue.
+Contrat détaillé : [mots-clés et supports](mots-cles-et-supports.md). Un mot-clé de lore officiel est écrit en **MAJUSCULES** : par défaut sans marque, il est **entouré ou barré** selon le § vécu. La plupart ne seront qu'entourés. La rencontre reste acquise quelle que soit la résolution, mais la marque peut en exprimer l'issue. Les déclencheurs spécifiques à Discovery sont **en minuscules et en gras**, seulement cochés et généralement obtenus dans un seul §. Les noms de lore sont uniques et communs aux volumes ; ne pas multiplier les relations artificiellement.
 
 Cultes, Runes, cultures et Visions restent des identités, pas des mots-clés ; prodiges, grimoires, esprits et Compréhensions sont des capacités sur la feuille commune. Les états de visite peuvent demander des cases propres si un compteur est utile.
 

@@ -8,7 +8,7 @@ Découvrir Glorantha en jouant, sans meneur et sans calculs lourds. Le personnag
 
 Une résolution tranche **entre deux issues concrètes** de la fiction. L'issue favorable n'est pas nécessairement un succès absolu ; l'autre issue doit être intéressante, produire des conséquences, ouvrir un détour ou une découverte. **Aucune issue de résolution ne conduit à la mort du personnage.**
 
-Les **mots-clés de découvertes vécues** se cochent sur la liste du livre (MAJUSCULES : canon, gras : déclencheur Discovery), indépendamment de l'issue d'une résolution. Ils peuvent ouvrir des choix ; les Runes, cultes, cultures et Visions restent distincts. Les **Runes** peuvent influer sur la résolution, comme une découverte progressive de leurs significations possibles ; cette indication n'épuise jamais leur sens mythique.
+Les **noms du lore** figurent en MAJUSCULES : le joueur les entoure ou les barre selon la scène, sans perdre la rencontre vécue si la résolution est défavorable. Les déclencheurs de Discovery figurent en minuscules et en gras, avec une case à cocher. Ils peuvent ouvrir des choix ; les Runes, cultes, cultures et Visions restent distincts. Les **Runes** peuvent influer sur la résolution, comme une découverte progressive de leurs significations possibles ; cette indication n'épuise jamais leur sens mythique.
 
 ## Procédure commune
 
@@ -189,4 +189,4 @@ Le théisme limité à trois dés, la règle mystique C, les Compréhensions, l'
 
 ## Contrat éditorial commun
 
-Voir [les mots-clés et leurs acquisitions](mots-cles-et-supports.md). **La rencontre vécue est acquise quelle que soit l'issue du jet** ; une éventuelle coche supplémentaire de Discovery, capacité ou ressource dépend en revanche de la conséquence écrite. La difficulté et les probabilités ci-dessus ne sont pas modifiées par cette convention.
+Voir [les mots-clés et leurs acquisitions](mots-cles-et-supports.md). **La rencontre vécue demeure acquise quelle que soit l'issue du jet** : le § peut faire entourer ou barrer le nom de lore. Une éventuelle coche supplémentaire de Discovery, capacité ou ressource dépend de la conséquence écrite. Le nom de lore ne se dédouble pas pour représenter l'hostilité. La difficulté et les probabilités ci-dessus ne sont pas modifiées par cette convention.

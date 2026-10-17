@@ -40,7 +40,7 @@ Ces avantages ne sont **ni distribués à la création**, ni donnés automatique
 
 ## Les formes de progression
 
-- **Mots-clés de découverte vécue** : lieux réellement visités, rencontres, mythes entendus en scène, peuples rencontrés. Les majuscules désignent le canon gloranthien, le gras les déclencheurs de Discovery. Une mention ou rumeur ne donne rien ; le mot-clé est acquis indépendamment de l'issue d'une résolution.
+- **Mots-clés de découverte vécue** : lieux réellement visités, rencontres, mythes entendus en scène, peuples rencontrés. Les MAJUSCULES désignent le lore gloranthien : le nom est entouré ou barré selon l'issue décrite par la scène. Les déclencheurs de Discovery sont en minuscules et en gras et se cochent seulement. Une mention ou rumeur ne donne rien ; une résolution ne supprime pas la rencontre vécue.
 - **Relations et renommée** : accueil, obligations, alliances, inimitiés, réputation locale ou plus large. Ces états sont distincts des connaissances et peuvent changer avec les événements.
 - **Objets, ressources et équipements** : éléments possédés dont les effets sont circonstanciés et parfois reconnus par d'autres personnages.
 - **Prodiges, magie et relations spirituelles** : capacités acquises auprès d'un culte, d'une tradition, d'un esprit ou à travers une expérience. Elles comportent des modalités concrètes d'usage.
@@ -50,7 +50,7 @@ Ces avantages ne sont **ni distribués à la création**, ni donnés automatique
 
 ## Trois fonctions mécaniques distinctes
 
-1. **Mot-clé de rencontre vécue** : matérialise une expérience, et peut ouvrir des choix ou de nouvelles interprétations ; sa coche ne dépend jamais de la réussite d'un jet.
+1. **Nom de lore rencontré** : matérialise une expérience, normalement entourée, parfois barrée après une issue hostile ; le nom est unique dans tous les livres. Le jet ne supprime pas la rencontre, mais peut modifier sa marque.
 2. **Rune** : peut accorder **au plus +1 Réussite** ou imposer **au plus −1 Réussite** lorsqu'une résolution la déclare pertinente ; voir [résolution](resolution.md).
 3. **Prodige / objet extraordinaire / capacité** : crée une **exception spécifique**, décrite dans le texte de jeu. Elle peut permettre un acte autrement inaccessible, ouvrir un renvoi, neutraliser un obstacle, ou obtenir une issue favorable selon des conditions définies.
 
@@ -240,4 +240,4 @@ La [feuille universelle](personnage-et-calendrier.md) porte l'année, la périod
 
 Une initiation envisagée coûte **huit coches** (une saison), donne une possibilité de remplacement de Rune et un mythe avec son § de référence ; les critères d'accès aux cultes et les épreuves de rupture demandent encore à être joués et vérifiés. Les voyages distants qui le précisent coûtent eux aussi huit coches et conservent la position dans la période.
 
-Les découvertes canon/Discovery sont cochées sur le verso des cartes de volumes selon [le contrat des mots-clés](mots-cles-et-supports.md). Une scène avec résolution donne toujours sa connaissance vécue ; seules certaines conséquences conditionnelles fournissent de nouveaux états ou pouvoirs.
+Sur le verso des cartes, les noms de lore sont entourés ou barrés directement et les déclencheurs en minuscules/gras sont cochés, selon [le contrat des mots-clés](mots-cles-et-supports.md). Une scène conserve la rencontre vécue ; certaines issues conditionnelles changent la marque de lore ou accordent un pouvoir.

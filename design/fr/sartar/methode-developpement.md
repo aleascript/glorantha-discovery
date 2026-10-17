@@ -150,8 +150,8 @@ Une cellule est suffisamment mûre lorsque le joueur peut :
 
 C'est ce dernier point qui transforme un gazetteer en livre-jeu ouvert.
 
-## 10. Contrat nouveau : découverte vécue et supports
+## 12. Contrat typographique : découverte vécue et supports
 
-Appliquer désormais [le contrat typographique et ludique des mots-clés](../mots-cles-et-supports.md) : un nom officiel en MAJUSCULES ou un déclencheur Discovery en gras dans le **corps d'une scène vécue** devient une coche de la liste du livre. Une simple mention en casse normale n'est pas un acquis. Un jet n'enlève jamais le mot-clé de la rencontre ; il peut seulement conditionner des coches supplémentaires. Écrire **une rencontre distincte par § de trajet** et y faire cocher une case de calendrier à l'arrivée effective.
+Appliquer désormais [le contrat typographique et ludique des mots-clés](../mots-cles-et-supports.md) : un nom de lore en MAJUSCULES est **entouré ou barré** selon la scène vécue ; le nom est unique à travers les livres. Un déclencheur **en minuscules et en gras** est une simple case à cocher, généralement donnée dans un seul §. Une mention en casse normale n'est pas un acquis ; une résolution ne supprime pas la rencontre, mais peut conditionner sa marque et les déclencheurs. Écrire **une rencontre distincte par § de trajet** et y faire cocher une case de calendrier à l'arrivée effective.
 
 La [roadmap des livres](../roadmap-livres.md) et la [feuille universelle](../personnage-et-calendrier.md) déterminent les contrats intervolumes. Sélectionner les quelques découvertes les plus marquantes, sans prétendre épuiser le lore.

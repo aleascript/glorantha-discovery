@@ -19,7 +19,7 @@ Le but n'est **pas** de produire quatre récompenses à chaque réussite, mais d
 1. Écrire d'abord la **situation commune**, la **difficulté** et ses Runes favorables/défavorables, puis les **deux issues** et leurs conséquences intéressantes pour **tous**.
 2. Rechercher ensuite les **opportunités thématiques** qui méritent un § spécialisé, **sans quota par Vision**. La voie supplémentaire ne doit pas rendre les autres issues stériles.
 3. N'ouvrir chaque § spécialisé qu'à partir d'une **condition vérifiable** par le joueur : Vision, mémoire, Rune, saison, ressource possédée, état d'une coche, etc. Ne pas demander à une IA/MJ d'interpréter une condition implicite.
-4. Chaque conséquence doit annoncer clairement **l'acquis exact** : une **mémoire** (connaissance), un **mot-clé d'état**, un **objet** (grimoire), un **esprit lié**, un **prodige**, une **nouvelle Rune**, etc. Ces catégories ne sont **pas interchangeables**.
+4. Chaque conséquence doit annoncer clairement **l'acquis exact** : une **mémoire** (connaissance), un **déclencheur local en minuscules et en gras**, un **objet** (grimoire), un **esprit lié**, un **prodige**, une **nouvelle Rune**, etc. Ces catégories ne sont **pas interchangeables**.
 5. Éviter les ré-acquisitions absurdes : si la scène délivre une capacité ou un objet unique, prévoir une **condition de déjà-acquis**, ou une **coche de paragraphe** ; les allers-retours ne doivent pas fabriquer des grimoires ou des esprits à l'infini.
 6. Rédiger le chemin de **retour vers le lieu**, et veiller aux deux issues de résolution ainsi qu'à la persistance du personnage d'un livre à l'autre.
 
@@ -101,4 +101,4 @@ Pour chaque renvoi spécialisé, demander :
 
 ## Règle désormais prioritaire pour tous les exemples
 
-Les anciennes appellations de « mémoire » ne constituent plus des identifiants à recopier sur la feuille. Toute proposition de § futur doit respecter le [contrat d'acquisition vécue](mots-cles-et-supports.md) : un mot en MAJUSCULES dans la scène donne une connaissance de Glorantha, le gras un état Discovery ; une résolution ne conditionne que les conséquences supplémentaires, **jamais** le mot-clé de la rencontre.
+Les anciennes appellations de « mémoire » ne constituent plus des identifiants à recopier sur la feuille. Toute proposition de § futur doit respecter le [contrat d'acquisition vécue](mots-cles-et-supports.md) : un mot en MAJUSCULES dans la scène donne une connaissance de Glorantha, le gras un état Discovery ; une résolution ne supprime pas la rencontre vécue, mais peut déterminer si le nom de lore est entouré ou barré. Les déclencheurs locaux en minuscules/gras ne sont que cochés.

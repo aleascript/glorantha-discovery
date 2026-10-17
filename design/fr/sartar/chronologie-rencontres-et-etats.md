@@ -23,13 +23,13 @@ Les huit cases peuvent être réutilisées au crayon ; l'année et la saison son
 
 Chaque § de trajet est bidirectionnel et contient sa propre rencontre : §600 Sora Goodseller, §069 marchand observant Issaries, §190 Durulz près des eaux. **Ancien §129 commun retiré** ; numéro réservé sans réutilisation.
 
-La rencontre effectivement vécue donne son **mot-clé canonique**, quel que soit le résultat de la résolution éventuelle. Une coche spécifique à Discovery peut dépendre de cette issue : §190 DURULZ acquis dans les deux cas ; **Conseil-du-marais** uniquement si l'issue favorable est obtenue. Ne pas confondre ces mots-clés, les compteurs de visites et les cases calendaires.
+La rencontre réellement vécue permet de **marquer le nom de lore en MAJUSCULES** : normalement l'entourer, exceptionnellement le barrer si le § établit une hostilité durable. L'issue de la résolution peut déterminer la marque sans annuler l'expérience. Un déclencheur **en minuscules et en gras** peut dépendre de l'issue : §190 DURULZ est entouré dans les deux cas ; **conseil-du-marais** n'est coché qu'après une issue favorable. Les cases de calendrier restent distinctes.
 
-Les lieux de Jonstown, Boldhome, Wilmskirk et Duck Point donnent leur mot-clé à l'**arrivée vécue**, pas lorsque le §001 les cite comme destinations.
+Les lieux de Jonstown, Boldhome, Wilmskirk et Duck Point permettent **d'entourer leur nom** à l'arrivée vécue, pas lorsque le §001 les cite comme destinations.
 
 ## Registres éditoriaux nécessaires
 
-Pour chaque PNJ : source canonique, lieu/date, dialogue ou situation inventée par Discovery, déclencheur de première rencontre, effet d'une revisite. Pour chaque site : acquisition en MAJUSCULES ou gras, éventuelle résolution et seconde coche conditionnelle, retour et reconnaissance future.
+Pour chaque PNJ : source canonique, lieu/date, dialogue ou situation inventée par Discovery, déclencheur de première rencontre, effet d'une revisite. Pour chaque site : nom de lore en MAJUSCULES (entouré/barré selon le §) ou déclencheur local en minuscules gras (coché), éventuelle résolution et conséquence conditionnelle, retour et reconnaissance future.
 
 Les sources canoniques précisent l'existence et la situation des éléments ; le choix d'événement, la difficulté, le calendrier de 48 coches et les effets de mots-clés sont des règles de Discovery, pas du canon.
 

@@ -27,7 +27,7 @@ Les différences d'équipement ne doivent pas systématiquement se convertir en 
 
 | Vision | Avantage spécifique à découvrir dans Discovery | Moteur d'aventure |
 | --- | --- | --- |
-| **Mysticisme** | **Aucun pouvoir supplémentaire spécifique à cette Vision.** Les mémoires, rencontres, objets génériques et découvertes du monde restent accessibles. | Exploration et adéquation aux épreuves grâce à son fonctionnement initial |
+| **Mysticisme** | **Compréhensions** acquises dans des rencontres ou aventures mystiques, portant sur la dualité de deux Runes. La difficulté baisse de 1 lorsque ces Runes s'opposent explicitement ; D0 = issue favorable automatique. **Pas de prodiges, grimoires ou esprits additionnels propres à la Vision.** | Découverte de traditions mystiques étrangères, mots-clés d'ouverture vers d'autres lieux et acquisition de Compréhensions situées |
 | **Théisme** | **Prodiges** situés, utilisables **une fois par saison ou une fois par année** selon le prodige | Mythes, cultes, sanctuaires, initiations, rites, quêtes |
 | **Animisme** | **Esprits liés** qui prêtent une Rune favorable puis **s'en vont** ; accès ultérieur au **chamanisme**, qui permet de conserver les liens après utilisation | Rencontre et négociation avec les esprits, obligations, lieux habités, initiation chamanique |
 | **Logique** | **Grimoires** donnant accès à l'appui d'une Rune tant qu'ils restent transportés et accessibles | Bibliothèques, maîtres, apprentissages, manuscrits, quête et conservation de textes |
@@ -36,7 +36,7 @@ Ces avantages ne sont **ni distribués à la création**, ni donnés automatique
 
 **Contrat des Runes prêtées :** un grimoire ou un esprit rend une Rune **disponible pour les résolutions où l'auteur la déclare favorable**. La Rune personnelle n'est pas modifiée et le plafond commun reste **+1 favorable / −1 défavorable**. L'Illumination, décrite plus loin, constitue une exception très précise au traitement des malus.
 
-**Différence fondamentale :** le mystique n'a **aucune voie de bonus magique exclusive** ajoutée pour compenser les autres Visions ; ce n'est pas une interdiction d'apprendre, de voyager, de recevoir des objets, d'acquérir une mémoire ou d'être illuminé.
+**Différence fondamentale :** le mystique ne gagne ni sort, ni esprit consommable, ni prodige propre à sa Vision, mais peut gagner des **Compréhensions** en explorant. Leur déclenchement est **très ciblé**, car les résolutions opposant explicitement une Rune favorable et une Rune défavorable sont rares. Ce n'est pas une interdiction de découvrir d'autres aspects de Glorantha.
 
 ## Les formes de progression
 
@@ -86,22 +86,27 @@ Par exemple, certains prodiges pourraient traverser un « tabou » runique, tand
 
 La **Vision** règle la lecture ordinaire des dés (théisme, animisme, logique, mysticisme). Un **culte** ou une tradition peut donner accès à des prodiges précis, à des obligations, à des connaissances ou à des tabous : ne pas confondre les deux couches.
 
-À développer sous leurs formes retenues : **prodiges théistes**, **esprits animistes**, **grimoires logiques**. Le mysticisme n'ajoute **aucun système de pouvoir propre**. **L'Illumination n'accorde qu'une seule exception mécanique : ignorer le malus runique**, indépendamment de la Vision. La diversité doit se voir dans les **possibilités de fiction**, sans sous-systèmes de calcul.
+À développer sous leurs formes retenues : **prodiges théistes**, **esprits animistes**, **grimoires logiques**. Le mysticisme apporte des **Compréhensions** qui réduisent certaines difficultés d'oppositions runiques, **sans collection de capacités consommables**. **L'Illumination n'accorde qu'une seule exception mécanique : ignorer le malus runique**, indépendamment de la Vision. La diversité doit se voir dans les **possibilités de fiction**, sans sous-systèmes de calcul.
 
 **Cadre Sartar 1620–1621 :** vérifier chaque capacité et son attribution à une tradition dans les sources avant de l'intégrer comme fait du monde. Les exemples inventés restent explicitement des expériences de design.
 
-### Mysticisme de base et Illumination — règle retenue
+### Mysticisme, Compréhensions et Illumination — principes retenus
 
-**Mysticisme** : la Vision utilise la **correspondance avec la difficulté initiale** (pairs = Réussites ; au moins un dé égal à la difficulté = **+1 Réussite une seule fois**). La **Kralorela** reste une référence culturelle pour la conception. Le mysticisme **ne reçoit aucun prodige ou autre capacité additionnelle du seul fait de cette Vision**.
+**Mysticisme de base :** compter les dés pairs et ajouter **+1 Réussite une seule fois** si au moins un dé correspond à la difficulté **initiale**. Avec cette Vision, **aucun malus runique −1 ne s'applique**, même si la Rune défavorable reste inscrite dans les conditions d'une scène. La **Kralorela** reste une référence culturelle pertinente à documenter.
 
-**Illumination — effet mécanique unique et décidé pour Discovery :** **ignorer le malus runique −1**, lorsqu'un paragraphe prévoit une ou plusieurs Runes défavorables. **Aucun autre avantage mécanique.** En particulier :
+**Progression mystique :** découvrir des traditions mystiques (Lune Blanche, Lune Bleue, Dayzatar, etc.) et acquérir des **mémoires / mots-clés de découverte** permet d'ouvrir de nouveaux renvois et des aventures dans d'autres régions, sans définir de quête principale. Une expérience exceptionnelle peut accorder une **Compréhension**, c'est-à-dire une **dualité de deux Runes** notée sur la feuille de personnage.
 
-- Elle **ne modifie pas la Vision du monde du personnage**, ni sa façon de lire les dés : un logicien illuminé reste logicien, un animiste illuminé reste animiste, etc.
-- Elle **ne donne ni +1 supplémentaire, ni dé supplémentaire, ni relance, ni réussite automatique, ni Rune temporaire ou permanente**.
-- Le **+1 runique favorable** reste soumis aux règles habituelles. Si +1 favorable et −1 défavorable étaient présents, le personnage non illuminé aurait un modificateur net de **0** ; l'illuminé conserve **+1** en ignorant le −1.
-- S'il n'y a **aucune Rune favorable** sur une épreuve D3, l'Illumination seule ne rend **pas** possible l'issue favorable : elle annule une contrainte, elle ne crée pas une réussite.
+**Activation très ciblée :** lorsqu'une résolution désigne **l'une des deux Runes comme favorable** et **l'autre comme défavorable** (dans un sens ou dans l'autre), la Compréhension **réduit la difficulté de 1**. Il n'est pas nécessaire que le malus runique soit réellement appliqué : c'est l'**opposition écrite dans le paragraphe** qui déclenche la Compréhension. La difficulté **initiale** sert toujours à identifier la face spéciale de la règle mystique. Si la difficulté tombe à **0, l'issue favorable est automatique, sans jeter les dés**.
 
-L'Illumination est donc un **état acquis potentiellement par des personnages de différentes Visions**, sans changer leur Vision. Les conditions d'accès à cet état, les conséquences sociales ou religieuses et le traitement fictionnel des traditions illuminées restent à documenter dans le **canon gloranthien** ; la règle mécanique ci-dessus appartient spécifiquement à **Discovery**.
+**Compréhension personnelle après rencontre avec un Illuminé :** quand un mystique **rencontre effectivement un personnage Illuminé** (par exemple d'une tradition **arkatie** ou **lunaire**), il reçoit une **Compréhension personnelle** : **le joueur choisit librement deux Runes distinctes** constituant sa nouvelle dualité, puis les note. Cette découverte est liée à une **rencontre effective**, non aux retours techniques dans le même § ; éviter qu'une même rencontre répétée artificiellement fournisse une infinité de Compréhensions. **Rencontrer un Illuminé n'illumine pas automatiquement le mystique lui-même** : il reçoit la Compréhension, pas le statut.
+
+**Illumination — seul effet mécanique :** **ignorer le −1 runique défavorable**, pour **n'importe quelle Vision**, sans modifier sa manière de lire les 3D6, sans bonus supplémentaire. Pour un mystique, cet effet est **redondant** avec sa Vision de base ; devenir illuminé n'apporte donc **aucun avantage numérique supplémentaire**. L'Illumination ne confère pas à elle seule de Compréhension ; celle-ci résulte de la **rencontre entre un mystique et un Illuminé**, selon le principe ci-dessus.
+
+**Rareté plutôt qu'inflation de puissance :** les Compréhensions ne modifient **pas** tous les jets, ni toutes les situations impliquant l'une de leurs Runes. Leur domaine reste restreint aux **oppositions favorables/défavorables**, et les malus runiques sont destinés à être plus rares que les bonus. On ne cherche pas à construire une nouvelle économie d'acquisition de pouvoirs ; la **rareté du déclencheur** est un choix éditorial qui doit être maintenu pendant la rédaction des §. Un cumul de plusieurs Compréhensions sur une même résolution est **déconseillé pour le prototype** et reste à éprouver.
+
+**Équilibre conditionnel, sans bonus favorable** : D1 avec Compréhension = **100 %** (D0), D2 = **62,50 %** et D3 = **25 %**. Avec +1 favorable : D1 = **100 %**, D2 = **87,50 %**, D3 = **70,83 %**. Ces statistiques ne concernent **que** les épreuves dont l'opposition correspond à une Compréhension acquise : voir [résolution](resolution.md).
+
+**Lore et design :** les noms et traditions cités sont des **pistes de rencontres** fondées sur le monde de Glorantha ; l'effet mécanique d'une Compréhension, son acquisition libre lors de la rencontre d'un Illuminé et l'immunité mystique aux malus runiques sont **des conventions propres à Discovery**, à ne pas attribuer comme tels aux suppléments. Une rencontre ne constitue **pas** nécessairement une initiation à l'Illumination.
 
 ### Difficulté 3, tabou et transformation runique
 
@@ -164,7 +169,7 @@ Les deux Visions ne doivent **pas** recevoir exactement les mêmes capacités re
 
 **Relancer une résolution entière** : après avoir obtenu l'issue défavorable, lancer à nouveau les **mêmes 3D6**, relire selon sa Vision, puis conserver obligatoirement **le second résultat**. Le pouvoir indique sa fréquence ou sa consommation. Cette possibilité ne modifie **pas** l'accessibilité d'une D3 si le bonus runique net reste nul ou négatif.
 
-**Accéder à l'appui d'une Rune** : un grimoire porté ou un esprit lié peut accorder un **appui runique situé**, qui compte comme l'une des Runes favorables explicitement prévues par **ce paragraphe de résolution**, sans changer les Runes permanentes du personnage. **Au plus +1 runique favorable** au total, quel que soit le nombre d'appuis. Une opposition runique −1 déjà présente continue de s'appliquer ; le simple appui +1 ne suffit donc pas à réussir D3 si les deux s'annulent. Dans la mécanique retenue à ce stade, **l'Illumination seule permet d'ignorer le malus runique −1** ; un esprit ou un grimoire ne donne pas cet effet par défaut.
+**Accéder à l'appui d'une Rune** : un grimoire porté ou un esprit lié peut accorder un **appui runique situé**, qui compte comme l'une des Runes favorables explicitement prévues par **ce paragraphe de résolution**, sans changer les Runes permanentes du personnage. **Au plus +1 runique favorable** au total, quel que soit le nombre d'appuis. Une opposition runique −1 déjà présente continue de s'appliquer ; le simple appui +1 ne suffit donc pas à réussir D3 si les deux s'annulent. Dans la mécanique retenue, **le mystique ignore déjà le −1 runique par sa Vision**, et **l'Illumination** procure indépendamment le même effet à une autre Vision. Un esprit ou un grimoire ne donne pas cet effet par défaut.
 
 **Ouvrir un choix ou éviter un jet** : la magie peut autoriser l'accès à un paragraphe inédit, une conversation, une traversée ou une issue favorable contextualisée, plutôt que toujours modifier les probabilités.
 

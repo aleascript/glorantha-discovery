@@ -1,6 +1,6 @@
 # Glorantha Discovery — Résolution (proposition v0.1)
 
-> **Statut :** hypothèse de design validée pour expérimentation ; mysticisme C adopté comme base de travail, Illumination à étudier, non règle définitive ni reproduction intégrale de Glorantha Perspectives (GP). Ce document est interne au dossier `design/` et ne figure pas dans les paragraphes jouables.
+> **Statut :** candidat v0.2 pour expérimentation : **aucun dé supplémentaire**, théisme limité aux trois dés présents, difficultés 3 runiques, rejouabilité et transformation runique à prototyper. Mysticisme C retenu comme base de travail ; Illumination à étudier., non règle définitive ni reproduction intégrale de Glorantha Perspectives (GP). Ce document est interne au dossier `design/` et ne figure pas dans les paragraphes jouables.
 
 ## Intention
 
@@ -22,14 +22,15 @@ Cette procédure évite de lister toutes les cultures, cultes et mémoires de to
 
 ## Quatre lectures candidates des 3D6
 
-### Théisme — prolonger par le 6
+### Théisme — relancer sans ajouter de dés (candidat v0.2)
 
 - Chaque **dé pair** donne **1 Réussite**.
-- Chaque **6** permet de **relancer un dé impair**. Si aucun impair ne reste, il fait **apparaître un nouveau dé**.
-- Un **nouveau 6** peut provoquer à son tour une relance.
-- Un dé relancé **remplace** son ancienne face. Un 6 est traité une seule fois pour son effet de relance.
+- Chaque **6** permet de **relancer un dé impair encore présent**. Le résultat remplace la face de ce dé ; **on n'ajoute jamais de dé**.
+- Si **aucun impair** n'est présent, l'effet du 6 est perdu.
+- Un **nouveau 6** obtenu par relance peut à son tour déclencher une relance d'un impair. Chaque occurrence de 6 est utilisée une seule fois.
+- À tout moment, seuls les **trois dés de départ** sont présents et comptabilisés ; leur nombre de relances n'est pas plafonné explicitement (à clarifier si l'objectif devient de limiter aussi le **nombre de lancers**, pas seulement celui de dés simultanés).
 
-**Image de jeu :** le geste du personnage rencontre une continuité divine ; l'extraordinaire peut surgir au-delà des trois dés de départ.
+**Image de jeu :** la faveur divine permet de reprendre ce qui est encore incertain, sans créer de quatrième dé. À **D3 sans +1 runique net**, l'issue favorable est impossible dans la résolution ordinaire.
 
 ### Animisme — reconnaître les pactes
 
@@ -75,7 +76,7 @@ L'**Illumination** n'est pas, par définition, la lecture ordinaire des dés mys
 | --- | --- | --- |
 | **1 — Ordinaire** | Généralement abordable ; une Rune favorable rend l'issue favorable presque certaine | Selon la Vision, ~56–71 % |
 | **2 — Difficile** | Véritable incertitude ; l'appui d'une Rune change sensiblement l'issue | Selon la Vision, ~9–33 % |
-| **3 — Exceptionnelle** | Dépassement rare ou besoin d'une Rune favorable ; certains personnages peuvent être bloqués | 0–8 % selon la Vision |
+| **3 — Runique / exceptionnelle** | Nécessite un **+1 runique net** ou une exception explicite (prodige, quête, issue alternative). Une nouvelle tentative exige des conditions écrites ; ne doit jamais être un verrou définitif accidentel | **0 % pour toutes les Visions ordinaires**, sans bonus |
 
 **Pas de difficulté 4** dans le système ordinaire de ce prototype. « Ordinaire » décrit le *palier de conception*, pas une chance automatique de réussite.
 
@@ -83,21 +84,37 @@ L'**Illumination** n'est pas, par définition, la lecture ordinaire des dés mys
 
 - Au plus **+1** pour une ou plusieurs Runes favorables ; au plus **−1** pour une ou plusieurs Runes défavorables. Aucun cumul au-delà de ces plafonds.
 - Un bonus et un malus **s'annulent** : +1 −1 = 0.
-- Une difficulté 3 **sans avantage** est inaccessible à l'animiste et au logicien ordinaires à 3D ; elle reste accessible, rarement, au théiste ; le mystique de base C exige un +1 runique favorable.
-- Une difficulté 3 **avec −1 non compensé** est un **tabou de fait** pour l'animiste et le logicien à 3D : leurs trois Réussites maximales ne peuvent pas dépasser le seuil après pénalité. **C'est permis si c'est voulu** : les auteurs doivent le signaler dans leur préparation et ne pas en faire un verrou involontaire de l'exploration.
-- À difficulté 1 ou 2, un malus peut être compensé par un bonus runique. Attention : à difficulté 2, un malus non compensé empêche déjà l'animiste et le logicien ordinaires à 3D d'obtenir l'issue favorable.
-- À difficulté 3, le mystique C ne peut pas obtenir l'issue favorable avec son seul tirage de base ; avec **+1 runique net**, elle devient accessible (**25 %**). Le théiste peut dépasser le cadre par ses relances, y compris face à certains malus.
+- **Difficulté 3 = épreuve runique** : avec les trois dés de base et sans capacité exceptionnelle, **aucune Vision** ne peut strictement dépasser 3 Réussites finales sans **+1 runique net**. Un bonus et un malus runiques simultanés se neutralisent ; ils ne permettent pas de réussir D3.
+- Une difficulté 3 **avec −1 non compensé** est un **tabou mécanique** pour toutes les Visions de base. Il ne doit pas condamner définitivement un personnage : rechercher une voie de transformation, une autre Rune pertinente ou un itinéraire narratif différent. Un malus runique n'est pas automatiquement un interdit absolu sur **tous** les autres niveaux de difficulté.
+- À difficulté 1 ou 2, un malus peut être compensé par un bonus runique. Attention : à **D2 avec −1 non compensé**, l'animiste, le logicien et désormais le théiste limité ne peuvent pas obtenir l'issue favorable ; le mystique C conserve une petite possibilité (**19/216 ≈ 8,80 %**) grâce à ses **4 Réussites possibles à D2**.
+- À D3 avec **+1 runique net**, les chances sont **25 % (théisme)**, **12,50 % (animisme)**, **9,26 % (logique)** et **25 % (mysticisme C)**. Ce n'est pas un accès garanti : prévoir des conséquences intéressantes, des alternatives et des conditions de nouvelle tentative.
 - Ce qui est **inaccessible par cette résolution** n'interdit pas forcément une autre route, une autre conversation ou un autre apprentissage.
+
+### Rejouer une épreuve D3 sans banaliser son enjeu
+
+**Principe éditorial proposé :** ne jamais poser une réussite D3 comme **unique passage indispensable** à la progression. Si le joueur peut retenter, la condition doit être annoncée (par exemple **à partir de la saison suivante**, après un rite, une rencontre, une mémoire ou un changement d'affiliation). Une nouvelle tentative n'est **pas** un simple « relancez immédiatement » ; elle correspond à un retour dans un contexte transformé.
+
+Une épreuve D3 réussie ouvre une possibilité forte. Son issue défavorable doit elle aussi ouvrir une voie intéressante, sans mort du personnage ni blocage définitif. Les voyages qui font passer les saisons sont de **vrais trajets** et le calendrier reste **conventionnel**, non une mesure de journées écoulées.
+
+**Attention aux probabilités :** même avec +1, une chance de 9,26 % pour le logicien signifie qu'un nouveau jet la saison suivante est loin de garantir le progrès. Prévoir, selon la scène, une autre voie de découverte ou une possibilité d'acquérir un avantage déterminant plutôt que de seulement répéter le hasard.
+
+### Runes, tabous et transformations
+
+**Hypothèse à explorer :** certains tabous runiques peuvent être remis en cause par une **initiation**, un **sacrifice**, un **rite**, une **Quête Héroïque** ou une transformation de l'appartenance cultuelle. Le prix doit se sentir dans la fiction : nouvelles obligations, renoncement, rupture d'alliance, changement de statut ou d'identité. Ne pas traiter l'échange de Rune comme un achat banal ou une simple optimisation des jets.
+
+**Appui canonique explicite :** *HeroQuest — Sartar: Kingdom of Heroes*, p. 73, sections **« How Do I Get New Runes? »** et **« Switching Runes »**, indique que des Runes peuvent être obtenues par des rites spéciaux ou des quêtes héroïques, et que certains cultes conduisent à échanger des affinités runiques (exemple de Heler : Air/Eau). **Cela n'établit pas** que n'importe quel personnage peut abandonner librement n'importe quelle Rune : les possibilités devront être situées dans les cultes et contextes documentés.
+
+**Question de conception :** garder la distinction entre **un malus mécanique** dans une résolution, un **tabou fictionnel** documenté, et une **impossibilité** explicitement décrite. Les trois ne sont pas systématiquement identiques.
 
 ## Statistiques exactes — trois dés initiaux
 
-Probabilités d'obtenir **strictement plus** de Réussites que la difficulté. Sans modificateurs de situation autres que le bonus runique indiqué. Pour Animisme, Logique et Mysticisme : énumération exhaustive des **216 tirages ordonnés** de 3D6. Pour Théisme : calcul des chaînes de relances, y compris les nouveaux dés créés par les 6.
+Probabilités d'obtenir **strictement plus** de Réussites que la difficulté. Sans modificateurs de situation autres que le bonus runique indiqué. Pour Animisme, Logique et Mysticisme : énumération exhaustive des **216 tirages ordonnés** de 3D6. Pour Théisme : calcul exact des chaînes de relances **sans ajout de dés**, y compris les 6 nouvellement obtenus. Les trois dés initiaux sont les seuls emplacements disponibles.
 
 ### Sans bonus runique
 
 | Vision | Difficulté 1 | Difficulté 2 | Difficulté 3 |
 | --- | ---: | ---: | ---: |
-| **Théisme** | **56,25 %** | **25,00 %** | **8,22 %** |
+| **Théisme limité** | **56,25 %** | **25,00 %** | **0,00 %** |
 | **Animisme** | **62,50 %** | **12,50 %** | **0,00 %** |
 | **Logique (÷5)** | **62,50 %** | **9,26 %** | **0,00 %** |
 | **Mysticisme C** | **70,83 %** | **33,33 %** | **0,00 %** |
@@ -106,12 +123,12 @@ Probabilités d'obtenir **strictement plus** de Réussites que la difficulté. S
 
 | Vision | Difficulté 1 | Difficulté 2 | Difficulté 3 |
 | --- | ---: | ---: | ---: |
-| **Théisme** | **87,50 %** | **56,25 %** | **25,00 %** |
+| **Théisme limité** | **87,50 %** | **56,25 %** | **25,00 %** |
 | **Animisme** | **97,22 %** | **62,50 %** | **12,50 %** |
 | **Logique (÷5)** | **98,15 %** | **62,50 %** | **9,26 %** |
 | **Mysticisme C** | **96,30 %** | **62,50 %** | **25,00 %** |
 
-**Lecture :** le théiste est seul à pouvoir dépasser librement trois Réussites grâce à des relances potentiellement prolongées. Le mystique C peut atteindre **4 Réussites** avec un tirage de 3D6 à **D2**, mais seulement **3 à D1 ou D3** : à D3, il lui faut donc un **+1 runique net** pour franchir le seuil. L'animisme et la logique ne dépassent pas trois Réussites avec 3D6. Les Visions ne sont **pas des niveaux de puissance** ; leurs asymétries sont assumées et à tester dans de vraies scènes.
+**Lecture :** toutes les Visions de base sont **incapables de réussir D3 sans +1 runique net**. Le théisme limité peut obtenir trois Réussites mais plus quatre ou davantage. Le mystique C peut obtenir **4 Réussites à D2** mais seulement **3 à D3** : il satisfait donc lui aussi la condition D3 runique. Les Visions ne sont **pas des niveaux de puissance** ; leurs asymétries sont assumées et à tester dans de vraies scènes.
 
 Ces chiffres portent sur les **seuils**, pas seulement sur les moyennes ; des espérances proches peuvent masquer des chances très différentes d'obtenir 3 ou 4 Réussites.
 
@@ -122,7 +139,7 @@ Ces chiffres portent sur les **seuils**, pas seulement sur les moyennes ; des es
 - **Sans rune**, mysticisme C : D1 **153/216**, D2 **72/216**, D3 **0/216**. **Avec +1**, D1 **208/216**, D2 **135/216**, D3 **54/216**.
 - Les statistiques supposent le **même nombre initial de dés (3)** pour les quatre Visions et des modificateurs ajoutés **après** la lecture du tirage.
 - Les capacités gagnées ultérieurement (par exemple un dé supplémentaire après une quête héroïque) modifieront ces statistiques et devront être étudiées séparément.
-- La probabilité des chaînes théistes est calculée en comptant chaque 6 initial ou nouvellement obtenu comme une occasion de relance unique ; elle est compatible avec la règle de base citée dans GP. La comparaison aux **moyennes historiques** GP mérite une vérification dédiée si des effets ou conventions supplémentaires s'y appliquent.
+- Pour le théisme limité, la distribution exacte du nombre de Réussites est : **0 : 1/8 ; 1 : 5/16 ; 2 : 5/16 ; 3 : 1/4**. La possibilité de produire **un dé supplémentaire**, existant dans la version antérieure inspirée de GP, est **supprimée pour Discovery**. Seule la probabilité de réussir **D3 sans bonus** change dans les deux tableaux de référence (anciennement 8,22 %, désormais 0 %).
 - Il faudra tester des résolutions **sociales, physiques, religieuses et de voyage** ainsi que la qualité des conséquences défavorables. Une issue défavorable **n'est jamais la mort** et ne doit pas systématiquement être une impasse.
 - Un paragraphe de voyage conserve son **numéro de retour** ; les événements propres au trajet pourront mener ailleurs, sans renvoi automatique forcé.
 
@@ -143,4 +160,4 @@ Cet exemple est une **forme éditoriale**, pas une affirmation canonique sur les
 - [Logique](https://github.com/aleascript/glorantha-perspectives/blob/main/docs/fr/perspectives/logic/index.md)
 - [Mysticisme](https://github.com/aleascript/glorantha-perspectives/blob/main/docs/fr/perspectives/mysticism/index.md)
 
-La règle mystique C, l'hypothèse d'Illumination et les difficultés fixes **sont des choix propres à Discovery**, distincts du mécanisme de confrontation entre tirages de GP.
+Le théisme limité à trois dés, la règle mystique C, l'hypothèse d'Illumination, la difficulté 3 runique et la rejouabilité conditionnelle **sont des choix propres à Discovery**, distincts du mécanisme de confrontation entre tirages de GP.

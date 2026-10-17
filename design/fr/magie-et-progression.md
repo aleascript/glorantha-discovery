@@ -164,7 +164,7 @@ Les deux Visions ne doivent **pas** recevoir exactement les mêmes capacités re
 
 **Relancer une résolution entière** : après avoir obtenu l'issue défavorable, lancer à nouveau les **mêmes 3D6**, relire selon sa Vision, puis conserver obligatoirement **le second résultat**. Le pouvoir indique sa fréquence ou sa consommation. Cette possibilité ne modifie **pas** l'accessibilité d'une D3 si le bonus runique net reste nul ou négatif.
 
-**Accéder à l'appui d'une Rune** : un grimoire porté ou un esprit lié peut accorder un **appui runique situé**, qui compte comme l'une des Runes favorables explicitement prévues par **ce paragraphe de résolution**, sans changer les Runes permanentes du personnage. **Au plus +1 runique favorable** au total, quel que soit le nombre d'appuis. Une opposition runique −1 déjà présente continue de s'appliquer ; le simple appui +1 ne suffit donc pas à réussir D3 si les deux s'annulent. Un effet neutralisant spécifiquement un malus relève d'une capacité **différente**, à écrire explicitement.
+**Accéder à l'appui d'une Rune** : un grimoire porté ou un esprit lié peut accorder un **appui runique situé**, qui compte comme l'une des Runes favorables explicitement prévues par **ce paragraphe de résolution**, sans changer les Runes permanentes du personnage. **Au plus +1 runique favorable** au total, quel que soit le nombre d'appuis. Une opposition runique −1 déjà présente continue de s'appliquer ; le simple appui +1 ne suffit donc pas à réussir D3 si les deux s'annulent. Dans la mécanique retenue à ce stade, **l'Illumination seule permet d'ignorer le malus runique −1** ; un esprit ou un grimoire ne donne pas cet effet par défaut.
 
 **Ouvrir un choix ou éviter un jet** : la magie peut autoriser l'accès à un paragraphe inédit, une conversation, une traversée ou une issue favorable contextualisée, plutôt que toujours modifier les probabilités.
 
@@ -221,6 +221,8 @@ Tester une même rencontre avec un personnage possédant seulement 3D, un person
 Tester aussi un objet remarquable et une relation de renommée qui ouvrent des alternatives **sans aucun bonus numérique**, ainsi qu'une première transformation exceptionnelle dont les conséquences justifient sa rareté.
 
 ## Documents liés
+
+- [Écriture des paragraphes — conséquences propres aux Visions et exemple de Jonstown](paragraphes-et-consequences.md)
 
 - [Résolution — quatre Visions, difficultés et statistiques](resolution.md)
 - [Architecture du livre-jeu](architecture.md)

@@ -1,6 +1,6 @@
 # Magie, équipement et progression — pistes de design
 
-> **Statut :** note de conception, non règles définitives. À expérimenter après le premier prototype de résolution. Cette page relève de `design/` : elle ne doit pas apparaître dans la navigation du livre-jeu.
+> **Statut :** quatre voies de progression différenciées et Illumination fixées comme **principes de travail** ; leurs déclencheurs précis restent à prototyper. Les exemples sont des propositions de Discovery, non des règles canoniques. Cette page relève de `design/` : elle ne doit pas apparaître dans la navigation du livre-jeu.
 
 ## Intention
 
@@ -20,6 +20,23 @@ Un personnage issu de Sartar peut explorer Prax et inversement : ses connaissanc
 | « Comment progresse mon personnage ? » | Il apprend, rencontre, noue des relations, obtient des objets, révèle des prodiges, acquiert de la renommée et peut être profondément transformé par une Quête Héroïque. |
 
 Les différences d'équipement ne doivent pas systématiquement se convertir en bonus de Réussites, afin d'éviter de remplacer l'arithmétique traditionnelle par une nouvelle comptabilité.
+
+## Quatre Visions, quatre progressions distinctes — orientation retenue
+
+**Nous ne cherchons plus à égaliser numériquement les probabilités des quatre Visions.** À la création, le mysticisme et le théisme réussissent plus fréquemment certaines épreuves difficiles. Les ressources que le logicien ou l'animiste peut découvrir pendant son exploration compensent progressivement cet écart, sans ajouter de quatrième dé ni modifier la lecture de base des 3D6.
+
+| Vision | Avantage spécifique à découvrir dans Discovery | Moteur d'aventure |
+| --- | --- | --- |
+| **Mysticisme** | **Aucun pouvoir supplémentaire spécifique à cette Vision.** Les mémoires, rencontres, objets génériques et découvertes du monde restent accessibles. | Exploration et adéquation aux épreuves grâce à son fonctionnement initial |
+| **Théisme** | **Prodiges** situés, utilisables **une fois par saison ou une fois par année** selon le prodige | Mythes, cultes, sanctuaires, initiations, rites, quêtes |
+| **Animisme** | **Esprits liés** qui prêtent une Rune favorable puis **s'en vont** ; accès ultérieur au **chamanisme**, qui permet de conserver les liens après utilisation | Rencontre et négociation avec les esprits, obligations, lieux habités, initiation chamanique |
+| **Logique** | **Grimoires** donnant accès à l'appui d'une Rune tant qu'ils restent transportés et accessibles | Bibliothèques, maîtres, apprentissages, manuscrits, quête et conservation de textes |
+
+Ces avantages ne sont **ni distribués à la création**, ni donnés automatiquement à chaque visite d'un lieu approprié. On les découvre via des **§ et des conséquences de résolution** écrits à cet effet. Une Vision ne prive jamais le personnage des découvertes générales de Glorantha.
+
+**Contrat des Runes prêtées :** un grimoire ou un esprit rend une Rune **disponible pour les résolutions où l'auteur la déclare favorable**. La Rune personnelle n'est pas modifiée et le plafond commun reste **+1 favorable / −1 défavorable**. L'Illumination, décrite plus loin, constitue une exception très précise au traitement des malus.
+
+**Différence fondamentale :** le mystique n'a **aucune voie de bonus magique exclusive** ajoutée pour compenser les autres Visions ; ce n'est pas une interdiction d'apprendre, de voyager, de recevoir des objets, d'acquérir une mémoire ou d'être illuminé.
 
 ## Les formes de progression
 
@@ -43,7 +60,7 @@ Les Runes, cultes, cultures et la Vision définissent le personnage : **ce ne so
 
 Le jeu devra représenter la magie et les traditions de Glorantha, mais il n'a pas vocation à exposer toutes les règles magiques de *Glorantha Perspectives*, ni à convertir exhaustivement les sorts de RuneQuest / HeroQuest.
 
-**Hypothèse forte à tester :** un prodige peut permettre de choisir **automatiquement l'issue favorable** d'une résolution **explicitement applicable**, **une fois par saison** ou **une fois par année**. Le prodige pourrait également ouvrir un renvoi particulier plutôt que modifier la résolution.
+**Principe retenu pour le théisme :** les personnages théistes peuvent **découvrir des prodiges** lors de leur exploration. Chaque prodige porte une périodicité explicite, **une fois par saison ou une fois par année**. **Effet candidat à tester :** choisir automatiquement l'issue favorable d'une résolution **explicitement applicable**. Un prodige peut également ouvrir un renvoi particulier plutôt que modifier la résolution. Les autres Visions n'obtiennent pas automatiquement ces prodiges théistes.
 
 ### Exemple fictif, non canonique
 
@@ -69,19 +86,22 @@ Par exemple, certains prodiges pourraient traverser un « tabou » runique, tand
 
 La **Vision** règle la lecture ordinaire des dés (théisme, animisme, logique, mysticisme). Un **culte** ou une tradition peut donner accès à des prodiges précis, à des obligations, à des connaissances ou à des tabous : ne pas confondre les deux couches.
 
-À explorer ultérieurement : invocations théistes, alliances et fétiches d'esprits, pratiques de logique/sorcellerie, expériences mystiques et pouvoirs d'Illumination. Leur diversité doit être visible dans les **possibilités de fiction**, sans nécessiter quatre sous-systèmes complets.
+À développer sous leurs formes retenues : **prodiges théistes**, **esprits animistes**, **grimoires logiques**. Le mysticisme n'ajoute **aucun système de pouvoir propre**. **L'Illumination n'accorde qu'une seule exception mécanique : ignorer le malus runique**, indépendamment de la Vision. La diversité doit se voir dans les **possibilités de fiction**, sans sous-systèmes de calcul.
 
 **Cadre Sartar 1620–1621 :** vérifier chaque capacité et son attribution à une tradition dans les sources avant de l'intégrer comme fait du monde. Les exemples inventés restent explicitement des expériences de design.
 
-### Mysticisme de base et Illumination : ne pas les confondre
+### Mysticisme de base et Illumination — règle retenue
 
-**Décision de travail :** la Vision mystique ordinaire utilise la **correspondance avec la difficulté initiale** (pairs = Réussites ; si au moins un dé vaut la difficulté, **+1 Réussite une seule fois**). La **Kralorela** est une référence culturelle pertinente à approfondir, non la preuve que tous les mystiques pratiquent une doctrine identique.
+**Mysticisme** : la Vision utilise la **correspondance avec la difficulté initiale** (pairs = Réussites ; au moins un dé égal à la difficulté = **+1 Réussite une seule fois**). La **Kralorela** reste une référence culturelle pour la conception. Le mysticisme **ne reçoit aucun prodige ou autre capacité additionnelle du seul fait de cette Vision**.
 
-L'**Illumination** relève d'une **transformation ou capacité exceptionnelle** à concevoir séparément ; elle ne doit pas être intégrée d'office aux statistiques de la Vision mystique. **Piste non validée :** elle pourrait permettre d'**ignorer les malus runiques** tout en conservant les bonus favorables. Cela représenterait une émancipation vis-à-vis de certains tabous plutôt qu'une nouvelle manière de compter les dés.
+**Illumination — effet mécanique unique et décidé pour Discovery :** **ignorer le malus runique −1**, lorsqu'un paragraphe prévoit une ou plusieurs Runes défavorables. **Aucun autre avantage mécanique.** En particulier :
 
-**Attention au dépassement :** cette neutralisation ne produit pas à elle seule davantage de Réussites que la lecture mystique de base. En difficulté 3, sans bonus runique favorable, le mystique C ne peut toujours pas dépasser le seuil avec 3D. Avec +1 favorable et −1 défavorable, l'Illumination pourrait faire passer le modificateur de 0 à +1 et débloquer l'issue favorable. Si l'on souhaite un dépassement exceptionnel **même sans Rune favorable**, un effet distinct est nécessaire.
+- Elle **ne modifie pas la Vision du monde du personnage**, ni sa façon de lire les dés : un logicien illuminé reste logicien, un animiste illuminé reste animiste, etc.
+- Elle **ne donne ni +1 supplémentaire, ni dé supplémentaire, ni relance, ni réussite automatique, ni Rune temporaire ou permanente**.
+- Le **+1 runique favorable** reste soumis aux règles habituelles. Si +1 favorable et −1 défavorable étaient présents, le personnage non illuminé aurait un modificateur net de **0** ; l'illuminé conserve **+1** en ignorant le −1.
+- S'il n'y a **aucune Rune favorable** sur une épreuve D3, l'Illumination seule ne rend **pas** possible l'issue favorable : elle annule une contrainte, elle ne crée pas une réussite.
 
-Vérifier l'Illumination dans les sources gloranthiennes avant de lui attribuer des pouvoirs ou des limitations canoniques. Voir [résolution](resolution.md).
+L'Illumination est donc un **état acquis potentiellement par des personnages de différentes Visions**, sans changer leur Vision. Les conditions d'accès à cet état, les conséquences sociales ou religieuses et le traitement fictionnel des traditions illuminées restent à documenter dans le **canon gloranthien** ; la règle mécanique ci-dessus appartient spécifiquement à **Discovery**.
 
 ### Difficulté 3, tabou et transformation runique
 

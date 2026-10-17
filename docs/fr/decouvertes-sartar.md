@@ -1,40 +1,35 @@
 ---
 id: decouvertes-sartar
-title: Sartar — découvertes à cocher
+title: Sartar — mots-clés
 ---
 
-# Sartar — liste des découvertes
+# Sartar — mots-clés
 
-Cette liste est conçue pour le **verso de la carte** du volume Sartar. Cochez un mot uniquement après l'avoir **vécu dans un paragraphe**. Une rumeur, un nom entendu ou un lieu seulement évoqué ne suffit pas. Les mots canoniques apparaissent en MAJUSCULES dans le corps des scènes ; les déclencheurs propres à Glorantha Discovery y apparaissent en gras. Chaque acquisition se coche une seule fois.
+Cette liste se place au **verso de la carte** du volume. Deux usages, sans catégories supplémentaires :
 
-[Version carte schématique et découvertes recto verso (A4)](https://aleascript.github.io/glorantha-discovery/print/sartar-carte-decouvertes.html) — la carte géographique définitive reste à dessiner.
+- **Lore de Glorantha, en MAJUSCULES** : normalement, **entourez le nom** après une expérience vécue. Exceptionnellement, le paragraphe peut vous faire **barrer ce même nom** (hostilité, proscription…). **Sans marque** signifie que la rencontre n'a pas eu lieu ; une marque entourée ou barrée reste une expérience vécue. N'inventez jamais une hostilité : le paragraphe la prescrit.
+- **Déclencheurs propres à Discovery, en minuscules et en gras** : **cochez la case** lorsqu'un paragraphe les accorde. Ce sont de simples conditions de renvoi ; on ne les barre pas.
 
-## Glorantha : rencontres et découvertes vécues
+[Support A4 : itinéraires de Sartar au recto, mots-clés au verso](https://aleascript.github.io/glorantha-discovery/print/sartar-carte-decouvertes.html). Le recto est encore un schéma de voyage, pas une carte géographique définitive.
 
-- [ ] ORLANTH
-- [ ] ERNALDA
-- [ ] JONSTOWN
-- [ ] BOLDHOME
-- [ ] WILMSKIRK
-- [ ] DUCK POINT
-- [ ] LHANKOR MHY
-- [ ] ISSARIES
-- [ ] PORTEURS-DE-LUMIÈRE
-- [ ] DARVAST HORNOS
-- [ ] SORA GOODSELLER
-- [ ] DURULZ
-- [ ] GOLDGOTTI
+## Lore — entourer ou barrer selon le paragraphe
 
-Lors de la création d'un personnage heortling dans Sartar, ORLANTH et ERNALDA sont déjà connus par expérience culturelle : cochez-les au départ. Un personnage venu d'un autre volume ne les obtient pas automatiquement.
+ORLANTH · ERNALDA
 
-## Glorantha Discovery : déclencheurs de rencontre
+JONSTOWN · BOLDHOME · WILMSKIRK · DUCK POINT
 
-- [ ] **Piste-Hornos**
-- [ ] **Recommandation-Darvast**
-- [ ] **Piste-Goldgotti**
-- [ ] **Contact-Goldgotti**
-- [ ] **Conseil-du-marais**
+LHANKOR MHY · ISSARIES · PORTEURS-DE-LUMIÈRE
 
-Ces mots-clés sont portables entre les volumes ; leurs conditions d'accès et leurs effets sont indiqués dans les paragraphes, pas sur cette liste. Une résolution peut donner un mot-clé de rencontre quel que soit son résultat tout en ne donnant un déclencheur supplémentaire que sur l'issue favorable.
+DARVAST HORNOS · SORA GOODSELLER · DURULZ · GOLDGOTTI
 
-Les états de visite répétée, les capacités de Vision et les Runes du personnage ne sont pas des mots-clés.
+Les personnages heortlings créés en Sartar **entourent déjà ORLANTH et ERNALDA** du fait de leur expérience culturelle. Les autres noms n'ont aucune marque initiale. Un nom peut être reconnu depuis plusieurs § et plusieurs livres ; son état est commun au personnage.
+
+## Déclencheurs de ce livre — cases à cocher
+
+- [ ] **piste-hornos**
+- [ ] **piste-goldgotti**
+- [ ] **conseil-du-marais**
+
+Les déclencheurs sont généralement accordés par une seule scène, puis servent de conditions d'accès ailleurs. La marque sur DARVAST HORNOS ou GOLDGOTTI suffit à exprimer le rapport à cette personne ou à son réseau : aucun mot-clé « recommandation », « contact » ou « ennemi » distinct.
+
+Lorsque vous réimprimez un volume ou voyagez vers un autre livre contenant un nom déjà rencontré, conservez ou reportez **sa marque actuelle**.

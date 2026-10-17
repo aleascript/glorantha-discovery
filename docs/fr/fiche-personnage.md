@@ -26,7 +26,7 @@ La même feuille accompagne le personnage dans tous les livres de Glorantha Disc
 
 **Huit coches de saison :** ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐
 
-Un trajet accompli : une coche. Huit coches : saison suivante et huit nouvelles cases vides. Après Temps sacré, augmenter l'année. Un déplacement de huit coches, tel qu'une initiation ou un voyage lointain qui coûte une saison, conserve votre position dans la saison suivante.
+Un trajet accompli : une coche. Huit coches : saison suivante et huit nouvelles cases vides. Après Temps sacré, augmenter l'année. Une initiation ou un voyage lointain prescrivant une saison ajoute huit coches, en conservant la position dans la période suivante.
 
 ## Capacités : ne garder que la rubrique de sa Vision
 
@@ -37,10 +37,12 @@ Un trajet accompli : une coche. Huit coches : saison suivante et huit nouvelles 
 - ________________________________________________
 - ________________________________________________
 
-Une capacité acquise n'est pas un mot-clé ordinaire. Notez son nom, ses conditions et, le cas échéant, la période de réutilisation. Les mythes et les découvertes figurent sur la liste propre à chaque volume.
+Une capacité acquise n'est pas un mot-clé. Notez son nom, ses conditions et, le cas échéant, la période de réutilisation.
 
 ## Verso
 
-La seconde page est volontairement blanche pour vos notes d'aventure.
+La seconde page est volontairement libre pour les notes d'aventure.
 
-Les [règles de Vision](./enter-the-fiction.md) et les [découvertes de Sartar](./decouvertes-sartar.md) sont des supports séparés. [Imprimer les quatre règles, une page chacune (A4)](https://aleascript.github.io/glorantha-discovery/print/regles-visions.html).
+Les mots-clés sont sur le **verso de la carte de chaque volume**, et non sur cette feuille : **noms en MAJUSCULES à entourer ou barrer selon le §**, déclencheurs du livre **en minuscules et en gras, avec une simple case à cocher**. La marque d'un même nom gloranthien se conserve d'un volume à l'autre.
+
+[Découvertes de Sartar](./decouvertes-sartar.md) · [Règles de Vision](./enter-the-fiction.md) · [Imprimer quatre aides de résolution A4](https://aleascript.github.io/glorantha-discovery/print/regles-visions.html)

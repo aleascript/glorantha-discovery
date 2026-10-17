@@ -1,43 +1,55 @@
-# Contrat éditorial des mots-clés et des supports — décision Discovery
+# Contrat éditorial des mots-clés — Glorantha Discovery
 
-## Acquisition vécue (règle validée)
+> Version ajustée après discussion : **un seul nom de lore, dont le paragraphe détermine la marque** ; les déclencheurs propres au livre restent distincts, en minuscules et en gras. Il ne s'agit pas de jauges de réputation ni de mots-clés relationnels supplémentaires.
 
-Un mot-clé ne s'obtient **que lors d'une rencontre ou expérience effectivement vécue**, décrite par un paragraphe jouable : arrivée dans un lieu, conversation réelle avec une personne, rituel observé, histoire entendue dans une scène dédiée, contact direct avec un peuple, etc. Il n'est pas acquis en voyant son nom dans un titre, un sommaire, une liste, une rumeur lointaine ou une destination envisagée.
+## 1. Mots-clés de lore : MAJUSCULES, un nom, une marque
 
-Par exemple : lire que Pavis existe ne donne pas PAVIS ; arriver à PAVIS et découvrir la ville, oui. Entendre seulement le nom de Goldgotti ne donne pas sa rencontre ni la connaissance vécue de son réseau.
+Chaque mot désigne **un élément du lore gloranthien** : personne, lieu, peuple, dieu, mythe, institution. Par défaut, le nom imprimé sur la liste n'a **aucune marque**.
 
-**Une résolution facultative ou obligatoire ne conditionne jamais le mot-clé de la rencontre vécue.** La connaissance est acquise quelle que soit l'issue du jet. En revanche, **certaines coches propres à Discovery peuvent dépendre de la réussite** (p. ex. DURULZ acquis sur rencontre §190 indépendamment de la résolution, **Conseil-du-marais** seulement si l'issue favorable est obtenue). Les deux issues restent intéressantes, sans mort ni impasse.
+- **Entouré** : le personnage a vécu une rencontre, une connaissance ou une expérience, selon la scène. C'est le cas le plus courant.
+- **Barré** : le personnage a vécu une rencontre mais la scène établit une hostilité, une proscription ou une situation défavorable durable ; **seul le texte d'un § peut demander cette marque**.
+- **Sans marque** : aucune expérience permettant d'obtenir ce nom n'a encore eu lieu.
 
-## Code typographique des paragraphes
+Une marque barrée **ne supprime pas** la connaissance vécue. Ainsi, **DARVAST HORNOS** ne génère aucun second mot-clé « ennemi », « recommandation » ou « rapport » : le même nom peut être entouré ou barré. La plupart des mots-clés de lore ne permettent **que d'être entourés**. Ne pas inventer une hostilité à partir d'une simple absence de réussite.
 
-- **MAJUSCULES dans le corps narratif** : mot-clé associé à un élément *canonique* de Glorantha, dont le vécu est établi au moment où le mot apparaît (ex. JONSTOWN, PORTEURS-DE-LUMIÈRE, DURULZ).
-- **Gras dans le corps narratif** : déclencheur ou état propre au jeu *Glorantha Discovery* (ex. **Piste-Hornos**, **Recommandation-Darvast**). Une coche ne doit pas être créée pour une simple information redondante.
-- **Casse normale** : nom propre seulement cité, destination, rumeur, rappel ou personnage vu de loin sans vraie scène.
-- Le gras purement décoratif est proscrit **dans les paragraphes jouables**. Les rubriques et les aides hors scènes peuvent employer une typographie d'explication ; elles n'accordent rien.
-- Le mot-clé en texte narratif correspond **exactement** au libellé imprimé sur la liste du livre. Pas de préfixes techniques (SARTAR-..., RELATION-...), pas de variante d'orthographe.
-- Ne pas répéter le mot-clé en majuscules ou en gras à chaque relecture pour une simple mention. Une nouvelle scène peut néanmoins réemployer un mot-clé déjà connu ; les coches restent idempotentes.
+Une scène peut éventuellement modifier une marque déjà portée, en le demandant explicitement. En l'absence de cette instruction, **conserver l'état**. Il n'existe ni niveau intermédiaire ni compteur de réputation.
 
-Une exception explicite de création peut précocher des mots déjà vécus par le personnage dans sa culture (ORLANTH et ERNALDA pour le Heortling de départ) ; cela ne lui donne pas une initiation.
+**Acquisition vécue :** on n'entoure pas PAVIS parce qu'on en a entendu parler ; il faut atteindre la ville et l'éprouver. De même, un nom cité en passant ne vaut pas rencontre. Si la scène comprend une résolution, **la rencontre vécue reste acquise quelle que soit l'issue** : le § peut préciser si le même nom est entouré ou barré. Les capacités et autres conséquences peuvent dépendre du jet.
 
-## Trois registres, à ne pas fusionner
+**Plusieurs lieux d'obtention :** le même mot-clé de lore peut être reconnu dans de nombreux §§ et plusieurs livres. Un personnage ne possède qu'**un état global** pour ce nom. Si plusieurs listes imprimées affichent le même nom, reporter la marque actuelle sur chacune, y compris lors d'une modification ultérieure.
 
-1. **Identité du personnage** : nom, sexe, âge, culture, Vision, Runes, culte, Illumination. Ces éléments sont inscrits sur la feuille universelle.
-2. **Mots-clés acquis**, propres à chaque livre mais portables entre les volumes : lore canonique vécu en capitales, ou états déclencheurs propres à Discovery en gras. Une même découverte globale ne doit pas recevoir deux noms contradictoires dans deux volumes.
-3. **Capacités spécifiques** : prodiges / grimoires / esprits / Compréhensions selon la Vision ; elles occupent leur emplacement propre sur la feuille. Les mythes peuvent être référencés par leur mot-clé et leur paragraphe d'expérience plutôt que par une nouvelle colonne de capacités.
+## 2. Déclencheurs de Discovery : minuscules, gras, simple coche
 
-Les coches de calendrier et les compteurs de revisite restent distincts. Un simple passage ne nécessite pas toujours un compteur : le mot-clé connu suffit parfois à distinguer première rencontre et retour.
+Les déclencheurs propres au livre, par exemple **piste-hornos** ou **conseil-du-marais**, sont écrits **en minuscules et en gras**. Ils sont généralement obtenus dans **un seul §** et servent simplement à ouvrir un renvoi ou une possibilité.
 
-## Discipline de production
+Ils commencent **non cochés**. Un § peut les faire **cocher**, parfois seulement après une résolution favorable. Ils ne se barrent pas, ne mesurent pas une relation et n'ont pas à être dupliqués sous une autre forme. Le texte d'acquisition indique l'effet ou un futur § les reconnaît.
 
-Pour chaque mot-clé préparé, tenir une ligne interne : libellé imprimé, canon ou Discovery, événement exact d'acquisition, paragraphes possibles, éventuelles conditions de seconde coche, usages ultérieurs. La liste imprimée ne doit pas divulguer tous les renvois secrets.
+Le nom de lore DARVAST HORNOS entouré peut ouvrir une recommandation ; il n'y a donc plus à créer **recommandation-darvast**. Le nom GOLDGOTTI suffit à reconnaître l'expérience du réseau ; pas de **contact-goldgotti** distinct. Garder les déclencheurs pour les seules **pistes ou états d'accès** que le nom de lore ne porte pas.
 
-Une découverte n'a **pas besoin** d'avoir un usage mécanique ultérieur : la découverte de Glorantha est déjà une récompense. Un état déclencheur propre à Discovery doit en revanche avoir une fonction jouable ou un effet reconnu. La liste ne prétend pas être exhaustive du lore du territoire.
+## 3. Typographie dans les § et liste imprimée
 
-## Kit universel et supports de volume
+- Les mots-clés de lore apparaissent en **MAJUSCULES dans les scènes vécues**. Ils sont en casse normale quand ils sont seulement mentionnés, cités de seconde main ou présentés comme destinations.
+- Les déclencheurs propres au volume sont **en minuscules et en gras**, sans gras décoratif dans la narration. Le § dit s'ils sont accordés ou vérifiés.
+- Les titres, liens, sommaires, exemples de règles et listes préimprimées **ne sont jamais des acquisitions**.
+- Le libellé d'un mot-clé dans la narration doit être **exactement** celui de la liste. Aucune variante d'ID technique ou doublon relationnel.
+- Sur le **verso de la carte**, les mots de lore sont **imprimés sans cases** : entourer ou barrer directement le mot. Les déclencheurs locaux possèdent des **cases à cocher**.
 
-- Feuille universelle, **recto** : Nom, Sexe, Âge, Culture, Vision, Runes, Culte, Illumination, année, saison, huit coches, rubrique unique de capacités (rayez trois catégories). **Verso** : page libre pour notes.
-- Pour chaque volume, **recto** : carte géographique ; **verso** : liste des mots-clés de ce volume à cocher. Le premier prototype Sartar ne possède qu'un schéma des liaisons, à remplacer par une vraie carte.
-- Quatre **aides d'une page par Vision**, imprimables séparément ; conserver celle de son personnage.
-- Calendrier et capacités suivent le personnage entre tous les livres, sans remise à zéro au changement de volume.
+Exemple : au §110, le personnage rencontre DARVAST HORNOS. Un échange cordial permet d'entourer ce seul nom ; une accusation hostile décrite dans le même § conduit à le barrer. Au §046, l'état de DARVAST HORNOS détermine une possibilité de présentation. Au §190, la rencontre avec un DURULZ donne le mot-clé indépendamment de la résolution ; seule une issue favorable coche **conseil-du-marais**.
 
-Sources jouables : docs/fr/fiche-personnage.md ; docs/fr/decouvertes-sartar.md ; docs/fr/visions/ ; versions A4 sous static/print/. Les PDF/EPUB définitifs ne sont pas encore générés par la chaîne du livre-jeu.
+## 4. Identité et capacités restent séparées
+
+L'identité porte nom, sexe, âge, culture, Vision, Runes, culte et Illumination. Les prodiges, grimoires, esprits et Compréhensions s'inscrivent sur la fiche universelle. Les mythes rencontrés peuvent être nommés dans les mots-clés de lore, avec référence de § dans les notes si utile.
+
+Exception à l'absence de marques initiales : un personnage heortling créé en Sartar a déjà vécu les traditions d'ORLANTH et d'ERNALDA et **entoure** ces deux noms à la création, sans devenir initié.
+
+## 5. Réconciliation : piste de conception, non règle globale
+
+Certains futurs §§ de médiation (par exemple à la Maison de la Paix de Jonstown) pourraient **changer un nom de lore barré en nom entouré** après une résolution, éventuellement avec une limite d'une tentative par an. **Aucun nom barré ne doit devenir automatiquement réparable dans n'importe quel temple** : le lieu, le conflit et le § décident. Il n'y a pas de mot-clé « rapport » supplémentaire. Cette piste n'est pas encore une scène jouable.
+
+## 6. Discipline d'écriture et supports
+
+Pour chaque nom de lore : libellé global stable, source, scènes d'expérience possibles dans chaque volume, marques autorisées par le texte et reconnaissance future. Une découverte vécue peut être une récompense en elle-même, sans déboucher nécessairement sur un bonus.
+
+Pour chaque déclencheur local : nom en minuscules, § d'obtention, condition éventuelle de réussite, § où il ouvre un choix. Éviter les déclencheurs redondants avec la marque d'un nom de lore.
+
+Le personnage conserve sa [feuille universelle](../../docs/fr/fiche-personnage.md) et son calendrier en changeant de livre ; chaque livre fournit **carte au recto / noms et déclencheurs au verso**. Les [mots-clés de Sartar](../../docs/fr/decouvertes-sartar.md) constituent le premier exemple.

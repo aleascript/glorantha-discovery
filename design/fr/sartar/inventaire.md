@@ -1,50 +1,48 @@
-# Sartar — inventaire de production et acquisitions du prototype
+# Sartar — inventaire de production et mots-clés
 
-> Ce document est un registre interne, non un sommaire de secrets destiné au joueur. La sélection de découvertes est volontairement **non exhaustive**.
+> Registre interne ; les éléments officiels sont distingués de leurs mises en scène dans Discovery. Le premier livre commence à Mer 1619 et ne prétend pas offrir un inventaire exhaustif de Sartar.
 
-## Cellules et lieux
+## Cellules du prototype
 
-| Zone | Paragraphes disponibles | Chantiers ultérieurs |
+| Zone | Paragraphes | À développer |
 | --- | --- | --- |
-| Jonstown | §077 ville ; §332 bibliothèque ; §172 marché ; §110 Darvast Hornos | Hospitalité, temples, initiation, autorités |
-| Boldhome | §193 ville | Cultes, quartiers, conflits vécus |
-| Wilmskirk | §046 ville ; §240 réseau de Goldgotti | Rites, marchés et routes méridionales |
-| Duck Point | §458 ville | Durulz, voisinage du marais, relations |
-| Trajets | §600 Jonstown–Boldhome ; §069 Boldhome–Wilmskirk ; §190 Wilmskirk–Duck Point | Chaque trajet conserve son seul § bidirectionnel |
-| Autres sites | À attribuer | Dangerford, Alda-Chur, Swenstown, Apple Lane, etc. |
+| Jonstown | §077 ville ; §332 bibliothèque ; §172 marché ; §110 Darvast Hornos | Maison de la Paix, rites, initiation et autorités |
+| Boldhome | §193 | Cultes, quartiers, conflits |
+| Wilmskirk | §046 ville ; §240 réseau de Goldgotti | Marchés, sanctuaires, routes méridionales |
+| Duck Point | §458 | Communauté durulz et marais |
+| Voyages | §600 Jonstown–Boldhome ; §069 Boldhome–Wilmskirk ; §190 Wilmskirk–Duck Point | Rencontres locales propres à chaque route |
+| Extensions | À attribuer | Dangerford, Alda-Chur, Swenstown, Apple Lane… |
 
-§129 (ancienne rencontre commune) est supprimé et son numéro reste historiquement réservé ; il ne doit pas être réintroduit comme détour de route.
+§129 était une rencontre commune aux trajets ; retiré, son numéro reste réservé et ne sera jamais réattribué.
 
-## Liste à cocher — canon Glorantha
+## Mots-clés de lore : capitales, nom unique et marque de la scène
 
-| Mot-clé | Première expérience permettant de cocher |
-| --- | --- |
-| ORLANTH ; ERNALDA | Précoche à la création heortling Sartar |
-| JONSTOWN ; BOLDHOME ; WILMSKIRK ; DUCK POINT | Arrivée effective à §077, §193, §046, §458 respectivement |
-| LHANKOR MHY | Rencontre avec un scribe dans le temple-bibliothèque §332 |
-| ISSARIES | Rite observé chez Darvast §110 ou à la halte §069 sur 6 |
-| PORTEURS-DE-LUMIÈRE | Récit réellement entendu à §332 |
-| DARVAST HORNOS | Rencontre en personne §110 |
-| SORA GOODSELLER | Rencontre avec la caravane §600 sur 6 |
-| DURULZ | Vie communautaire vue à Duck Point §458 ou rencontre sur §190 (6), indépendamment du succès de la résolution |
-| GOLDGOTTI | Rencontre vécue avec son réseau à Wilmskirk §240 (pas simple mention du négociant) |
-
-## Liste à cocher — déclencheurs Discovery
-
-| Mot-clé | Acquisition vécue | Effet / reconnaissance |
+| Mot-clé | Expériences possibles | Marques actuellement prévues |
 | --- | --- | --- |
-| **Piste-Hornos** | Conversation marchande auprès du scribe §332 | Audience possible §110 depuis le marché §172 |
-| **Recommandation-Darvast** | Darvast vous autorise à citer son nom §110 | Accès et accueil privilégié au §240 |
-| **Piste-Goldgotti** | Conversation avec Sora Goodseller au §600 sur 6, sans prérequis Hornos | Point d'entrée indépendant au §240 depuis §046 |
-| **Contact-Goldgotti** | Accueil personnel à la maison de commerce §240 avec recommandation | Reconnaissance future, scènes à construire |
-| **Conseil-du-marais** | Issue favorable D1 de la rencontre DURULZ au §190 sur 6 | Mention reconnue au §458 ; usage ultérieur à développer |
+| ORLANTH ; ERNALDA | Expérience culturelle initiale du Heortling créé ici | Entourés à la création |
+| JONSTOWN ; BOLDHOME ; WILMSKIRK ; DUCK POINT | Arrivée effective dans le hub correspondant | Entourer |
+| LHANKOR MHY | Rencontre avec un scribe de la bibliothèque §332 | Entourer |
+| ISSARIES | Rite observé au §110 ou au §069 sur 6 | Entourer |
+| PORTEURS-DE-LUMIÈRE | Récit effectivement entendu au §332 | Entourer |
+| DARVAST HORNOS | Rencontre personnelle §110 | Entourer si échange cordial ; barrer après accusation ouverte. **Aucun autre mot de relation** |
+| SORA GOODSELLER | Rencontre de caravane §600 sur 6 | Entourer |
+| DURULZ | Vie communautaire §458 ou rencontre §190 sur 6 | Entourer indépendamment de la résolution |
+| GOLDGOTTI | Rencontre vécue avec les agents du réseau §240 | Entourer ; reconnaissance différente si DARVAST HORNOS est entouré ou barré |
 
-Un mot-clé acquis est idempotent. Ne pas récompenser deux fois une simple revisite ; garder une distinction nette entre connaissance vécue et relation privilégiée.
+Tout mot de lore ne possède qu'un **état global au personnage**, même si plusieurs § et livres permettent de l'obtenir. Un nom barré demeure connu ; la marque n'évolue que sur instruction écrite. La plupart de ces noms ne sont jamais barrés.
 
-## Source versus adaptation
+## Déclencheurs locaux : minuscules en gras, case simple
 
-- **Canon à documenter :** *Sartar Companion*, sections Jonstown, bibliothèque, réseaux Hornos/Goldgotti, Goodvoice Caravan / Sora Goodseller ; *Sartar: Kingdom of Heroes* pour les Durulz et les traditions ; autres ouvrages et *Guide to Glorantha* au besoin.
-- **Adaptations Discovery :** scribe partageant une piste, mots-clés, mise en scène personnelle de Darvast, Sora sur §600, événement ISSARIES au §069, rencontre et jet DURULZ au §190, reconnaissance du réseau §240. Ces événements et mécanismes ne sont pas garantis dans le canon.
-- **À corriger ensuite :** donner un réel emploi au **Contact-Goldgotti** et au **Conseil-du-marais** plutôt que les laisser à l'état de promesses ; écrire une première initiation non automatique et des expériences fortes liées aux Visions.
+| Déclencheur | Où le cocher | Utilisation |
+| --- | --- | --- |
+| **piste-hornos** | Conversation au §332 | Ouvre l'audience au §110 depuis §172 |
+| **piste-goldgotti** | Rencontre avec Sora au §600 sur 6 | Donne un accès indépendant au §240 depuis §046 |
+| **conseil-du-marais** | Issue favorable de la résolution D1 au §190 sur 6 | Reconnu au §458 ; possibilité supplémentaire à développer |
 
-Le premier livre commence à **Mer 1619** ; éviter de projeter par défaut les personnalités et institutions de 1620–1621 à une époque où leur situation était différente.
+Aucun déclencheur « recommandation-darvast », « contact-goldgotti », « rapport-hornos », « ennemi-hornos » ou « proscrit-pavis » n'est requis. La marque du **nom canonique unique** exprime déjà le rapport lorsque le § le précise.
+
+## Sources et adaptations
+
+- **À documenter depuis le canon** : *Sartar Companion*, Jonstown, ses Sages Libres et réseaux marchands, Darvast Hornos, Goldgotti, Sora Goodseller / caravane Bonne-Voix ; *Sartar: Kingdom of Heroes* et autres ouvrages pour les Durulz.
+- **Propres à Discovery** : scènes, choix de rapport avec Darvast, sélection de rencontres de route, issues de résolution, calendrier, mots-clés, déclencheurs et accès conditionnels. Aucun de ces mécanismes n'est attribué aux ouvrages.
+- **Chantiers** : la Maison de la Paix comme possible lieu de réconciliation de certains noms barrés, sous conditions à écrire ; usages supplémentaires des pistes et du conseil ; première initiation ; variantes historiques 1621/1625.

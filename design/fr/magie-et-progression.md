@@ -93,6 +93,65 @@ Un **malus runique** peut représenter une opposition profonde, voire un **tabou
 
 **Source à exploiter :** *HeroQuest — Sartar: Kingdom of Heroes*, p. 73 (« How Do I Get New Runes? », « Switching Runes »), décrit l'acquisition de Runes par des rites ou quêtes héroïques et des échanges d'affinité au sein de certains cultes, notamment le cas de Heler (Air/Eau). Ce sont des **possibilités situées**, pas une règle canonique universelle autorisant à supprimer arbitrairement une Rune.
 
+## Capacités découvertes selon la Vision — sorts et esprits
+
+> **Orientation nouvelle (17 octobre 2026)** : conserver **telles quelles** les règles de base du théisme limité et du mysticisme C. Ne pas chercher à égaliser les probabilités de base de toutes les Visions : envisager pour la **Logique** et l'**Animisme** une progression par découverte de capacités facultatives et situées. L'idée est validée comme direction de conception ; les effets exacts et leurs fréquences ne le sont pas.
+
+### La découverte comme acquisition de puissance
+
+Des **paragraphes dédiés** peuvent être accessibles aux personnages de Vision logique ou animiste : enseignement, bibliothèque, manuscrit ou laboratoire pour des **sorts** ; rencontre, pacte, négociation, lieu habité ou rituel pour des **esprits**. Leur contenu est lié au lore de la région explorée, sans réserver les ressources aux seuls volumes de la culture d'origine : un logicien en Sartar doit pouvoir chercher des savoirs et un animiste s'y lier à des esprits lorsque la fiction l'autorise.
+
+Les sorts et les relations spirituelles sont **acquis en jeu** : le personnage peut les emporter dans les autres volumes de *Glorantha Discovery*. Ils ne supposent **aucun quatrième dé**, aucun changement des quatre lectures de base et, par défaut, **aucun bonus runique cumulatif** au-delà du maximum normal.
+
+### Deux familles à distinguer fictionnellement
+
+| Vision | Ce qui est découvert | Modalité fictionnelle à privilégier | Ce que cela peut faire |
+| --- | --- | --- | --- |
+| **Logique** | formule, sort, méthode, enseignement | apprentissage, conditions et préparation, reproductibilité | relancer un jet, convoquer un appui runique ponctuel, ouvrir une opération particulière |
+| **Animisme** | esprit, allié, pacte, présence attachée à un lieu ou un objet | négociation, relation, réciprocité, obligation ou offrande | relancer un jet, demander une faveur runique ponctuelle, accéder à une rencontre ou un service particulier |
+
+Ce contraste est **une proposition de design**, pas une règle canonique affirmant que tous les praticiens de sorcellerie ou tous les animistes fonctionnent identiquement. En Glorantha, les pratiques magiques ont des contextes culturels, historiques et religieux variés.
+
+Les deux Visions ne doivent **pas** recevoir exactement les mêmes capacités remaquillées. Le sort peut être fiable mais exiger une préparation ; l'esprit peut être souple et personnel mais poser une condition ou demander quelque chose en échange. Le détail doit rester assez simple pour un livre-jeu.
+
+### Effets candidats
+
+**Relancer une résolution entière** : après avoir obtenu l'issue défavorable, lancer à nouveau les **mêmes 3D6**, relire selon sa Vision, puis conserver obligatoirement **le second résultat**. Le pouvoir indique sa fréquence ou sa consommation. Cette possibilité ne modifie **pas** l'accessibilité d'une D3 si le bonus runique net reste nul ou négatif.
+
+**Bénéficier temporairement d'une Rune** : un sort ou un esprit peut accorder un **appui runique situé**, qui compte comme l'une des Runes favorables explicitement prévues par **ce paragraphe de résolution**, sans changer les Runes permanentes du personnage. **Au plus +1 runique favorable** au total, quel que soit le nombre d'appuis. Une opposition runique −1 déjà présente continue de s'appliquer ; le simple appui +1 ne suffit donc pas à réussir D3 si les deux s'annulent. Un effet neutralisant spécifiquement un malus relève d'une capacité **différente**, à écrire explicitement.
+
+**Ouvrir un choix ou éviter un jet** : la magie peut autoriser l'accès à un paragraphe inédit, une conversation, une traversée ou une issue favorable contextualisée, plutôt que toujours modifier les probabilités.
+
+**Cadence et contraintes** : une fois par saison, par année ou après un nouveau rituel/offrande ; recourir au calendrier **conventionnel du personnage**, pas à des jours simulés. Certaines puissances pourraient s'épuiser définitivement ou changer d'attitude, mais éviter une économie de consommables lourde.
+
+### Mesure exacte de l'effet « une relance après un échec »
+
+Probabilité d'obtenir l'issue favorable **avec au plus un second tirage indépendant après un premier échec**, si la même résolution reste accessible : `1 − (1 − p)²`.
+
+| Cas | Animisme | Logique |
+| --- | ---: | ---: |
+| D2, sans Rune, normalement | 12,50 % | 9,26 % |
+| D2, sans Rune, avec une relance | **23,44 %** | **17,66 %** |
+| D3, sans Rune, même avec relance | **0 %** | **0 %** |
+| D3, avec +1 runique net, normalement | 12,50 % | 9,26 % |
+| D3, avec +1 runique net et relance | **23,44 %** | **17,66 %** |
+
+**Attention :** la relance est un avantage **conditionnel à sa possession et sa disponibilité**. Elle ne fait pas partie des probabilités de base du personnage. On ne peut conclure que ces deux Visions seraient « équilibrées » sans modéliser la fréquence réelle d'accès aux capacités et le nombre de rencontres où elles s'appliquent.
+
+### Garde-fous pour les § dédiés
+
+- **Détection et découverte** : rendre les pistes suffisamment perceptibles pour un lecteur sans MJ ; ne pas cacher tous les moyens de progresser derrière un branchement inaccessible sans indice.
+- **Universalité des ouvrages** : laisser un personnage explorer Sartar, Prax ou l'Empire quelle que soit sa Vision ; les capacités spécialisées constituent des découvertes supplémentaires, pas une condition obligatoire pour finir un volume.
+- **Acquis clairement suivis** : distinguer connaissance du sort, possession d'un pacte, disponibilité de son usage et état des Runes permanentes.
+- **D3 et tabous** : les pouvoirs peuvent aider à franchir une D3, mais ne doivent pas effacer systématiquement la valeur d'une initiation ou d'une transformation runique durable.
+- **Liberté de progression** : un animiste ou un logicien peu avancé doit conserver des chemins intéressants même en l'absence de ses futurs sorts/esprits.
+
+### Sources à exploiter avant de rédiger les pouvoirs
+
+- *HeroQuest — Sartar: Kingdom of Heroes*, section sur les **Kolatings** : négociation avec les esprits et possibilité de les contraindre à habiter des charmes ; exemple d'animisme présent en Sartar.
+- *HeroQuest — Blood Over Gold*, introduction et passages sur les pratiques magiques : diversité des charmes, prouesses, sorts et traditions ; mention des magiciens et sorciers des Princes Marchands.
+- Autres ouvrages canoniques du projet pour caractériser une magie logique ou une relation spirituelle précise, sans reprendre mécaniquement les listes de sorts RQ/HQ.
+
 ## Progression et rythme
 
 La progression n'est **pas** nécessairement corrélée au nombre de résolutions gagnées ou au nombre de rencontres combattues. L'issue défavorable d'une confrontation peut elle aussi produire une connaissance, une relation ou une nouvelle occasion de découverte.

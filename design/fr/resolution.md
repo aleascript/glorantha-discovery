@@ -1,6 +1,6 @@
 # Glorantha Discovery — Résolution (proposition v0.1)
 
-> **Statut :** candidat v0.2 pour expérimentation : **aucun dé supplémentaire**, théisme limité aux trois dés présents, difficultés 3 runiques, rejouabilité et transformation runique à prototyper. Mysticisme C retenu comme base de travail ; Illumination à étudier. Il ne s'agit ni d'une règle définitive, ni d'une reproduction intégrale de Glorantha Perspectives (GP). Ce document est interne au dossier `design/` et ne figure pas dans les paragraphes jouables.
+> **Statut :** candidat v0.2 pour expérimentation : **aucun dé supplémentaire**, théisme limité aux trois dés présents, difficultés 3 runiques, rejouabilité et transformation runique à prototyper. Mysticisme C retenu comme base de travail ; **Illumination = annulation du seul malus runique, sans changement de Vision**. Il ne s'agit ni d'une règle définitive, ni d'une reproduction intégrale de Glorantha Perspectives (GP). Ce document est interne au dossier `design/` et ne figure pas dans les paragraphes jouables.
 
 ## Intention
 
@@ -15,7 +15,7 @@ Les **mémoires** sont des connaissances ou informations acquises, indépendante
 1. Le paragraphe annonce une **difficulté 1, 2 ou 3** et deux issues avec leurs renvois.
 2. Il indique éventuellement des **Runes favorables** (+1 Réussite au maximum) et **défavorables** (−1 Réussite au maximum). Les deux effets peuvent coexister et s'annulent alors. Ils ne sont pas des dés et n'activent aucun effet de Vision.
 3. Le joueur lance **3D6** (**jamais plus de trois dés**, même après progression) et les lit **selon sa Vision**.
-4. Ajouter les Réussites runiques : `Réussites finales = Réussites de la Vision + bonus runique − malus runique`.
+4. Ajouter les Réussites runiques : `Réussites finales = Réussites de la Vision + bonus runique − malus runique`. **Si le personnage est illuminé, le malus runique vaut toujours 0**, sans autre changement.
 5. Pour obtenir la première issue, il faut **strictement dépasser** la difficulté (égalité = seconde issue).
 
 Cette procédure évite de lister toutes les cultures, cultes et mémoires de tous les futurs volumes pour chaque résolution. L'auteur précise uniquement les Runes qui jouent *dans cette situation*.
@@ -60,15 +60,15 @@ Exemples : **D1**, `1·3·5` = **1** Réussite ; **D2**, `2·3·6` = **3** Réus
 
 La version antérieure « Mysticisme A » (bonus sur doublets/triplets) est **écartée pour la base**, car elle ressemblait trop à un animisme amplifié et ajoutait beaucoup de puissance numérique.
 
-### Illumination — piste distincte de progression (non décidée)
+### Illumination — ignorer les malus runiques (effet unique)
 
-L'**Illumination** n'est pas, par définition, la lecture ordinaire des dés mystiques : elle pourra être représentée par un **état ou une transformation exceptionnelle acquis en jeu**, distinct de la Vision et éventuellement accessible via plusieurs traditions selon le lore.
+**Décision de design :** un personnage **illuminé ignore le −1 runique défavorable**, quand il est applicable. C'est **son seul avantage mécanique**. Ce statut n'accorde ni dé supplémentaire, ni relance, ni réussite automatique, ni accès à une Rune, ni +1 supplémentaire, ni prodige.
 
-**Hypothèse à explorer :** ignorer le **−1 runique défavorable**, sans supprimer le **+1 runique favorable**. Exemple : avec +1 favorable et −1 défavorable, le personnage ordinaire reçoit un modificateur net de 0 ; s'il ignore le malus par Illumination, son modificateur devient +1.
+**La Vision ne change pas.** Un théiste, un animiste, un logicien ou un mystique illuminé utilise **exactement sa lecture habituelle des trois dés**. L'Illumination n'est donc **ni une cinquième Vision, ni un mysticisme avancé**. Les conditions fictionnelles d'accès et les conséquences religieuses ou sociales devront être documentées dans les sources ; la réduction mécanique du malus est propre à Discovery.
 
-**Limite mathématique essentielle :** neutraliser un malus **n'ajoute pas une Réussite au-delà du plafond de base**. Le mystique C ne produit jamais plus de **4 Réussites** avec 3D6 (et, à **D3**, son maximum est **3**, car le `3` recherché est impair). À D3, **sans bonus runique favorable**, ignorer −1 ne suffit donc **pas** à obtenir l'issue favorable ; avec +1 favorable conservé, le dépassement redevient possible (**25 %** des tirages). Si nous voulons un **dépassement exceptionnel autonome**, il faudra lui donner un autre déclencheur explicite.
+**Application :** déterminer les Runes favorables et défavorables selon la situation et les appuis effectivement disponibles. Appliquer au plus **+1 runique favorable**, puis **ignorer intégralement le −1 runique défavorable** si le personnage est illuminé. Pour un non-illuminé, la règle habituelle `+1 −1 = 0` s'applique.
 
-**Questions ouvertes :** neutralisation permanente ou située ? Tous les malus runiques, ou seulement certains tabous ? L'Illumination doit-elle s'appliquer uniquement aux mystiques ? Comment distinguer cette proposition mécanique des différentes traditions et interprétations de l'Illumination dans Glorantha ? Ne rien figer avant examen des sources et tests.
+**Exemple :** une résolution D3 reconnaît Air favorable (+1) et Stase défavorable (−1). Le non-illuminé portant les deux obtient un modificateur net de 0 et ne peut pas réussir D3 avec les trois dés ordinaires ; l'illuminé obtient **+1 net** et peut réussir D3. En revanche, **sans Rune favorable**, ignorer −1 ne crée aucun avantage positif : une D3 reste inaccessible à la résolution ordinaire.
 
 ## Trois difficultés seulement
 
@@ -83,8 +83,8 @@ L'**Illumination** n'est pas, par définition, la lecture ordinaire des dés mys
 ### Runes, limitations et tabous
 
 - Au plus **+1** pour une ou plusieurs Runes favorables ; au plus **−1** pour une ou plusieurs Runes défavorables. Aucun cumul au-delà de ces plafonds.
-- Un bonus et un malus **s'annulent** : +1 −1 = 0.
-- **Difficulté 3 = épreuve runique** : avec les trois dés de base et sans capacité exceptionnelle, **aucune Vision** ne peut strictement dépasser 3 Réussites finales sans **+1 runique net**. Un bonus et un malus runiques simultanés se neutralisent ; ils ne permettent pas de réussir D3.
+- Un bonus et un malus **s'annulent** : +1 −1 = 0, **sauf pour un illuminé**, qui ignore le −1 défavorable et conserve le +1 favorable.
+- **Difficulté 3 = épreuve runique** : avec les trois dés de base et sans capacité exceptionnelle, **aucune Vision** ne peut strictement dépasser 3 Réussites finales sans **+1 runique net**. Un bonus et un malus runiques simultanés se neutralisent pour un non-illuminé. **L'Illumination permet de ne pas subir ce malus**, et donc de conserver un éventuel +1 favorable.
 - Une difficulté 3 **avec −1 non compensé** est un **tabou mécanique** pour toutes les Visions de base. Il ne doit pas condamner définitivement un personnage : rechercher une voie de transformation, une autre Rune pertinente ou un itinéraire narratif différent. Un malus runique n'est pas automatiquement un interdit absolu sur **tous** les autres niveaux de difficulté.
 - À difficulté 1 ou 2, un malus peut être compensé par un bonus runique. Attention : à **D2 avec −1 non compensé**, l'animiste, le logicien et désormais le théiste limité ne peuvent pas obtenir l'issue favorable ; le mystique C conserve une petite possibilité (**19/216 ≈ 8,80 %**) grâce à ses **4 Réussites possibles à D2**.
 - À D3 avec **+1 runique net**, les chances sont **25 % (théisme)**, **12,50 % (animisme)**, **9,26 % (logique)** et **25 % (mysticisme C)**. Ce n'est pas un accès garanti : prévoir des conséquences intéressantes, des alternatives et des conditions de nouvelle tentative.

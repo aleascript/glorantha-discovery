@@ -14,7 +14,7 @@ Les **mémoires** sont des connaissances ou informations acquises, indépendante
 
 1. Le paragraphe annonce une **difficulté 1, 2 ou 3** et deux issues avec leurs renvois.
 2. Il indique éventuellement des **Runes favorables** (+1 Réussite au maximum) et **défavorables** (−1 Réussite au maximum). Les deux effets peuvent coexister et s'annulent alors. Ils ne sont pas des dés et n'activent aucun effet de Vision.
-3. Le joueur lance **3D6** (sauf évolution explicitement acquise dans le jeu) et les lit **selon sa Vision**.
+3. Le joueur lance **3D6** (**jamais plus de trois dés**, même après progression) et les lit **selon sa Vision**.
 4. Ajouter les Réussites runiques : `Réussites finales = Réussites de la Vision + bonus runique − malus runique`.
 5. Pour obtenir la première issue, il faut **strictement dépasser** la difficulté (égalité = seconde issue).
 
@@ -138,7 +138,7 @@ Ces chiffres portent sur les **seuils**, pas seulement sur les moyennes ; des es
 - Les probabilités mystiques C proviennent de l'énumération exhaustive des 216 tirages ordonnés. Elles intègrent la règle stricte `Réussites finales > Difficulté`, et non `>=`.
 - **Sans rune**, mysticisme C : D1 **153/216**, D2 **72/216**, D3 **0/216**. **Avec +1**, D1 **208/216**, D2 **135/216**, D3 **54/216**.
 - Les statistiques supposent le **même nombre initial de dés (3)** pour les quatre Visions et des modificateurs ajoutés **après** la lecture du tirage.
-- Les capacités gagnées ultérieurement (par exemple un dé supplémentaire après une quête héroïque) modifieront ces statistiques et devront être étudiées séparément.
+- Les capacités gagnées ultérieurement (**prodiges, rites, changement de Runes, Illumination**) ne rajoutent **aucun quatrième dé**. Si elles modifient les bonus/malus, une nouvelle étude des probabilités sera nécessaire.
 - Pour le théisme limité, la distribution exacte du nombre de Réussites est : **0 : 1/8 ; 1 : 5/16 ; 2 : 5/16 ; 3 : 1/4**. La possibilité de produire **un dé supplémentaire**, existant dans la version antérieure inspirée de GP, est **supprimée pour Discovery**. Seule la probabilité de réussir **D3 sans bonus** change dans les deux tableaux de référence (anciennement 8,22 %, désormais 0 %).
 - Il faudra tester des résolutions **sociales, physiques, religieuses et de voyage** ainsi que la qualité des conséquences défavorables. Une issue défavorable **n'est jamais la mort** et ne doit pas systématiquement être une impasse.
 - Un paragraphe de voyage conserve son **numéro de retour** ; les événements propres au trajet pourront mener ailleurs, sans renvoi automatique forcé.

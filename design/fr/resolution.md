@@ -160,4 +160,4 @@ Cet exemple est une **forme éditoriale**, pas une affirmation canonique sur les
 - [Logique](https://github.com/aleascript/glorantha-perspectives/blob/main/docs/fr/perspectives/logic/index.md)
 - [Mysticisme](https://github.com/aleascript/glorantha-perspectives/blob/main/docs/fr/perspectives/mysticism/index.md)
 
-Le théisme limité à trois dés, la règle mystique C, l'hypothèse d'Illumination, la difficulté 3 runique et la rejouabilité conditionnelle **sont des choix propres à Discovery**, distincts du mécanisme de confrontation entre tirages de GP.
+Le théisme limité à trois dés, la règle mystique C, l'Illumination limitée à l'annulation des malus runiques, la difficulté 3 runique et la rejouabilité conditionnelle **sont des choix propres à Discovery**, distincts du mécanisme de confrontation entre tirages de GP.

@@ -10,7 +10,7 @@ Le premier livre de **Glorantha Discovery — Sartar** prend pour **référence 
 
 **Conséquence :** les personnalités, autorités, postes militaires, conflits locaux, interdits et rumeurs doivent être documentés **dans cet état historique**. Ne pas importer silencieusement les événements de 1625 ou de l'Éveil du Dragon comme faits déjà accomplis. Toute rencontre historique qui traverse la frontière de fin 1621 exige une décision éditoriale : événement jouable, borne chronologique du volume, ou report.
 
-**À décider :** le §001 commence-t-il en début d'année 1620 ou à une saison particulière ? Est-ce qu'une partie peut franchir la fin 1621 ? Pour le POC, choisir une **date de départ commune** afin que les embranchements saisonniers soient testables ; ne pas inventer cette date sans validation.
+**Décision de prototype (17 octobre 2026) :** le §001 commence en **Saison de la Mer 1620**. C'est une **convention Discovery provisoire**, retenue pour rendre la première tranche testable ; ce n'est pas une date imposée par le canon. La possibilité de franchir la fin 1621 reste à décider avant d'écrire les événements de frontière chronologique.
 
 ## 2. Les rencontres et les PNJ sont aussi importants que les lieux
 
@@ -40,7 +40,7 @@ Réserver le **§001** comme **point d'entrée fixe** (exception assumée à l'a
 
 Ne pas transformer cette entrée en encyclopédie : c'est un seuil vers l'exploration. On peut visiter les hubs sans connaître au préalable l'histoire du royaume.
 
-Le §001 doit aussi indiquer **l'état initial du calendrier et des coches**, mais les paramètres exacts restent à fixer. Il ne doit pas dévoiler les paragraphes secrets ni la liste complète des mémoires.
+Le §001 indique désormais **Saison de la Mer 1620** comme état initial du prototype. Les seuils de changement de saison et les autres paramètres de cadence restent à fixer. Il ne doit pas dévoiler les paragraphes secrets ni la liste complète des mémoires.
 
 **Action technique à préparer :** retirer la dépendance de l'accueil web à un hub de départ unique ; faire commencer le site et le futur livre au **même §001**.
 
@@ -109,7 +109,7 @@ Une même scène peut agir sur plusieurs couches, mais aucune n'est automatiquem
 
 ## 7. Prototype vertical à construire ensuite
 
-Un **§001** qui établit une date et laisse choisir le hub, **un hub** avec une branche de Saison de la Mer, **un trajet réellement parcouru** qui déclenche les coches conventionnelles prévues et propose sa sélection d'événements, **un PNJ** documenté pouvant réapparaître, et **une scène avec trois coches de visite**, produisant un changement durable à la troisième arrivée.
+Le **§001** établit désormais Saison de la Mer 1620 et laisse choisir le hub. Le prochain prototype vertical doit ajouter **un hub** avec une branche de Saison de la Mer, **un trajet réellement parcouru** qui déclenche les coches conventionnelles prévues et propose sa sélection d'événements, **un PNJ** documenté pouvant réapparaître, et **une scène avec trois coches de visite**, produisant un changement durable à la troisième arrivée.
 
 Le tout doit fonctionner **sans carte, sans meneur, sans issue mortelle**, par renvois simples et avec une fiche de suivi légère.
 

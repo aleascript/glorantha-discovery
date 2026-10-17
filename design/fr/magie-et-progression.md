@@ -110,7 +110,7 @@ La **Vision** règle la lecture ordinaire des dés (théisme, animisme, logique,
 
 ### Difficulté 3, tabou et transformation runique
 
-La difficulté 3 correspond, pour les quatre Visions ordinaires avec **3D maximum**, à une **épreuve runique** : elle exige un **+1 runique net** (après éventuelle compensation d'un −1). On ne lève pas ce seuil en ajoutant des dés.
+La difficulté 3 correspond, dans la résolution ordinaire des quatre Visions avec **3D maximum** et **sans Compréhension applicable**, à une **épreuve runique** : elle exige un **+1 runique net** (après éventuelle compensation d'un −1, sauf mystiques et Illuminés qui l'ignorent). **Une Compréhension mystique** peut abaisser D3 à D2 et donner une possibilité de réussite **sans** Rune favorable. On ne lève jamais le seuil en ajoutant des dés.
 
 Une **épreuve D3 rejouable** peut dépendre d'une nouvelle saison, d'un rite ou d'une découverte, mais elle ne doit jamais barrer sans solution toute la suite de l'exploration. Une condition de nouvelle tentative n'assure pas une réussite probabiliste : prévoir des chemins alternatifs ou des transformations qui changent réellement la situation.
 

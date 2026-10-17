@@ -1,48 +1,50 @@
-# Sartar — inventaire éditorial de travail
+# Sartar — inventaire de production et acquisitions du prototype
 
-Ce fichier n'est **pas** une page jouable. Entrées candidates, à vérifier dans les ouvrages ; toute indication temporelle doit être rapportée à l'époque choisie.
+> Ce document est un registre interne, non un sommaire de secrets destiné au joueur. La sélection de découvertes est volontairement **non exhaustive**.
 
-| Hub / zone | Sites et expériences candidates | Connaissances à documenter |
+## Cellules et lieux
+
+| Zone | Paragraphes disponibles | Chantiers ultérieurs |
 | --- | --- | --- |
-| Jonstown (§077) | Bibliothèque (§332), marché (§172), temple de Lhankor Mhy, auberges, autorités | traditions orlanthi, savoirs des scribes, histoire du royaume |
-| Boldhome (§193) | quartiers, palais, marchés, sanctuaires et temples, hospitalité | histoire de Sartar, sanctuaires, traditions politiques |
-| Wilmskirk (§046) | réseau de Goldgotti (§240), marché, auberges, temples, échanges méridionaux | pratiques locales, itinéraires, réseaux marchands, récits d'étape |
-| Duck Point (§458) | communauté durulz, habitat, échanges, accès au Marais | traditions durulz, récits du marais, voisinages |
-| Dangerford | traversée, lieux de passage, contrôle des routes | relations entre clans, conflits et mémoire des passages |
-| Alda-Chur | marché, temples, quartiers, institutions | cultures du nord, relations politiques |
-| Swenstown | étape commerciale, voyageurs, cultes | routes du sud, relations régionales |
-| Autres | Apple Lane, villages, fermes, sanctuaires, lieux mythiques | récits claniques, rites, traditions contradictoires |
+| Jonstown | §077 ville ; §332 bibliothèque ; §172 marché ; §110 Darvast Hornos | Hospitalité, temples, initiation, autorités |
+| Boldhome | §193 ville | Cultes, quartiers, conflits vécus |
+| Wilmskirk | §046 ville ; §240 réseau de Goldgotti | Rites, marchés et routes méridionales |
+| Duck Point | §458 ville | Durulz, voisinage du marais, relations |
+| Trajets | §600 Jonstown–Boldhome ; §069 Boldhome–Wilmskirk ; §190 Wilmskirk–Duck Point | Chaque trajet conserve son seul § bidirectionnel |
+| Autres sites | À attribuer | Dangerford, Alda-Chur, Swenstown, Apple Lane, etc. |
 
-## Différencier les couches
+§129 (ancienne rencontre commune) est supprimé et son numéro reste historiquement réservé ; il ne doit pas être réintroduit comme détour de route.
 
-- **Personnage** : cultures, Runes, culte, etc. (ne sont pas des mémoires).
-- **Mémoire** : connaissance ou témoignage acquis, identifiable par ID stable, éventuellement appris à plusieurs endroits, sans présupposer son adhésion.
-- **Lieu** : espace géographique et sites accessibles ; pas nécessairement un paragraphe unique.
-- **Paragraphe** : situation jouable à numéro stable ; peut ouvrir des renvois conditionnels.
+## Liste à cocher — canon Glorantha
 
-## Mémoires candidates
+| Mot-clé | Première expérience permettant de cocher |
+| --- | --- |
+| ORLANTH ; ERNALDA | Précoche à la création heortling Sartar |
+| JONSTOWN ; BOLDHOME ; WILMSKIRK ; DUCK POINT | Arrivée effective à §077, §193, §046, §458 respectivement |
+| LHANKOR MHY | Rencontre avec un scribe dans le temple-bibliothèque §332 |
+| ISSARIES | Rite observé chez Darvast §110 ou à la halte §069 sur 6 |
+| PORTEURS-DE-LUMIÈRE | Récit réellement entendu à §332 |
+| DARVAST HORNOS | Rencontre en personne §110 |
+| SORA GOODSELLER | Rencontre avec la caravane §600 sur 6 |
+| DURULZ | Vie communautaire vue à Duck Point §458 ou rencontre sur §190 (6), indépendamment du succès de la résolution |
+| GOLDGOTTI | Rencontre vécue avec son réseau à Wilmskirk §240 (pas simple mention du négociant) |
 
-| ID | Contenu minimal | Occasions candidates | Utilisations candidates |
-| --- | --- | --- | --- |
-| SARTAR-RECIT-PORTEURS-LUMIERE | Connaissance de l'existence du récit des Porteurs de Lumière dans une tradition d'Orlanth | Jonstown §332 ; temples ; récit oral | Repérer un signe §172 (démonstration, signe exact à documenter) |
-| SARTAR-MYTHE-PORTEURS-LUMIERE-APPROFONDI | **Mémoire distincte** de la simple connaissance de l'existence du récit : éléments approfondis du mythe, sans adhésion présumée | Conséquence spécialisée théiste à la bibliothèque §332 ; autres récits ou sanctuaires à étudier | Débloquer ultérieurement des interprétations et rencontres, **pas automatiquement un prodige** |
-| SARTAR-KOLATINGS-EXISTENCE | Connaissance de l'existence des Kolatings et possibilité de les reconnaître, **sans appartenance ni esprit acquis** | Conséquence spécialisée animiste à la bibliothèque §332 ; informations ailleurs | Ouvrir un renvoi de **rencontre ultérieure** avec des Kolatings, puis occasion de négocier un **esprit du Vent (Air)** |
-| SARTAR-TEMOIGNAGE-ORLANTHI | Témoignage situé sur une tradition ; **non validé** | Rencontres et autres informateurs | Distinguer des récits ou versions contradictoires |
-| SARTAR-HORNOS-GOLDGOTTI | Les Hornos dominent le Cercle du Commerce de Jonstown ; Darvast est en partenariat avec Goldgotti de Wilmskirk | Bibliothèque §332 ; autres informateurs possibles | Identifier Darvast au marché §172 ; amorcer le réseau marchand |
-| SARTAR-SORA-GOODSELLER | Sora Goodseller et sa caravane Bonne-Voix sont identifiables | Rencontre de route §129 | Reconnaître Sora lors de futures rencontres |
-| SARTAR-PISTE-GOLDGOTTI | Le réseau de Goldgotti peut être recherché à Wilmskirk | §129 si RELATION-HORNOS ; autres marchands à venir | Ouvrir §240 depuis Wilmskirk |
-| SARTAR-GOLDGOTTI-RESEAU | Le personnage sait identifier les agents de Goldgotti à Wilmskirk | §240 sans recommandation Hornos | Futurs services, nouvelles et routes méridionales |
+## Liste à cocher — déclencheurs Discovery
 
-**Objets candidats (non des mémoires) :** « grimoire du Mouvement » accessible au logicien dans une conséquence spécialisée de §332, à écrire comme **proposition de Discovery**, non comme objet canonique attesté. Tant qu'il le transporte, il peut mobiliser l'appui du Mouvement **lorsque cette Rune est favorable**. L'accès aux archives est soumis aux conditions de la fiction, notamment à l'autorité des Free Sages. Voir [Écriture des paragraphes et conséquences](../paragraphes-et-consequences.md).
-
-**Sources à consulter avant rédaction définitive :** *Sartar: Kingdom of Heroes*, *Sartar Companion*, *Thunder Rebels*, *Storm Tribe* et *Guide to Glorantha*. Les numéros sont des références de jeu, pas des numéros de pages PDF.
-
-
-## Premier fil marchand — statut des sources
-
-| Élément | Source / statut canonique | Adaptation Discovery |
+| Mot-clé | Acquisition vécue | Effet / reconnaissance |
 | --- | --- | --- |
-| Jonstown, bibliothèque, Sages Libres, Cercle du Commerce | *Sartar Companion*, chapitres Jonstown et Jonstown Library | Sélection des questions disponibles en §332 et IDs de mémoires |
-| Darvast Hornos | PNJ canonique ; grand prêtre d'Issaries, associé au réseau Hornos et partenaire de Goldgotti | Rencontre personnelle §110 et relation `RELATION-HORNOS` |
-| Goldgotti de Wilmskirk | Canonique comme marchand influent de Wilmskirk disposant d'agents dans le Pays Saint | Le facteur rencontré au §240 et les effets de `RELATION-GOLDGOTTI` |
-| Sora Goodseller / caravane Bonne-Voix | Rencontre canonique du *Sartar Companion* ; caravane entre Pays Saint et Provinces lunaires | Sa présence au tirage §129 et la reconnaissance conditionnelle du nom Hornos |
+| **Piste-Hornos** | Conversation marchande auprès du scribe §332 | Audience possible §110 depuis le marché §172 |
+| **Recommandation-Darvast** | Darvast vous autorise à citer son nom §110 | Accès et accueil privilégié au §240 |
+| **Piste-Goldgotti** | Conversation avec Sora Goodseller au §600 sur 6, sans prérequis Hornos | Point d'entrée indépendant au §240 depuis §046 |
+| **Contact-Goldgotti** | Accueil personnel à la maison de commerce §240 avec recommandation | Reconnaissance future, scènes à construire |
+| **Conseil-du-marais** | Issue favorable D1 de la rencontre DURULZ au §190 sur 6 | Mention reconnue au §458 ; usage ultérieur à développer |
+
+Un mot-clé acquis est idempotent. Ne pas récompenser deux fois une simple revisite ; garder une distinction nette entre connaissance vécue et relation privilégiée.
+
+## Source versus adaptation
+
+- **Canon à documenter :** *Sartar Companion*, sections Jonstown, bibliothèque, réseaux Hornos/Goldgotti, Goodvoice Caravan / Sora Goodseller ; *Sartar: Kingdom of Heroes* pour les Durulz et les traditions ; autres ouvrages et *Guide to Glorantha* au besoin.
+- **Adaptations Discovery :** scribe partageant une piste, mots-clés, mise en scène personnelle de Darvast, Sora sur §600, événement ISSARIES au §069, rencontre et jet DURULZ au §190, reconnaissance du réseau §240. Ces événements et mécanismes ne sont pas garantis dans le canon.
+- **À corriger ensuite :** donner un réel emploi au **Contact-Goldgotti** et au **Conseil-du-marais** plutôt que les laisser à l'état de promesses ; écrire une première initiation non automatique et des expériences fortes liées aux Visions.
+
+Le premier livre commence à **Mer 1619** ; éviter de projeter par défaut les personnalités et institutions de 1620–1621 à une époque où leur situation était différente.

@@ -10,7 +10,7 @@ Un paragraphe ne doit **pas** prévoir automatiquement une branche pour chacune 
 
 - Si une scène contient une découverte particulièrement intéressante pour le **logicien**, lui donner un renvoi propre.
 - Si une autre s'adresse au **théiste** ou à l'**animiste**, lui donner un renvoi adapté.
-- Si **aucun enjeu particulier** ne concerne le **mystique**, **ne pas créer de branche mystique vide**. Il profite toujours de la conséquence commune et de l'exploration normale.
+- Si **aucun enjeu particulier** ne concerne le **mystique**, **ne pas créer de branche mystique vide**. Mais prévoir **ailleurs dans le monde** des renvois lui donnant accès à des traditions et des **Compréhensions**, afin que son exploration ait elle aussi des conséquences durables.
 
 Le but n'est **pas** de produire quatre récompenses à chaque réussite, mais de faire sentir que **la manière d'habiter le monde change ce qu'on remarque et ce qu'on peut en faire**.
 
@@ -40,7 +40,7 @@ La page jouable actuelle **§332** transmet déjà une mémoire minimale `SARTAR
 | **Vision logique** | **§X** | Découverte / acquisition, selon les obstacles de la bibliothèque, d'un **grimoire du Mouvement**, permettant l'appui de la **Rune du Mouvement** dans les résolutions qui la déclarent favorable **tant que le grimoire est transporté** | **Objet / ressource magique** ; pas une Rune personnelle |
 | **Vision théiste** | **§Y** | Accès à un **récit approfondi des Porteurs de Lumière**, dont certains éléments deviennent reconnus ailleurs | **Mémoire spécifique**, par exemple `SARTAR-MYTHE-PORTEURS-LUMIERE-APPROFONDI` ; ne pas imposer l'adhésion ni confondre avec un prodige |
 | **Vision animiste** | **§Z** | Découverte de l'existence de la tradition **kolating**, permettant de reconnaître ultérieurement une occasion de rencontre avec des Kolatings et d'y négocier un **esprit lié du Vent (Rune de l'Air)** | **Mémoire `SARTAR-KOLATINGS-EXISTENCE`** ; l'esprit **n'est pas encore acquis** |
-| **Vision mystique** | **Aucun renvoi spécial** | Le personnage suit l'issue commune ; aucune récompense n'est ajoutée pour cette Vision | Aucune condition artificielle |
+| **Vision mystique** | **Aucun renvoi spécial dans cet exemple** | Le personnage suit l'issue commune ; **d'autres scènes**, en lien avec les traditions mystiques, pourront lui ouvrir une Compréhension | Aucune condition artificielle à la bibliothèque |
 
 **Important :** les propositions de §X/Y/Z **ne sont pas des affirmations que ces trois récompenses se trouvent effectivement dans la source**, ni des numéros réservés. La disponibilité d'un objet rare, l'accès aux archives, une lecture contradictoire des mythes et la nature exacte de la rencontre spirituelle doivent être conçus avant de rédiger des paragraphes jouables définitifs.
 
@@ -61,10 +61,23 @@ La séquence a aussi un effet exploratoire réel : une découverte à Jonstown p
 
 **Découverte d'un récit → mémoire → interprétation ou reconnaissance dans d'autres scènes.** Une connaissance mythique ne déclenche **pas automatiquement** un prodige. Les **prodiges théistes** sont découverts par des voies explicites (culte, rite, sanctuaire, quête) et disposent chacun de la fréquence **une fois par saison ou par année**.
 
-### Mysticisme et Illumination
+### Mysticisme : des § spécialisés là où ils sont pertinents
 
-- **Mysticisme** : aucune découverte spécifique obligatoire ; aucune compensation artificielle n'est ajoutée pour le mystique.
-- **Illumination** : **n'est pas une Vision** et **ne change pas la Vision**. Son **seul effet mécanique** est d'**ignorer le −1 runique défavorable**. Ne pas utiliser « illuminé » comme un cinquième cas de récompense systématique.
+La bibliothèque de Jonstown **n'exige pas** de renvoi supplémentaire pour le mystique. Mais de nouvelles scènes doivent lui permettre de découvrir des traditions et des concepts mystiques rencontrés ailleurs : **Lune Blanche, Lune Bleue, Dayzatar**, etc., selon leur contexte canonique. Ces découvertes peuvent procurer des **mots-clés / mémoires d'accès** qui ouvrent ensuite une rencontre ou un voyage. Exemple fictif : connaissance de la **Lune Bleue** → possibilité d'une aventure sur le **Plateau de la Lune Bleue**.
+
+**Récompense spécifique du mysticisme : une Compréhension**. Après une expérience marquante, le joueur inscrit une dualité entre deux Runes (par exemple `Air / Lune`) sur sa feuille. La Compréhension ne s'applique **que lorsque le paragraphe désigne explicitement l'une comme favorable et l'autre comme défavorable**, dans un sens ou l'autre. Elle **réduit la difficulté de 1**, y compris **D1 → D0**, cas où **l'issue favorable est automatique** sans jet. La face recherchée par la règle mystique reste celle de la **difficulté initiale**, si un jet est nécessaire.
+
+**Immunité mystique** : le mystique ignore toujours le malus runique −1. La mention d'une Rune défavorable dans le § reste toutefois pertinente pour **déclencher** une Compréhension : on prend en compte l'opposition **écrite**, pas la pénalité réellement appliquée.
+
+### Rencontre avec un Illuminé : Compréhension personnelle
+
+Si le mystique rencontre effectivement un **Illuminé**, qu'il s'agisse par exemple d'un personnage d'une tradition **arkatie** ou **lunaire**, cette rencontre lui donne une **Compréhension personnelle choisie librement par le joueur** : deux Runes distinctes, notées **à ce moment précis**, dont il pourra désormais reconnaître l'opposition dans les résolutions.
+
+Cela **ne transforme pas le mystique en Illuminé**. L'**Illumination** reste un statut distinct, possible pour toute Vision, dont l'**unique effet mécanique** est d'**ignorer le malus runique −1**. Cet effet est sans gain mécanique pour le mystique, qui l'ignore déjà.
+
+La scène de rencontre doit prévoir **une acquisition unique**, évitant le retour répété au même interlocuteur pour collectionner indéfiniment des dualités. Une Compréhension acquise peut ensuite être reconnue **dans tous les volumes**.
+
+**Économie de design :** les résolutions portant une vraie opposition **Rune favorable / Rune défavorable** sont supposées **rares**, les malus runiques étant moins fréquents que les bonus. Une Compréhension est donc un levier puissant mais **très situé**. Il n'est pas nécessaire de compenser sa force en donnant des § spéciaux au mystique dans tous les lieux.
 
 ## Critère de qualité des § : la conséquence doit créer de futurs choix
 

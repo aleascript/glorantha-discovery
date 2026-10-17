@@ -114,15 +114,41 @@ Ce contraste est **une proposition de design**, pas une règle canonique affirma
 
 Les deux Visions ne doivent **pas** recevoir exactement les mêmes capacités remaquillées. Le sort peut être fiable mais exiger une préparation ; l'esprit peut être souple et personnel mais poser une condition ou demander quelque chose en échange. Le détail doit rester assez simple pour un livre-jeu.
 
+### Modèle concret retenu pour les appuis runiques : esprit, grimoire, chaman
+
+**Animiste ordinaire — un esprit consommable, pas une Rune acquise.** Au cours d'une rencontre ou d'un § dédié, l'animiste peut **lier un esprit associé à une Rune**, par exemple **l'Eau**. Lors d'une résolution qui reconnaît l'Eau parmi ses Runes favorables, l'animiste peut invoquer ce lien pour bénéficier du **+1 runique favorable**, sous les plafonds habituels. **Après avoir accordé cet appui, l'esprit s'en va** : retirer cet esprit des liens disponibles. Le personnage doit **rencontrer et lier un autre esprit** pour obtenir à nouveau cette possibilité. Même si la Rune n'est pas favorable dans une situation donnée, l'esprit peut éventuellement ouvrir des scènes qui lui sont propres ; **on ne consomme pas automatiquement un esprit simplement parce qu'on entre dans un paragraphe**.
+
+**Logicien — un grimoire transportable.** Le logicien peut découvrir, emprunter ou obtenir un **grimoire de magie de l'Eau**, par exemple dans une bibliothèque ou auprès d'un praticien. **Tant qu'il transporte ce grimoire**, la Rune de l'Eau devient **accessible comme Rune favorable** dans les résolutions qui la mentionnent. L'effet est **réutilisable** ; il cesse si le livre est perdu, déposé ou inaccessible. Cette accessibilité est liée à l'objet, **non à une transformation permanente de la Rune personnelle**. Les conditions exactes de lecture, d'apprentissage ou de mise en œuvre appartiennent à chaque grimoire ; ne pas imposer une comptabilité d'inventaire complexe.
+
+**Animiste devenu chaman — liens durables.** Une **progression exceptionnelle**, obtenue par une initiation, un parcours spirituel ou un accomplissement scénarisé, pourrait permettre à l'animiste de devenir **chaman**. Désormais, **les esprits liés ne s'en vont plus lorsqu'ils ont accordé leur bonus runique** : le lien persiste et l'esprit peut être sollicité à nouveau. C'est une transformation structurelle de la manière de progresser, pas un +1 automatique sur toutes les épreuves. Les éventuelles obligations envers les esprits, conditions de nouvelle invocation, limites du nombre de liens entretenus ou périodicités sont **encore à étudier** : ne pas les ajouter sans raison au jeu.
+
+| Situation lors d'une résolution où **Eau** est favorable | Disponibilité du +1 Eau | Après l'utilisation |
+| --- | --- | --- |
+| Animiste avec un esprit de l'Eau lié | Oui, s'il décide d'invoquer l'esprit | L'esprit part ; il faut en rencontrer un autre |
+| Logicien transportant son grimoire de l'Eau | Oui, tant que le grimoire est accessible | Le grimoire reste ; le bonus sera de nouveau accessible |
+| Chaman avec un esprit de l'Eau lié | Oui, lorsqu'il sollicite le lien | L'esprit reste lié ; les conditions de réutilisation restent à préciser |
+
+**Trois contraintes communes :**
+
+1. Une Rune prêtée par un esprit ou rendue accessible par un grimoire ne compte pour **+1** que si **le paragraphe de résolution l'indique favorable**. Elle n'est **pas** un +1 universel et n'efface pas spontanément un malus runique.
+2. Les appuis favorables restent **plafonnés à +1 au total**, même si le personnage dispose de plusieurs esprits, grimoires ou Runes favorables.
+3. **L'identité runique du personnage ne change pas** : l'esprit et le grimoire apportent un **accès conditionnel à un appui**, tandis qu'une **initiation changeant les Runes** reste un autre mécanisme, plus profond.
+
+**Moteurs d'aventure :** l'animiste doit découvrir où résident les esprits, négocier leurs faveurs, puis repartir en quête d'autres rencontres. Le logicien cherche des grimoires, des bibliothèques, des maîtres et des textes rares, et peut devenir dépendant d'un objet qu'il souhaite conserver. L'aspiration au **chamanisme** devient une grande quête de progression : passer d'alliances éphémères à des relations spirituelles durables.
+
+**Vigilance :** le chaman et le logicien équipé d'un grimoire peuvent tous deux bénéficier d'appuis renouvelables. Leur différence doit exister **dans les aventures** (relations et obligations envers des esprits, versus possession, accès et préservation de textes), pas nécessairement dans un calcul supplémentaire. Il faudra éprouver leur puissance en jeu avant d'introduire un plafond d'esprits ou de grimoires.
+
+**Lore vs design :** *HeroQuest — Sartar: Kingdom of Heroes*, sections « Kolating Shamans », « Charms » et « Spells », décrit bien des **chamans négociant avec les esprits**, des **charmes habités par des esprits** et l'apprentissage possible de sorts à partir de **textes magiques/grimoires**. Il donne même un exemple d'accès au **Torvalds Fragments Grimoire** au sein d'un temple de Lhankor Mhy. En revanche, la règle **« esprit ordinaire = une faveur puis départ ; chaman = lien conservé »** et l'accès runique **« grimoire porté = bonus disponible »** sont **des inventions propres à Discovery**, non des propriétés canoniques générales de la magie. Certains charmes gloranthiens sont déjà durables hors chamanisme ; l'adaptation doit être assumée comme une abstraction ludique.
+
 ### Effets candidats
 
 **Relancer une résolution entière** : après avoir obtenu l'issue défavorable, lancer à nouveau les **mêmes 3D6**, relire selon sa Vision, puis conserver obligatoirement **le second résultat**. Le pouvoir indique sa fréquence ou sa consommation. Cette possibilité ne modifie **pas** l'accessibilité d'une D3 si le bonus runique net reste nul ou négatif.
 
-**Bénéficier temporairement d'une Rune** : un sort ou un esprit peut accorder un **appui runique situé**, qui compte comme l'une des Runes favorables explicitement prévues par **ce paragraphe de résolution**, sans changer les Runes permanentes du personnage. **Au plus +1 runique favorable** au total, quel que soit le nombre d'appuis. Une opposition runique −1 déjà présente continue de s'appliquer ; le simple appui +1 ne suffit donc pas à réussir D3 si les deux s'annulent. Un effet neutralisant spécifiquement un malus relève d'une capacité **différente**, à écrire explicitement.
+**Accéder à l'appui d'une Rune** : un grimoire porté ou un esprit lié peut accorder un **appui runique situé**, qui compte comme l'une des Runes favorables explicitement prévues par **ce paragraphe de résolution**, sans changer les Runes permanentes du personnage. **Au plus +1 runique favorable** au total, quel que soit le nombre d'appuis. Une opposition runique −1 déjà présente continue de s'appliquer ; le simple appui +1 ne suffit donc pas à réussir D3 si les deux s'annulent. Un effet neutralisant spécifiquement un malus relève d'une capacité **différente**, à écrire explicitement.
 
 **Ouvrir un choix ou éviter un jet** : la magie peut autoriser l'accès à un paragraphe inédit, une conversation, une traversée ou une issue favorable contextualisée, plutôt que toujours modifier les probabilités.
 
-**Cadence et contraintes** : une fois par saison, par année ou après un nouveau rituel/offrande ; recourir au calendrier **conventionnel du personnage**, pas à des jours simulés. Certaines puissances pourraient s'épuiser définitivement ou changer d'attitude, mais éviter une économie de consommables lourde.
+**Cadence et contraintes des autres pouvoirs** : une fois par saison, par année ou après un nouveau rituel/offrande ; recourir au calendrier **conventionnel du personnage**, pas à des jours simulés. Certaines puissances pourraient s'épuiser définitivement ou changer d'attitude, mais éviter une économie de consommables lourde.
 
 ### Mesure exacte de l'effet « une relance après un échec »
 

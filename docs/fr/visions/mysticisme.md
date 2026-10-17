@@ -25,4 +25,4 @@ Chaque Compréhension associe **deux Runes distinctes** (par exemple Air / Lune)
 
 Une seule Compréhension s'applique par résolution dans ce prototype. Notez vos dualités sur la fiche. Une rencontre spécialement prévue avec un Illuminé peut accorder une Compréhension personnelle librement choisie, sans conférer automatiquement l'Illumination.
 
-**Découverte** : le mot-clé d'une rencontre vécue reste acquis, quelle que soit l'issue de la résolution.
+**Mots-clés** : un nom de lore en MAJUSCULES représente une rencontre vécue : entourez-le ou barrez-le seulement si le § le demande. La résolution peut déterminer la marque, sans supprimer l'expérience. Un déclencheur local en minuscules/gras se coche simplement si le § l'accorde.

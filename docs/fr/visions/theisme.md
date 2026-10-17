@@ -26,4 +26,4 @@ D3 exige normalement un bonus runique net ou une capacité exceptionnelle ; n'at
 
 Le théiste peut découvrir des **prodiges** auprès des cultes et des mythes. Notez sur la fiche leur effet et leur fréquence, par exemple une fois par saison ou par année. Les prodiges n'augmentent pas le nombre de dés.
 
-**Découverte** : le mot-clé d'une rencontre vécue est acquis même si la résolution mène à la seconde issue ; une coche supplémentaire peut être conditionnée à la première.
+**Mots-clés** : un nom de lore en MAJUSCULES représente une rencontre vécue : entourez-le ou barrez-le seulement si le § le demande. La résolution peut déterminer la marque, sans supprimer l'expérience. Un déclencheur local en minuscules/gras se coche simplement si le § l'accorde.

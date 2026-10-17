@@ -23,4 +23,4 @@ D3 demande normalement un bonus runique net ou une capacité exceptionnelle : m�
 
 Le logicien peut découvrir des **grimoires** transportables. Un grimoire peut rendre disponible une Rune favorable dans les situations qui l'acceptent, sans devenir une Rune personnelle ni dépasser le plafond de +1. Notez son nom et sa disponibilité sur la fiche.
 
-**Découverte** : une rencontre vécue transmet son mot-clé indépendamment du jet ; une acquisition supplémentaire peut dépendre de l'issue.
+**Mots-clés** : un nom de lore en MAJUSCULES représente une rencontre vécue : entourez-le ou barrez-le seulement si le § le demande. La résolution peut déterminer la marque, sans supprimer l'expérience. Un déclencheur local en minuscules/gras se coche simplement si le § l'accorde.

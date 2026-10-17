@@ -23,4 +23,4 @@ Il n'y a jamais plus de trois dés à lancer. D3 exige normalement un appui runi
 
 L'animiste peut négocier avec des **esprits**. Un esprit lié ordinaire peut prêter l'appui d'une Rune favorable dans une scène qui le permet, puis partir. Le chamanisme pourra offrir des relations spirituelles plus durables. Notez les esprits et leurs conditions sur la fiche.
 
-**Découverte** : la rencontre vécue donne son mot-clé, quel que soit le résultat d'une résolution ; un pacte ou une autre coche peut dépendre du résultat.
+**Mots-clés** : un nom de lore en MAJUSCULES représente une rencontre vécue : entourez-le ou barrez-le seulement si le § le demande. La résolution peut déterminer la marque, sans supprimer l'expérience. Un déclencheur local en minuscules/gras se coche simplement si le § l'accorde.

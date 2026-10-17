@@ -3,18 +3,32 @@ id: enter-the-fiction
 title: Comment jouer
 ---
 
-# Comment jouer au prototype
+# Comment jouer à Glorantha Discovery
 
-Commencez au [§001 — Entrer en Sartar](./paragraphes/001.md). Ce paragraphe fixe l'état initial du prototype et vous laisse choisir librement votre premier lieu.
+Commencez au [§001 — Entrer en Sartar](./paragraphes/001.md) pour créer un personnage heortling ou arriver avec un personnage issu d'un autre livre. Le livre-jeu est un monde ouvert, sans quête principale.
 
-Un paragraphe est un numéro stable : vous y revenez en suivant les renvois, comme dans un livre-jeu. Il n'existe pas de quête principale imposée. Les lieux, personnes, rencontres et informations que vous découvrez peuvent modifier des possibilités ailleurs.
+## Feuille et supports
 
-**Explorer** permet de visiter les lieux d'un hub. **Voyager** mène à un paragraphe de trajet commun aux deux directions : notez son numéro, effectuez les jets qui y sont indiqués, consultez les rencontres obtenues puis revenez au trajet, sauf instruction contraire. Choisissez enfin votre destination parmi les deux extrémités proposées.
+Utilisez la [feuille universelle](./fiche-personnage.md), la [liste des découvertes de Sartar](./decouvertes-sartar.md) au verso de la carte prévue pour ce volume, et la règle de votre Vision : [Théisme](./visions/theisme.md), [Animisme](./visions/animisme.md), [Logique](./visions/logique.md) ou [Mysticisme](./visions/mysticisme.md).
 
-**Connaissances et personnage sont distincts.** Une mémoire est une information apprise pendant le jeu : histoire, nom, récit, signe reconnu, témoignage. Elle n'est ni une Rune, ni une culture, ni un culte, ni un trait constitutif du personnage. Vous pouvez noter vos mémoires librement.
+## Comment acquérir un mot-clé
 
-Une **relation** ou une **coche** indique quelque chose qui s'est effectivement produit : une personne déjà rencontrée, un service rendu, une visite accomplie. Ces états sont distincts des mémoires.
+Dans le corps narratif d'un paragraphe, les **NOMS EN MAJUSCULES** désignent une connaissance vécue du lore officiel de Glorantha ; les **déclencheurs en gras** sont propres à Discovery. Ces conventions typographiques servent à identifier un mot-clé à cocher sur la liste du livre. Les titres, boutons, liens et consignes de cette page ne sont pas des acquisitions.
 
-Lorsqu'un paragraphe indique « si vous connaissez… » ou « si vous avez… », empruntez ce renvoi uniquement si cette connaissance, relation ou ressource a réellement été acquise au cours de votre partie ou établie au départ par les règles de création. Ne présumez pas des croyances, impressions ou réactions de votre personnage.
+Le mot-clé s'obtient par une rencontre ou une expérience effectivement vécue, jamais par une simple mention, rumeur, destination choisie mais non atteinte ou nom aperçu dans une liste. Le mot apparaît au moment où la scène rend l'acquisition légitime ; aucune formule « notez ce mot » n'est nécessaire.
 
-**État du POC :** la structure des scènes et la cadence des événements restent expérimentales. Le cadre historique utilisé pour cette tranche est Sartar en **1620–1621, avant les bouleversements majeurs de fin 1621**.
+Lorsqu'une rencontre comporte une résolution, le **mot-clé de la rencontre est acquis indépendamment de son résultat**. Une autre coche, un contact, un avantage ou un renvoi peut dépendre de l'issue. Un mot-clé déjà coché ne se coche pas une seconde fois.
+
+La culture, la Vision, les Runes et le culte constituent l'identité du personnage et ne sont pas des mots-clés. Les prodiges, grimoires, esprits et Compréhensions ont leur espace sur la fiche. Les cases de calendrier et les états de visite sont également distincts.
+
+## Voyages et calendrier
+
+Chaque tronçon possède un paragraphe **unique et bidirectionnel**. Effectuez la rencontre décrite dans ce seul paragraphe, puis choisissez l'autre extrémité. Après un voyage réellement terminé, cochez **une case de calendrier**, quel que soit le résultat. Il y a huit cases par saison et six périodes par année : Mer, Feu, Terre, Sombre (Ténèbres), Tempêtes et Temps sacré. Huit coches achèvent une période et remettent le compteur à zéro pour la suivante.
+
+Une initiation ou un trajet distant qui coûte une saison fait avancer **de huit cases**, en conservant la position dans la nouvelle saison. Les déplacements d'un livre à l'autre préservent le calendrier global du personnage. Les futurs voyages distants seront proposés uniquement quand une destination sera jouable et renverront à son §001.
+
+## Résolutions
+
+La résolution utilise toujours trois dés à six faces, lus suivant la Vision du personnage. Une issue défavorable doit aussi être jouable : aucune résolution ordinaire ne tue le personnage. Le texte d'une rencontre indique ses acquis et ses conséquences sans rendre les connaissances de base dépendantes de la réussite.
+
+**État du prototype :** date initiale 1619 ; les conséquences historiques des années 1621 et 1625 ne sont pas encore toutes écrites. Les cartes prêtes à imprimer et l'édition finale restent en chantier.

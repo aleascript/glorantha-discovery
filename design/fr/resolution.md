@@ -8,7 +8,7 @@ Découvrir Glorantha en jouant, sans meneur et sans calculs lourds. Le personnag
 
 Une résolution tranche **entre deux issues concrètes** de la fiction. L'issue favorable n'est pas nécessairement un succès absolu ; l'autre issue doit être intéressante, produire des conséquences, ouvrir un détour ou une découverte. **Aucune issue de résolution ne conduit à la mort du personnage.**
 
-Les **mémoires** sont des connaissances ou informations acquises, indépendantes de ce qui définit le personnage (Runes, culte, culture, Vision). Elles servent notamment à **ouvrir des choix**. Les **Runes** peuvent influer sur la résolution, comme une découverte progressive de leurs significations possibles ; cette indication n'épuise jamais leur sens mythique.
+Les **mots-clés de découvertes vécues** se cochent sur la liste du livre (MAJUSCULES : canon, gras : déclencheur Discovery), indépendamment de l'issue d'une résolution. Ils peuvent ouvrir des choix ; les Runes, cultes, cultures et Visions restent distincts. Les **Runes** peuvent influer sur la résolution, comme une découverte progressive de leurs significations possibles ; cette indication n'épuise jamais leur sens mythique.
 
 ## Procédure commune
 
@@ -18,7 +18,7 @@ Les **mémoires** sont des connaissances ou informations acquises, indépendante
 4. Ajouter les Réussites runiques : `Réussites finales = Réussites de la Vision + bonus runique − malus runique`. **Pour un mystique ou un personnage illuminé, le malus runique vaut toujours 0**, sans autre changement.
 5. Pour obtenir la première issue, il faut **strictement dépasser** la difficulté **éventuellement abaissée** (égalité = seconde issue). **L'exception D0 accorde explicitement l'issue favorable sans lancer de dés.**
 
-Cette procédure évite de lister toutes les cultures, cultes et mémoires de tous les futurs volumes pour chaque résolution. L'auteur précise uniquement les Runes qui jouent *dans cette situation*.
+Cette procédure évite de lister toutes les cultures, cultes et mots-clés de tous les futurs volumes pour chaque résolution. L'auteur précise uniquement les Runes qui jouent *dans cette situation*.
 
 ## Quatre lectures candidates des 3D6
 
@@ -62,7 +62,7 @@ La version antérieure « Mysticisme A » (bonus sur doublets/triplets) est **é
 
 ### Compréhensions mystiques — abaisser une difficulté d'opposition runique
 
-**Nouvelle direction :** un mystique peut acquérir une **Compréhension** à la suite d'une découverte, d'une rencontre ou d'une aventure mystique. Ce n'est pas un sort, un prodige ou une Rune supplémentaire : c'est un **mot-clé persistant de compréhension d'une dualité entre deux Runes**.
+**Nouvelle direction :** un mystique peut acquérir une **Compréhension** à la suite d'une découverte, d'une rencontre ou d'une aventure mystique. Ce n'est pas un sort, un prodige ou une Rune supplémentaire : c'est une **capacité persistante notée sur la feuille universelle**, décrivant une dualité entre deux Runes.
 
 **Condition stricte :** la Compréhension `Air / Lune` s'applique uniquement aux résolutions qui **mentionnent explicitement Air favorable et Lune défavorable, OU Lune favorable et Air défavorable**. Elle ne s'applique pas à une scène ne mentionnant que l'Air ou que la Lune ; une simple coexistence de deux Runes favorables ne suffit pas. Même si le mystique **ignore le malus**, la **Rune défavorable écrite** continue de définir l'opposition et peut déclencher la Compréhension.
 
@@ -116,7 +116,7 @@ Ces pourcentages **ne sont pas** les chances moyennes d'un mystique au fil du je
 
 ### Rejouer une épreuve D3 sans banaliser son enjeu
 
-**Principe éditorial proposé :** ne jamais poser une réussite D3 comme **unique passage indispensable** à la progression. Si le joueur peut retenter, la condition doit être annoncée (par exemple **à partir de la saison suivante**, après un rite, une rencontre, une mémoire ou un changement d'affiliation). Une nouvelle tentative n'est **pas** un simple « relancez immédiatement » ; elle correspond à un retour dans un contexte transformé.
+**Principe éditorial proposé :** ne jamais poser une réussite D3 comme **unique passage indispensable** à la progression. Si le joueur peut retenter, la condition doit être annoncée (par exemple **à partir de la saison suivante**, après un rite, une rencontre, un mot-clé ou un changement d'affiliation). Une nouvelle tentative n'est **pas** un simple « relancez immédiatement » ; elle correspond à un retour dans un contexte transformé.
 
 Une épreuve D3 réussie ouvre une possibilité forte. Son issue défavorable doit elle aussi ouvrir une voie intéressante, sans mort du personnage ni blocage définitif. Les voyages qui font passer les saisons sont de **vrais trajets** et le calendrier reste **conventionnel**, non une mesure de journées écoulées.
 
@@ -185,3 +185,8 @@ Cet exemple est une **forme éditoriale**, pas une affirmation canonique sur les
 - [Mysticisme](https://github.com/aleascript/glorantha-perspectives/blob/main/docs/fr/perspectives/mysticism/index.md)
 
 Le théisme limité à trois dés, la règle mystique C, les Compréhensions, l'immunité mystique aux malus, l'Illumination limitée à l'annulation des malus runiques, la difficulté 3 runique et la rejouabilité conditionnelle **sont des choix propres à Discovery**, distincts du mécanisme de confrontation entre tirages de GP.
+
+
+## Contrat éditorial commun
+
+Voir [les mots-clés et leurs acquisitions](mots-cles-et-supports.md). **La rencontre vécue est acquise quelle que soit l'issue du jet** ; une éventuelle coche supplémentaire de Discovery, capacité ou ressource dépend en revanche de la conséquence écrite. La difficulté et les probabilités ci-dessus ne sont pas modifiées par cette convention.

@@ -40,7 +40,7 @@ Ces avantages ne sont **ni distribués à la création**, ni donnés automatique
 
 ## Les formes de progression
 
-- **Connaissances / mémoires** : savoirs, témoignages, interprétations, mythes, lieux et informations acquis ; une même mémoire peut être accessible dans plusieurs livres et être reconnue ailleurs. Une connaissance peut donner accès à un paragraphe sans augmenter le score d'une résolution.
+- **Mots-clés de découverte vécue** : lieux réellement visités, rencontres, mythes entendus en scène, peuples rencontrés. Les majuscules désignent le canon gloranthien, le gras les déclencheurs de Discovery. Une mention ou rumeur ne donne rien ; le mot-clé est acquis indépendamment de l'issue d'une résolution.
 - **Relations et renommée** : accueil, obligations, alliances, inimitiés, réputation locale ou plus large. Ces états sont distincts des connaissances et peuvent changer avec les événements.
 - **Objets, ressources et équipements** : éléments possédés dont les effets sont circonstanciés et parfois reconnus par d'autres personnages.
 - **Prodiges, magie et relations spirituelles** : capacités acquises auprès d'un culte, d'une tradition, d'un esprit ou à travers une expérience. Elles comportent des modalités concrètes d'usage.
@@ -50,7 +50,7 @@ Ces avantages ne sont **ni distribués à la création**, ni donnés automatique
 
 ## Trois fonctions mécaniques distinctes
 
-1. **Mémoire** : ouvre des choix et de nouvelles interprétations parce que le personnage a appris quelque chose.
+1. **Mot-clé de rencontre vécue** : matérialise une expérience, et peut ouvrir des choix ou de nouvelles interprétations ; sa coche ne dépend jamais de la réussite d'un jet.
 2. **Rune** : peut accorder **au plus +1 Réussite** ou imposer **au plus −1 Réussite** lorsqu'une résolution la déclare pertinente ; voir [résolution](resolution.md).
 3. **Prodige / objet extraordinaire / capacité** : crée une **exception spécifique**, décrite dans le texte de jeu. Elle peut permettre un acte autrement inaccessible, ouvrir un renvoi, neutraliser un obstacle, ou obtenir une issue favorable selon des conditions définies.
 
@@ -88,13 +88,13 @@ La **Vision** règle la lecture ordinaire des dés (théisme, animisme, logique,
 
 À développer sous leurs formes retenues : **prodiges théistes**, **esprits animistes**, **grimoires logiques**. Le mysticisme apporte des **Compréhensions** qui réduisent certaines difficultés d'oppositions runiques, **sans collection de capacités consommables**. **L'Illumination n'accorde qu'une seule exception mécanique : ignorer le malus runique**, indépendamment de la Vision. La diversité doit se voir dans les **possibilités de fiction**, sans sous-systèmes de calcul.
 
-**Cadre Sartar 1620–1621 :** vérifier chaque capacité et son attribution à une tradition dans les sources avant de l'intégrer comme fait du monde. Les exemples inventés restent explicitement des expériences de design.
+**Cadre Sartar démarrant en 1619 :** vérifier chaque capacité et son attribution à une tradition dans les sources avant de l'intégrer comme fait du monde. Les exemples inventés restent explicitement des expériences de design.
 
 ### Mysticisme, Compréhensions et Illumination — principes retenus
 
 **Mysticisme de base :** compter les dés pairs et ajouter **+1 Réussite une seule fois** si au moins un dé correspond à la difficulté **initiale**. Avec cette Vision, **aucun malus runique −1 ne s'applique**, même si la Rune défavorable reste inscrite dans les conditions d'une scène. La **Kralorela** reste une référence culturelle pertinente à documenter.
 
-**Progression mystique :** découvrir des traditions mystiques (Lune Blanche, Lune Bleue, Dayzatar, etc.) et acquérir des **mémoires / mots-clés de découverte** permet d'ouvrir de nouveaux renvois et des aventures dans d'autres régions, sans définir de quête principale. Une expérience exceptionnelle peut accorder une **Compréhension**, c'est-à-dire une **dualité de deux Runes** notée sur la feuille de personnage.
+**Progression mystique :** découvrir des traditions mystiques (Lune Blanche, Lune Bleue, Dayzatar, etc.) et acquérir des **mots-clés de découverte vécue** permet d'ouvrir de nouveaux renvois et des aventures dans d'autres régions, sans définir de quête principale. Une expérience exceptionnelle peut accorder une **Compréhension**, c'est-à-dire une **dualité de deux Runes** notée sur la feuille de personnage.
 
 **Activation très ciblée :** lorsqu'une résolution désigne **l'une des deux Runes comme favorable** et **l'autre comme défavorable** (dans un sens ou dans l'autre), la Compréhension **réduit la difficulté de 1**. Il n'est pas nécessaire que le malus runique soit réellement appliqué : c'est l'**opposition écrite dans le paragraphe** qui déclenche la Compréhension. La difficulté **initiale** sert toujours à identifier la face spéciale de la règle mystique. Si la difficulté tombe à **0, l'issue favorable est automatique, sans jeter les dés**.
 
@@ -231,4 +231,13 @@ Tester aussi un objet remarquable et une relation de renommée qui ouvrent des a
 
 - [Résolution — quatre Visions, difficultés et statistiques](resolution.md)
 - [Architecture du livre-jeu](architecture.md)
-- [Sartar 1620–1621 — chronologie, rencontres, saisons et coches](sartar/chronologie-rencontres-et-etats.md)
+- [Sartar 1619 — chronologie, rencontres, saisons et coches](sartar/chronologie-rencontres-et-etats.md)
+
+
+## Contrat de feuille et de saison (adopté)
+
+La [feuille universelle](personnage-et-calendrier.md) porte l'année, la période et **huit cases par période** (six périodes, 48 coches par année). Les prodiges, grimoires, esprits et Compréhensions occupent une seule catégorie par Vision ; les trois autres sont rayées. L'Illumination n'en est pas une cinquième.
+
+Une initiation envisagée coûte **huit coches** (une saison), donne une possibilité de remplacement de Rune et un mythe avec son § de référence ; les critères d'accès aux cultes et les épreuves de rupture demandent encore à être joués et vérifiés. Les voyages distants qui le précisent coûtent eux aussi huit coches et conservent la position dans la période.
+
+Les découvertes canon/Discovery sont cochées sur le verso des cartes de volumes selon [le contrat des mots-clés](mots-cles-et-supports.md). Une scène avec résolution donne toujours sa connaissance vécue ; seules certaines conséquences conditionnelles fournissent de nouveaux états ou pouvoirs.

@@ -1,6 +1,6 @@
 # Écriture des paragraphes — conséquences et découvertes selon la Vision
 
-> **Statut :** consignes éditoriales de travail, issues du modèle de progression adopté pour *Glorantha Discovery*. Ce document ne correspond **pas** à des paragraphes jouables. Les §X/§Y/§Z ci-dessous sont **des espaces réservés fictifs**, sans numéro attribué. Voir [architecture](architecture.md), [résolution](resolution.md) et [magie et progression](magie-et-progression.md).
+> **Statut :** exemples de conception à adapter au nouveau [contrat des mots-clés](mots-cles-et-supports.md), issus du modèle de progression adopté pour *Glorantha Discovery*. Ce document ne correspond **pas** à des paragraphes jouables. Les §X/§Y/§Z ci-dessous sont **des espaces réservés fictifs**, sans numéro attribué. Voir [architecture](architecture.md), [résolution](resolution.md) et [magie et progression](magie-et-progression.md).
 
 ## Principe : une même scène, des découvertes différentes
 
@@ -27,7 +27,7 @@ Le but n'est **pas** de produire quatre récompenses à chaque réussite, mais d
 
 **Éléments documentés du lore, non des récompenses garanties :** *HeroQuest — Sartar Companion (2E)* décrit le temple de **Lhankor Mhy** comme la **bibliothèque de Jonstown**, et les **Free Sages** comme la communauté qui contrôle l'accès à la bibliothèque et aux professions du livre. *HeroQuest — Sartar: Kingdom of Heroes* atteste la tradition des **Kolatings**, les récits orlanthi des **Porteurs de Lumière** et l'existence de **grimoires** comme supports de savoir magique. **Il ne s'ensuit pas** qu'un hypothétique « grimoire du Mouvement » soit disponible librement dans la bibliothèque, ni qu'une visite suffise à posséder un esprit du Vent : ces deux propositions sont du **design**, à documenter et à scénariser.
 
-La page jouable actuelle **§332** transmet déjà une mémoire minimale `SARTAR-RECIT-PORTEURS-LUMIERE` (connaissance de **l'existence** du récit), et renvoie à Jonstown (§077). **Ne pas confondre** cette mémoire d'existence avec une future **connaissance approfondie du mythe**.
+La page jouable actuelle **§332** transmet maintenant le mot-clé **PORTEURS-DE-LUMIÈRE**, à l'issue d'un récit effectivement entendu. Il ne faut pas le redistribuer sous une deuxième étiquette lorsque le mythe est seulement mentionné ailleurs. Un **rite vécu** ou une initiation peuvent donner une capacité ou un déclencheur distinct, sans effacer cette première découverte.
 
 ### Ébauche du découpage (à intégrer plus tard, sans créer de §X/Y/Z factices)
 
@@ -38,18 +38,18 @@ La page jouable actuelle **§332** transmet déjà une mémoire minimale `SARTAR
 | Condition d'accès | Renvoi envisagé | Conséquence précise | Nature de l'acquis |
 | --- | --- | --- | --- |
 | **Vision logique** | **§X** | Découverte / acquisition, selon les obstacles de la bibliothèque, d'un **grimoire du Mouvement**, permettant l'appui de la **Rune du Mouvement** dans les résolutions qui la déclarent favorable **tant que le grimoire est transporté** | **Objet / ressource magique** ; pas une Rune personnelle |
-| **Vision théiste** | **§Y** | Accès à un **récit approfondi des Porteurs de Lumière**, dont certains éléments deviennent reconnus ailleurs | **Mémoire spécifique**, par exemple `SARTAR-MYTHE-PORTEURS-LUMIERE-APPROFONDI` ; ne pas imposer l'adhésion ni confondre avec un prodige |
-| **Vision animiste** | **§Z** | Découverte de l'existence de la tradition **kolating**, permettant de reconnaître ultérieurement une occasion de rencontre avec des Kolatings et d'y négocier un **esprit lié du Vent (Rune de l'Air)** | **Mémoire `SARTAR-KOLATINGS-EXISTENCE`** ; l'esprit **n'est pas encore acquis** |
+| **Vision théiste** | **§Y** | Participation effective à un rite lié aux Porteurs de Lumière, distincte de l'écoute du récit au §332 | **Rite-des-Porteurs** est un déclencheur Discovery *possible* uniquement si la participation est vécue ; aucun prodige automatique |
+| **Vision animiste** | **§Z** | Un scribe révèle comment rechercher des Kolatings ; une rencontre ultérieure permettra un véritable échange | **Piste-Kolatings** peut être un déclencheur Discovery donné par la conversation ; **KOLATINGS** ne sera coché qu'après la rencontre vécue, et l'esprit ne sera pas acquis automatiquement |
 | **Vision mystique** | **Aucun renvoi spécial dans cet exemple** | Le personnage suit l'issue commune ; **d'autres scènes**, en lien avec les traditions mystiques, pourront lui ouvrir une Compréhension | Aucune condition artificielle à la bibliothèque |
 
 **Important :** les propositions de §X/Y/Z **ne sont pas des affirmations que ces trois récompenses se trouvent effectivement dans la source**, ni des numéros réservés. La disponibilité d'un objet rare, l'accès aux archives, une lecture contradictoire des mythes et la nature exacte de la rencontre spirituelle doivent être conçus avant de rédiger des paragraphes jouables définitifs.
 
 ### Chaîne animiste en deux temps
 
-1. **Bibliothèque :** le personnage découvre **l'existence des Kolatings** et obtient une **mémoire d'identification / de recherche**.
-2. **Rencontre ultérieure :** cette mémoire **ouvre un renvoi spécifique** lors d'une rencontre avec des Kolatings ; le personnage peut négocier l'obtention d'un **esprit lié du Vent / Rune de l'Air**, qui se retire après avoir accordé son appui runique si le personnage n'est pas chaman.
+1. **Bibliothèque :** une conversation vécue peut donner la piste Discovery **Piste-Kolatings** ; entendre le nom des Kolatings ne donne pas encore le mot-clé canonique.
+2. **Rencontre ultérieure :** la piste ouvre un renvoi vers une rencontre effective avec des KOLATINGS (mot-clé acquis indépendamment de la réussite) ; le personnage peut ensuite négocier un **esprit lié du Vent / Rune de l'Air**, dont l'octroi peut dépendre de la résolution.
 
-C'est important pour la structure : **connaissance → nouvelle opportunité de rencontre → relation → capacité consommable**. Ne pas convertir la simple mémoire « Kolatings » directement en un esprit disponible.
+C'est important pour la structure : **piste vécue → nouvelle rencontre (mot-clé sans condition de résultat) → résolution → esprit éventuellement obtenu**. Ne pas convertir le seul fait d'avoir entendu un nom en un esprit disponible.
 
 La séquence a aussi un effet exploratoire réel : une découverte à Jonstown peut modifier une rencontre dans une autre région ou un autre volume.
 
@@ -59,7 +59,7 @@ La séquence a aussi un effet exploratoire réel : une découverte à Jonstown p
 
 ### Chaîne théiste
 
-**Découverte d'un récit → mémoire → interprétation ou reconnaissance dans d'autres scènes.** Une connaissance mythique ne déclenche **pas automatiquement** un prodige. Les **prodiges théistes** sont découverts par des voies explicites (culte, rite, sanctuaire, quête) et disposent chacun de la fréquence **une fois par saison ou par année**.
+**Découverte vécue d'un récit → mot-clé → interprétation ou reconnaissance dans d'autres scènes.** Une connaissance mythique ne déclenche **pas automatiquement** un prodige. Les **prodiges théistes** sont découverts par des voies explicites (culte, rite, sanctuaire, quête) et disposent chacun de la fréquence **une fois par saison ou par année**.
 
 ### Mysticisme : des § spécialisés là où ils sont pertinents
 
@@ -96,4 +96,9 @@ Pour chaque renvoi spécialisé, demander :
 - *HeroQuest — Sartar Companion (2E)* : **Jonstown**, **Free Sages**, **Jonstown Library**.
 - *HeroQuest — Sartar: Kingdom of Heroes* : **Kolating Spirit Societies**, **Kolating Shamans**, **Charms**, **Spells**.
 - *Hero Wars — Thunder Rebels* et autres textes de mythologie orlanthi : **Porteurs de Lumière**.
-- Les cultures, mythes, récits et affiliations du volume doivent être conservés dans leur contexte **Sartar, 1620–1621**, sans transposer des événements ultérieurs par mégarde.
+- Les cultures, mythes, récits et affiliations du volume doivent être conservés dans leur contexte **Sartar, 1619–1621**, sans transposer des événements ultérieurs par mégarde.
+
+
+## Règle désormais prioritaire pour tous les exemples
+
+Les anciennes appellations de « mémoire » ne constituent plus des identifiants à recopier sur la feuille. Toute proposition de § futur doit respecter le [contrat d'acquisition vécue](mots-cles-et-supports.md) : un mot en MAJUSCULES dans la scène donne une connaissance de Glorantha, le gras un état Discovery ; une résolution ne conditionne que les conséquences supplémentaires, **jamais** le mot-clé de la rencontre.

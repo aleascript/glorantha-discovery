@@ -6,15 +6,15 @@
 
 Le volume doit fonctionner comme un **réseau ouvert** : le joueur choisit où aller, revient dans les lieux, croise des personnes plusieurs fois et découvre progressivement des fils d'aventure. Il n'existe pas de quête principale obligatoire.
 
-Une aventure naît lorsqu'au moins deux éléments auparavant indépendants commencent à se reconnaître : une mémoire acquise ailleurs, un PNJ déjà rencontré, une saison, une relation, un objet, une Rune ou une coche d'état. Le travail d'écriture consiste donc autant à préparer les **reconnaissances futures** qu'à rédiger la scène présente.
+Une aventure naît lorsqu'au moins deux éléments auparavant indépendants commencent à se reconnaître : un mot-clé issu d'une rencontre vécue ailleurs, un PNJ déjà rencontré, une saison, une relation, un objet, une Rune ou une coche d'état. Le travail d'écriture consiste donc autant à préparer les **reconnaissances futures** qu'à rédiger la scène présente.
 
 ## 2. Discipline de source
 
 Pour chaque élément retenu, distinguer explicitement quatre couches dans les notes de production :
 
 1. **Canon / source** : lieu, personne, institution, mythe, situation historique ou rencontre attestée ; noter l'ouvrage et la section.
-2. **État 1620–1621** : vérifier que la personne, l'autorité, le conflit et le lieu sont valides avant les bouleversements de fin 1621.
-3. **Adaptation Discovery** : scène précise, dialogue, hasard de rencontre, mémoire, coche, résolution, relation acquise ou renvoi créé pour le livre-jeu.
+2. **État 1619–1621** : vérifier que la personne, l'autorité, le conflit et le lieu sont valides avant les bouleversements de fin 1621.
+3. **Adaptation Discovery** : scène précise, dialogue, hasard de rencontre, mot-clé de lore ou d'état, coche, résolution, relation acquise ou renvoi créé pour le livre-jeu.
 4. **Incertitude** : ce qui doit encore être vérifié ou ce qui varie entre sources.
 
 Ne jamais présenter comme canonique une relation, une présence ou un événement créé uniquement pour rendre le livre jouable.
@@ -34,7 +34,7 @@ La cellule n'est pas une zone fermée : ses conséquences doivent déborder vers
 
 ### Première cellule
 
-La première cellule de production est **Jonstown** : §077, bibliothèque §332, marché §172, Darvast Hornos §110, route §600 et rencontre §129. Elle doit produire au moins un lien utilisable à **Wilmskirk**.
+La première cellule de production est **Jonstown** : §077, bibliothèque §332, marché §172, Darvast Hornos §110, route §600 avec sa rencontre intégrée (Sora Goodseller) ; le §129 commun est retiré. Elle doit produire au moins un lien utilisable à **Wilmskirk**.
 
 ## 4. Fiche de lieu
 
@@ -43,10 +43,10 @@ Avant de rédiger un lieu, documenter :
 | Champ | Question |
 | --- | --- |
 | Ancrage canonique | Qu'est-ce qui rend ce lieu spécifiquement gloranthien ? |
-| État historique | Qui contrôle le lieu en 1620–1621 ? Qu'est-ce qui a déjà eu lieu ? |
+| État historique | Qui contrôle le lieu en 1619–1621 ? Qu'est-ce qui a déjà eu lieu ? |
 | Expériences | Que peut-on y **faire**, pas seulement apprendre ? |
 | Voix locales | Qui peut donner des versions différentes du monde ? |
-| Entrées | Depuis quels trajets, mémoires, relations ou saisons arrive-t-on ici ? |
+| Entrées | Depuis quels trajets, mots-clés, relations ou saisons arrive-t-on ici ? |
 | Sorties | Quelles nouvelles possibilités ce lieu ouvre-t-il ailleurs ? |
 | Revisite | Qu'est-ce qui peut changer lors d'un retour ? |
 | Sources | Ouvrages et sections utilisés. |
@@ -59,12 +59,12 @@ Un hub ne doit pas devenir une encyclopédie. Son paragraphe principal sert d'**
 Un PNJ de Discovery n'est ni un distributeur de quête ni un résumé de lore. Préparer :
 
 - **identité canonique** et affiliations ;
-- **localisation et situation** en 1620–1621 ;
+- **localisation et situation** en 1619–1621 ;
 - **ce qu'il veut maintenant** ;
 - **ce qu'il sait / ce qu'il refuse de dire** ;
 - **ce qui peut le faire réapparaître** ;
 - **première rencontre / revisite** ;
-- **trace laissée** : relation, mémoire, dette, réputation ou état ;
+- **trace laissée** : relation, mot-clé, dette, réputation ou état ;
 - **lieux où cette trace sera reconnue**.
 
 Lorsqu'un PNJ canonique est utilisé dans une scène inventée, la scène est une **adaptation Discovery** même si son caractère et ses affiliations viennent des sources.
@@ -98,7 +98,7 @@ Exemple de structure :
 
 ou :
 
-`rumeur → rencontre → mémoire → lieu reconnu → variante lors d'une revisite`
+`rumeur (aucun acquis) → rencontre vécue (mot-clé) → lieu reconnu → variante lors d'une revisite`
 
 Le joueur doit avoir l'impression d'avoir **compris quelque chose du monde**, pas d'avoir ajouté « quête 3/7 » à un journal.
 
@@ -109,7 +109,7 @@ Un paragraphe jouable doit en principe :
 - commencer par une **situation observable** ;
 - donner rapidement une ou plusieurs **actions** ;
 - limiter l'exposition au savoir utile à la scène ;
-- exprimer toute condition sous une forme vérifiable : mémoire, relation, Vision, Rune, saison, objet ou coche ;
+- exprimer toute condition sous une forme vérifiable : mot-clé, relation, Vision, Rune, saison, objet ou coche ;
 - nommer précisément tout acquis persistant ;
 - indiquer un renvoi de retour ou de sortie ;
 - ne jamais créer d'impasse mortelle.
@@ -120,14 +120,14 @@ Une résolution n'est utilisée que lorsqu'il existe réellement **deux issues i
 
 Avant d'étendre une cellule, vérifier :
 
-- chaque mémoire créée est-elle reconnue quelque part ?
+- chaque déclencheur propre à Discovery a-t-il un usage ou effet prévu ? (un mot-clé de lore peut être une découverte sans bonus)
 - chaque PNJ récurrent a-t-il au moins une possibilité crédible de réapparition ?
 - chaque hub contient-il autre chose que des liens de voyage ?
 - peut-on quitter un fil sans bloquer l'exploration ?
 - les revisites produisent-elles parfois une différence ?
 - les choix spécialisés par Vision viennent-ils du thème de la scène plutôt que d'un quota ?
 - le joueur peut-il rencontrer la même question depuis plusieurs directions ?
-- un événement postérieur à fin 1621 a-t-il été importé par erreur ?
+- un événement postérieur à 1619 a-t-il été importé par erreur dans une scène située en 1619 ? (prévoir les jalons 1621/1625)
 
 ## 10. Registre minimal de production
 
@@ -149,3 +149,9 @@ Une cellule est suffisamment mûre lorsque le joueur peut :
 - voir au moins une trace acquise ailleurs modifier la cellule, **ou** voir une trace de la cellule modifier un autre lieu.
 
 C'est ce dernier point qui transforme un gazetteer en livre-jeu ouvert.
+
+## 10. Contrat nouveau : découverte vécue et supports
+
+Appliquer désormais [le contrat typographique et ludique des mots-clés](../mots-cles-et-supports.md) : un nom officiel en MAJUSCULES ou un déclencheur Discovery en gras dans le **corps d'une scène vécue** devient une coche de la liste du livre. Une simple mention en casse normale n'est pas un acquis. Un jet n'enlève jamais le mot-clé de la rencontre ; il peut seulement conditionner des coches supplémentaires. Écrire **une rencontre distincte par § de trajet** et y faire cocher une case de calendrier à l'arrivée effective.
+
+La [roadmap des livres](../roadmap-livres.md) et la [feuille universelle](../personnage-et-calendrier.md) déterminent les contrats intervolumes. Sélectionner les quelques découvertes les plus marquantes, sans prétendre épuiser le lore.

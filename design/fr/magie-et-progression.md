@@ -27,7 +27,7 @@ Les différences d'équipement ne doivent pas systématiquement se convertir en 
 - **Relations et renommée** : accueil, obligations, alliances, inimitiés, réputation locale ou plus large. Ces états sont distincts des connaissances et peuvent changer avec les événements.
 - **Objets, ressources et équipements** : éléments possédés dont les effets sont circonstanciés et parfois reconnus par d'autres personnages.
 - **Prodiges, magie et relations spirituelles** : capacités acquises auprès d'un culte, d'une tradition, d'un esprit ou à travers une expérience. Elles comportent des modalités concrètes d'usage.
-- **Transformations exceptionnelles** : Quêtes Héroïques, nouvelles capacités, éventuelle progression de 3D vers 4D ou modification durable de la relation à une Vision. **Hypothèses**, à réserver à des événements majeurs.
+- **Transformations exceptionnelles** : Quêtes Héroïques, nouvelles capacités, modification durable de la relation à une Vision, accès à de nouveaux prodiges ou à des Runes différentes **sans passer à 4D**. **Hypothèses**, à réserver à des événements majeurs.
 
 Éviter de transformer chaque progrès en un mot-clé servant de bonus universel. Les mots-clés sont des références stables qui permettent au livre de reconnaître des acquis, pas un tableau de caractéristiques qui gonfle indéfiniment.
 
@@ -83,11 +83,21 @@ L'**Illumination** relève d'une **transformation ou capacité exceptionnelle** 
 
 Vérifier l'Illumination dans les sources gloranthiennes avant de lui attribuer des pouvoirs ou des limitations canoniques. Voir [résolution](resolution.md).
 
+### Difficulté 3, tabou et transformation runique
+
+La difficulté 3 correspond, pour les quatre Visions ordinaires avec **3D maximum**, à une **épreuve runique** : elle exige un **+1 runique net** (après éventuelle compensation d'un −1). On ne lève pas ce seuil en ajoutant des dés.
+
+Une **épreuve D3 rejouable** peut dépendre d'une nouvelle saison, d'un rite ou d'une découverte, mais elle ne doit jamais barrer sans solution toute la suite de l'exploration. Une condition de nouvelle tentative n'assure pas une réussite probabiliste : prévoir des chemins alternatifs ou des transformations qui changent réellement la situation.
+
+Un **malus runique** peut représenter une opposition profonde, voire un **tabou** lorsque le seuil est inaccessible. Un personnage pourrait chercher à le transformer par une **initiation, un sacrifice ou une Quête Héroïque**, avec des conséquences et des obligations, plutôt que changer gratuitement un mot-clé.
+
+**Source à exploiter :** *HeroQuest — Sartar: Kingdom of Heroes*, p. 73 (« How Do I Get New Runes? », « Switching Runes »), décrit l'acquisition de Runes par des rites ou quêtes héroïques et des échanges d'affinité au sein de certains cultes, notamment le cas de Heler (Air/Eau). Ce sont des **possibilités situées**, pas une règle canonique universelle autorisant à supprimer arbitrairement une Rune.
+
 ## Progression et rythme
 
 La progression n'est **pas** nécessairement corrélée au nombre de résolutions gagnées ou au nombre de rencontres combattues. L'issue défavorable d'une confrontation peut elle aussi produire une connaissance, une relation ou une nouvelle occasion de découverte.
 
-Une Quête Héroïque pourrait exceptionnellement apporter une transformation de capacité de résolution, par exemple **un quatrième dé de base**. Cela changerait sensiblement les probabilités étudiées avec 3D ; il faudrait recalculer les tableaux de la [résolution](resolution.md) pour ces personnages plutôt que prétendre que les statistiques de départ restent valables.
+Une Quête Héroïque peut exceptionnellement changer les possibilités du personnage **sans jamais augmenter le nombre de dés au-delà de 3D** : accès à une Rune, passage rituel vers un autre culte, prodige, changement de rapport à une opposition runique ou transformation de la Vision. Les effets qui altèrent les modificateurs runiques devront être explicités et étudiés statistiquement. La **difficulté 3 runique** ne doit pas devenir un passage obligé sans alternative ni condition de nouvelle tentative.
 
 Un personnage ayant visité plusieurs régions et recueilli des histoires peut ainsi disposer d'un monde beaucoup plus ouvert sans que sa puissance numérique ait systématiquement augmenté.
 

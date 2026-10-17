@@ -9,7 +9,7 @@ Commencez au [§001 — Entrer en Sartar](./paragraphes/001.md) pour créer un p
 
 ## Feuille et supports
 
-Utilisez la [feuille universelle](./fiche-personnage.md), la [liste des découvertes de Sartar](./decouvertes-sartar.md) au verso de la carte prévue pour ce volume, et la règle de votre Vision : [Théisme](./visions/theisme.md), [Animisme](./visions/animisme.md), [Logique](./visions/logique.md) ou [Mysticisme](./visions/mysticisme.md).
+Utilisez la [feuille universelle](./fiche-personnage.md), la [liste des découvertes de Sartar](./decouvertes-sartar.md) au verso de la carte prévue pour ce volume, et la règle de votre Vision : [Théisme](./visions/theisme.md), [Animisme](./visions/animisme.md), [Logique](./visions/logique.md) ou [Mysticisme](./visions/mysticisme.md). [Quatre aides de résolution A4, une page par Vision](https://aleascript.github.io/glorantha-discovery/print/regles-visions.html).
 
 ## Comment acquérir un mot-clé
 

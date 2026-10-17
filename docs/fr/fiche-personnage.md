@@ -43,4 +43,4 @@ Une capacité acquise n'est pas un mot-clé ordinaire. Notez son nom, ses condit
 
 La seconde page est volontairement blanche pour vos notes d'aventure.
 
-Les [règles de Vision](./enter-the-fiction.md) et les [découvertes de Sartar](./decouvertes-sartar.md) sont des supports séparés.
+Les [règles de Vision](./enter-the-fiction.md) et les [découvertes de Sartar](./decouvertes-sartar.md) sont des supports séparés. [Imprimer les quatre règles, une page chacune (A4)](https://aleascript.github.io/glorantha-discovery/print/regles-visions.html).

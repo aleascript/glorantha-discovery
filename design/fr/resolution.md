@@ -1,6 +1,6 @@
 # Glorantha Discovery — Résolution (proposition v0.1)
 
-> **Statut :** candidat v0.2 pour expérimentation : **aucun dé supplémentaire**, théisme limité aux trois dés présents, difficultés 3 runiques, rejouabilité et transformation runique à prototyper. Mysticisme C retenu comme base de travail ; Illumination à étudier., non règle définitive ni reproduction intégrale de Glorantha Perspectives (GP). Ce document est interne au dossier `design/` et ne figure pas dans les paragraphes jouables.
+> **Statut :** candidat v0.2 pour expérimentation : **aucun dé supplémentaire**, théisme limité aux trois dés présents, difficultés 3 runiques, rejouabilité et transformation runique à prototyper. Mysticisme C retenu comme base de travail ; Illumination à étudier. Il ne s'agit ni d'une règle définitive, ni d'une reproduction intégrale de Glorantha Perspectives (GP). Ce document est interne au dossier `design/` et ne figure pas dans les paragraphes jouables.
 
 ## Intention
 

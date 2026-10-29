@@ -2,6 +2,8 @@
 
 Les paragraphes jouables sont accessibles par renvois, sans sommaire qui divulgue les numéros secrets.
 
+> **Piste de refonte à reprendre (29 octobre 2026) :** [Une année de JdR solo, vers une Quête Héroïque](jdr-solo-une-annee-et-quete-heroique.md). Elle explore des **hubs et § rejouables**, une **année d'aventure** conclue éventuellement au **Temps sacré** par un livre distinct de **Quêtes Héroïques**, où les acquisitions accumulées deviennent significatives. **Hypothèse de design non encore adoptée** : ne modifie ni les § existants, ni le calendrier, ni le contrat de résolution ci-dessous. L'absence de quête principale reste la règle de l'exploration libre, même si la proposition prévoit un aboutissement final.
+
 ## Numérotation
 
 - Réserve **§001..§600**, trois chiffres. §001 est réservé à la création locale et aux futurs mappings interlivres ; les autres numéros viennent du tirage stable graine 20261015 (tools/allocate-paragraphs.mjs).

@@ -7,12 +7,14 @@ hide_table_of_contents: true
 
 # Glorantha Discovery
 
-Un monde ne se découvre pas en lisant son encyclopédie : il se découvre en le parcourant.
+**Explorer Glorantha en la vivant.**
 
-Ce livre-jeu expérimental vous invite à parcourir Sartar, à rencontrer ses habitants et à constituer une collection de découvertes vécues, transportables d'un livre à l'autre.
+*Glorantha Discovery* est un projet de **livres-jeux de rôle solo**. Le joueur explore librement des régions de Glorantha, imagine ses propres histoires à partir des possibilités proposées, puis affronte une **Quête Héroïque terminale** au Temps sacré.
 
-[Comment jouer](./enter-the-fiction.md) · [Fiche de personnage](./fiche-personnage.md) · [Découvertes de Sartar](./decouvertes-sartar.md)
+Le principe de partie est fixé : **cinq saisons d'exploration**, avec une fiche portable entre les livres, puis un parcours dans le **Temps des Dieux**. La Quête Héroïque peut échouer, mais clôt toujours la partie.
 
-Puis [entrer en Sartar — §001](./paragraphes/001.md).
+Le projet est actuellement en **consolidation des règles et de l'architecture éditoriale**. Les livres régionaux et leurs paragraphes jouables ne sont **pas encore publiés**.
 
-Les liens du jeu sont les renvois du futur livre. Projet amateur non officiel ; droits et publication définitive à vérifier.
+[Comment jouer](./enter-the-fiction.md) · [Feuille de personnage](./fiche-personnage.md)
+
+Projet amateur non officiel dans l'univers de Glorantha. Les conditions de publication et droits du contenu doivent être vérifiés avant diffusion des livres.

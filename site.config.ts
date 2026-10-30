@@ -61,7 +61,7 @@ export type SiteTheme = {
 export const site = {
   title: 'Glorantha Discovery',
   tagline: 'Explorez Glorantha en la parcourant',
-  description: 'Un projet de livres-jeux d’exploration ouverte pour découvrir Glorantha en voyageant.',
+  description: 'Jeu de rôle solo : cinq saisons pour découvrir Glorantha, puis une Quête Héroïque terminale.',
   author: 'AleaScript',
   defaultLocale: 'fr',
   locales: {
@@ -81,15 +81,8 @@ export const site = {
     logo: 'img/site/resonance_simple_200x200.png',
     favicon: 'img/site/resonance_simple_200x200.png',
   } satisfies SiteIdentity,
-  license: {
-    label: 'CC BY 4.0',
-    href: 'https://creativecommons.org/licenses/by/4.0/',
-    attribution: {
-      title: 'Glorantha Discovery',
-      author: 'AleaScript',
-      href: null,
-    },
-  } satisfies ContentLicense,
+  // Licence de publication non fixée : ne pas hériter du CC BY de démonstration du template.
+  license: null as ContentLicense | null,
   lineage: {
     designedWith: null,
     poweredBy: null,

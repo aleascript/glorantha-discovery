@@ -1,9 +1,89 @@
-<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Glorantha Discovery — Feuille de personnage</title><style>@page{size:A4;margin:12mm}*{box-sizing:border-box}body{font:12px/1.45 Georgia,'Times New Roman',serif;color:#202224;margin:0;background:#eee}.page{width:186mm;min-height:273mm;margin:10mm auto;padding:11mm;background:#fff;break-after:page;page-break-after:always;box-shadow:0 1px 10px #bbb}.page:last-child{break-after:auto;page-break-after:auto}h1{font:600 26px Georgia,serif;margin:0 0 3mm}h2{font:600 17px Georgia,serif;margin:7mm 0 3mm;border-bottom:1px solid #8b8e91;padding-bottom:2mm}.sub{font:11px system-ui;color:#585f65;margin:0 0 6mm}.grid{display:grid;grid-template-columns:1fr 1fr;gap:4mm 8mm}.field{border-bottom:1px solid #797e82;height:13mm}.field label{display:block;font:10px system-ui;color:#596068}.wide{grid-column:1 / -1}.seasons{display:flex;gap:2mm;flex-wrap:wrap}.pill{border:1px solid #a6a9ab;border-radius:8px;padding:2mm 3mm}.boxes{display:flex;gap:5mm;margin-top:4mm}.tick{display:inline-block;width:6mm;height:6mm;border:1px solid #4c5156}.rows{display:grid;grid-template-columns:1fr;gap:9mm;margin-top:6mm}.rows div{border-bottom:1px solid #b2b5b7;height:5mm}.foot{margin-top:9mm;border-top:1px solid #aaa;padding-top:3mm;font-size:10px;color:#565f65}.notes{margin-top:15mm}.note-line{border-bottom:1px solid #d0d0d0;height:11mm}.checklist{columns:2;column-gap:18mm;list-style:none;padding:0;margin-top:7mm}.checklist li{break-inside:avoid;margin:0 0 5mm;font:13px/1.3 Georgia}.sq{display:inline-block;border:1px solid #454545;width:5mm;height:5mm;vertical-align:middle;margin-right:4mm}.small{font-size:10px;color:#565f65}svg{width:100%;height:auto}@media print{body{background:white}.page{width:auto;min-height:273mm;margin:0;padding:0;box-shadow:none}.page:last-child{min-height:0}}</style></head><body>
-<section class="page"><h1>Glorantha Discovery</h1><p class="sub">Feuille universelle de personnage · recto · conserver d'un livre à l'autre</p>
-<div class="grid"><div class="field"><label>Nom</label></div><div class="field"><label>Sexe</label></div><div class="field"><label>Âge</label></div><div class="field"><label>Culture</label></div><div class="field"><label>Vision</label></div><div class="field"><label>Culte (ou non initié)</label></div><div class="field wide"><label>Runes personnelles</label></div><div class="field"><label>Illuminé ? (oui / non)</label></div></div>
-<h2>Calendrier</h2><div class="grid"><div class="field"><label>Année</label></div><div class="field"><label>Saison actuelle</label></div></div>
-<div class="seasons" style="margin-top:5mm"><span class="pill">Mer</span><span class="pill">Feu</span><span class="pill">Terre</span><span class="pill">Sombre</span><span class="pill">Tempêtes</span><span class="pill">Temps sacré</span></div>
-<p style="margin:5mm 0 0">Huit coches de saison (remettre à zéro en changeant de saison) :</p><div class="boxes"><span class="tick"></span><span class="tick"></span><span class="tick"></span><span class="tick"></span><span class="tick"></span><span class="tick"></span><span class="tick"></span><span class="tick"></span></div>
-<h2>Prodiges / Grimoires / Esprits / Compréhensions</h2><p>Rayer les trois catégories qui ne correspondent pas à votre Vision. Indiquer le nom de chaque capacité, son effet et ses limites d'utilisation.</p><div class="rows"><div></div><div></div><div></div><div></div><div></div><div></div></div>
-<p class="foot">Un trajet effectivement terminé : une coche. Une saison : huit coches. Six périodes par année. Une initiation ou un voyage lointain coûtant une saison : avancer de huit coches en conservant la position relative. Mythes et mots-clés : sur la liste propre au volume. Pour réutiliser les cases au crayon, effacer au changement de saison.</p></section>
-<section class="page"><h1>Notes d'aventure</h1><p class="sub">Verso libre — rencontres, événements, mythes et souvenirs</p><div class="notes"><div class="note-line"></div><div class="note-line"></div><div class="note-line"></div><div class="note-line"></div><div class="note-line"></div><div class="note-line"></div><div class="note-line"></div><div class="note-line"></div><div class="note-line"></div><div class="note-line"></div><div class="note-line"></div><div class="note-line"></div><div class="note-line"></div><div class="note-line"></div><div class="note-line"></div><div class="note-line"></div><div class="note-line"></div><div class="note-line"></div><div class="note-line"></div></div></section></body></html>
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Glorantha Discovery — Feuille universelle de personnage</title>
+<style>
+@page{size:A4;margin:12mm}
+*{box-sizing:border-box}
+body{margin:0;background:#e9ebee;color:#25282c;font:12px/1.4 Georgia,serif}
+.page{width:186mm;min-height:273mm;margin:9mm auto;padding:10mm;background:#fff;break-after:page;page-break-after:always;box-shadow:0 2px 10px #bbb}
+.page:last-child{break-after:auto;page-break-after:auto}
+h1{font-size:25px;margin:0 0 2mm;font-weight:600}
+h2{font-size:17px;margin:7mm 0 3mm;padding-bottom:2mm;border-bottom:1px solid #96999d;font-weight:600}
+.sub,.hint{font:10px/1.4 system-ui,sans-serif;color:#58606a}
+.sub{margin:0 0 7mm}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:4mm 8mm}
+.field{height:12mm;border-bottom:1px solid #858b91}
+.field span{display:block;font:10px system-ui,sans-serif;color:#59616a}
+.wide{grid-column:1/-1}
+.seasons{display:flex;gap:2mm;margin-top:4mm;flex-wrap:wrap}
+.seasons span{border:1px solid #b8bec3;border-radius:9px;padding:2mm 3mm}
+.boxes{display:flex;gap:5mm;margin-top:3mm}
+.box{display:inline-block;width:6mm;height:6mm;border:1px solid #555b60}
+.lines{display:grid;gap:9mm;margin-top:6mm}
+.lines div{height:4mm;border-bottom:1px solid #c3c8cc}
+.foot{border-top:1px solid #b5b8bc;margin-top:8mm;padding-top:3mm;font:10px/1.5 system-ui,sans-serif;color:#545d66}
+table{width:100%;border-collapse:collapse;table-layout:fixed;margin-top:5mm;font-size:12px}
+th{text-align:left;font:11px system-ui,sans-serif;background:#f0f1f3}
+th,td{border:1px solid #9da4aa;padding:2.2mm 3mm;height:9mm}
+th:nth-child(1){width:49%}
+th:nth-child(2){width:18%}
+th:nth-child(3){width:33%}
+.notes{margin-top:4mm}
+.note{height:9mm;border-bottom:1px solid #d0d5d8}
+@media print{body{background:#fff}.page{width:auto;min-height:273mm;margin:0;padding:0;box-shadow:none}.page:last-child{min-height:0}}
+</style>
+</head>
+<body>
+<section class="page">
+<h1>Glorantha Discovery</h1>
+<p class="sub">Feuille universelle · recto · à conserver pendant les cinq saisons d'exploration</p>
+<div class="grid">
+<div class="field"><span>Nom</span></div>
+<div class="field"><span>Âge / autres indications</span></div>
+<div class="field"><span>Culture</span></div>
+<div class="field"><span>Vision : Théisme / Animisme / Logique / Mysticisme</span></div>
+<div class="field"><span>Culte / affiliation</span></div>
+<div class="field"><span>Illumination éventuelle</span></div>
+<div class="field wide"><span>Runes personnelles</span></div>
+</div>
+<h2>Calendrier</h2>
+<div class="grid"><div class="field"><span>Année historique</span></div><div class="field"><span>Saison en cours</span></div></div>
+<div class="seasons"><span>Mer</span><span>Feu</span><span>Terre</span><span>Sombre</span><span>Tempêtes</span><span>Temps sacré : finale</span></div>
+<p class="hint" style="margin:5mm 0 1mm">Huit coches pour la saison exploratoire en cours :</p>
+<div class="boxes"><span class="box"></span><span class="box"></span><span class="box"></span><span class="box"></span><span class="box"></span><span class="box"></span><span class="box"></span><span class="box"></span></div>
+<h2>Prodiges / Esprits / Grimoires / Compréhensions</h2>
+<p class="hint">Ne garder que les acquis de sa Vision. Noter effet, disponibilité, éventuelle perte et conditions de réutilisation.</p>
+<div class="lines"><div></div><div></div><div></div><div></div><div></div><div></div></div>
+<p class="foot">Un voyage hub → hub = une coche, y compris entre livres contigus. Livres non contigus = une saison (8 coches). Les actions dans un hub ne coûtent aucune coche. Cinq saisons, puis Temps sacré et Quête Héroïque terminale : pas de deuxième année.</p>
+</section>
+<section class="page">
+<h1>Journal de voyage</h1>
+<p class="sub">Verso · possibilités jouées et notes libres</p>
+<h2>Possibilités jouées — Livre · § · Saison</h2>
+<p class="hint">Une ligne dès la première découverte, puis une nouvelle ligne à chaque nouvelle saison où la même possibilité est rejouée. Pas de résolution deux fois dans une saison.</p>
+<table><thead><tr><th>Livre</th><th>§</th><th>Saison</th></tr></thead><tbody>
+<tr><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td></tr>
+</tbody></table>
+<h2>Relations, promesses, mythes, objets, conséquences</h2>
+<div class="notes"><div class="note"></div><div class="note"></div><div class="note"></div><div class="note"></div><div class="note"></div><div class="note"></div><div class="note"></div></div>
+<p class="foot">Les noms de lore sont entourés ou barrés sur la liste du livre ; les déclencheurs locaux sont cochés. Le journal saisonnier est un suivi distinct. Gardez toutes les acquisitions et pertes réellement jouées.</p>
+</section>
+</body>
+</html>

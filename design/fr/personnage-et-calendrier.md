@@ -1,33 +1,52 @@
-# Personnage universel, création et temps — contrat de jeu
+# Glorantha Discovery — Personnage universel, journal et calendrier
 
-> Règles retenues pour la feuille et le calendrier ; modalités d'initiation et de rupture cultuelle encore à prototyper. Ce document est une note de design, non un § jouable.
+> **Statut : contrat de jeu consolidé.** Le personnage et son histoire sont portables entre tous les livres. Il n'y a **qu'une année d'exploration**, puis une Quête Héroïque qui clôt la partie.
 
 ## Feuille universelle
 
-Une page recto : Nom, Sexe, Âge, Culture, Vision, Runes, Culte ; année, période en cours, huit cases ; catégorie de capacités « Prodiges / Grimoires / Esprits / Compréhensions » dont on raye les trois catégories non applicables ; une case d'Illumination facultative, qui n'est pas une Vision. Une page de verso vierge : notes d'aventure. Cette fiche suit le personnage dans toute la série.
+Conserver au minimum :
 
-La culture et les Runes ne deviennent pas des mots-clés lorsque le joueur les inscrit sur la fiche. Les connaissances gloranthiennes vécues se cochent sur les listes de chaque volume.
+- **Identité :** nom, âge, sexe/genre si souhaité, culture, Vision active, Runes personnelles, culte ou statut non initié, Illumination éventuelle.
+- **Capacités propres à la Vision :** prodiges, esprits, grimoires ou Compréhensions ; noter conditions et limites.
+- **Calendrier :** année historique de référence à renseigner lors de la création, saison courante et ses **huit coches de voyage**.
+- **Journal des possibilités jouées :** lignes manuscrites **Livre – § – Saison**.
+- **Notes libres :** relations, expériences, promesses, pertes, mythes et objets.
+- **Marques de lore et déclencheurs :** sur les listes de volumes, avec un état global reporté d'un volume à l'autre.
 
-## Création initiale depuis Sartar (règle de prototype)
+La fiche ne préimprime **pas** des cases pour toutes les possibilités des volumes futurs. Contrairement à un index de paragraphes figé, le joueur alimente lui-même son journal.
 
-Nom, sexe, âge libres ; culture **Heortling** ; Vision **Théisme** ; personnage **non initié** et sans culte actuel. Selon la convention heortling proposée, choisir **Air** pour un homme ou **Terre** pour une femme, puis une **Rune de Pouvoir**. Il reste à définir proprement les cas de personnages qui ne suivent pas cette convention culturelle, sans la transformer en loi biologique du monde.
+## Journal des possibilités
 
-Le personnage a déjà vécu une tradition où Orlanth et Ernalda sont présents : **ORLANTH et ERNALDA sont précochés** sur la liste de Sartar. Il ne reçoit pas de prodige, d'initiation ni de mythe rituellement maîtrisé par ce seul fait.
+Après une **première expérience** ou une résolution autonome, inscrire une ligne :
 
-## Calendrier portable
+| Livre | § | Saison |
+| --- | --- | --- |
+| Exemple de volume | 332 | Mer |
+| Exemple de volume | 332 | Feu |
 
-Année et saison sont globaux au personnage. Début de Sartar : **Saison de la Mer 1619**, convention Discovery. Ordre : **Mer → Feu → Terre → Sombre/Ténèbres → Tempêtes → Temps sacré → Mer de l'année suivante**.
+La première ligne permet de reconnaître **la découverte initiale**. Une ligne ultérieure enregistre la **saison de nouvelle résolution**. Une possibilité ne fournit **qu'une résolution par saison**, et le mode JdR solo après découverte initiale n'est accessible **qu'à partir d'une saison ultérieure**.
 
-Une période contient **8 coches** ; une année **48 coches**. Une case est prescrite, notamment à l'achèvement d'un véritable trajet entre deux hubs. Une rencontre de route ne donne pas automatiquement une coche supplémentaire. Retour technique vers un §, consultation de site, clic sans voyage : **aucune coche**. Une cérémonie ou un événement peut exceptionnellement avancer la période si son texte le précise.
+L'identifiant de livre doit être sans ambiguïté. Le même numéro de § peut exister dans plusieurs livres. Les marques de noms de lore et les acquisitions sont **autre chose** que cet historique saisonnier.
 
-**Avancer d'une saison** = ajouter exactement **8 coches**, ce qui conserve la position dans la période (3e coche de Feu → 3e coche de Terre). Cela vaut pour une initiation et les voyages distants qui prescrivent ce coût. Si le Temps sacré est franchi, augmenter l'année.
+## Cinq saisons d'exploration
 
-Le Temps sacré est aussi subdivisé en huit coches **rituelles et narratives**, non en huit semaines réelles. Une activité peut avancer plusieurs coches si le texte le prévoit. L'échelle est intentionnellement abstraite.
+Ordre du calendrier : **Mer → Feu → Terre → Sombre/Ténèbres → Tempêtes → Temps sacré**.
 
-## Initiation — cycle proposé
+- Les **cinq saisons** d'exploration comportent chacune **huit coches**. On progresse ainsi vers un maximum de **40 coches** avant la bascule.
+- **Un voyage accompli d'un hub à un autre = une coche**, y compris entre hubs situés dans des livres contigus.
+- **Un transfert entre livres non contigus = une saison**, soit huit coches dans le modèle actuel, **coût maximal d'un voyage lointain**. La position relative dans la saison est conservée en ajoutant huit coches.
+- **Les actions locales, scènes imaginées, conversations, résolutions et revisites dans un même hub ne coûtent aucune coche.** On peut rester aussi longtemps qu'on le souhaite ; ce sont les **règles saisonnières de rejouabilité** qui bornent les nouvelles résolutions, pas des « coûts d'action » cachés.
+- Le simple retour technique à un §, ou le fait de consulter un livre, ne crée ni trajet ni coût.
+- La situation aléatoire d'un trajet **n'ajoute pas** automatiquement une seconde coche.
 
-Une découverte de culte en cours d'exploration rend accessible une **scène d'initiation**. Le personnage est admis selon des conditions situées ; il peut **remplacer** une Rune personnelle par l'une des Runes du culte, avance d'une saison (**+8**) et acquiert **un mythe** avec un mot-clé et un numéro de paragraphe de référence. Connaissance du mythe, appartenance au culte et possession d'un prodige restent des couches séparées.
+**À la fin de Tempêtes**, le personnage entre au **Temps sacré** et quitte le réseau géographique pour le livre des **Quêtes Héroïques**. Le Temps sacré n'est pas une nouvelle période de huit coches exploratoires. Une quête peut échouer ; dans tous les cas la **partie se termine**. Le calendrier ne recommence pas à Mer de l'année suivante.
 
-La rupture d'un ancien culte doit être scénarisée distinctement de l'admission dans le nouveau. **Proposition à tester** : confrontation avec un esprit de représailles ; l'issue favorable permet la rupture, l'autre la bloque jusqu'à la saison suivante. Les possibilités de rupture amiable ou entre cultes alliés doivent être vérifiées dans les sources, sans transformer toute transition en punition identique. Les mythes vécus ne s'effacent pas de la mémoire lors d'un changement de culte ; l'accès aux prodiges peut, lui, changer.
+## Portabilité, arrivée et création
 
-Ces règles de transition cultuelle restent à écrire comme paragraphes jouables, sans leur inventer de canon universel.
+Tout livre géographique doit pouvoir accueillir un personnage venu d'un autre volume **sans lui recréer une identité** ni réinitialiser ses Runes, marques, capacités, journal ou calendrier.
+
+La création locale dépendra du **lieu et de la tradition** ; aucune création heortling, date 1619, Rune initiale ou initiation particulière n'est imposée comme règle universelle. L'**année historique commune** de la série reste à décider pour assurer la cohérence du lore.
+
+Les initiations, changements de culte et transformations runiques demandent des possibilités explicitement écrites ; **leur coût de temps n'est pas généralisé**. Ne pas recycler automatiquement l'ancien coût d'une saison pour une initiation : il contredirait le contrat actuel **sans coche pour une action locale**.
+
+Voir [modèle d'une année](jdr-solo-une-annee-et-quete-heroique.md), [mots-clés et supports](mots-cles-et-supports.md) et [résolution](resolution.md).

@@ -5,32 +5,46 @@ title: Comment jouer
 
 # Comment jouer à Glorantha Discovery
 
-Commencez au [§001 — Entrer en Sartar](./paragraphes/001.md) pour créer un personnage heortling ou arriver avec un personnage issu d'un autre livre. Le livre-jeu est ouvert, sans quête principale.
+**Statut : règles communes en consolidation.** Cette page présente le fonctionnement prévu de la série. **Aucun livre géographique complet n'est encore disponible.**
 
-## Feuille et supports
+## Votre histoire, cinq saisons
 
-Utilisez la [feuille universelle](./fiche-personnage.md), la [liste des mots-clés de Sartar](./decouvertes-sartar.md) au verso de sa carte et la règle de votre Vision : [Théisme](./visions/theisme.md), [Animisme](./visions/animisme.md), [Logique](./visions/logique.md) ou [Mysticisme](./visions/mysticisme.md). [Aides de résolution imprimables, une page par Vision](https://aleascript.github.io/glorantha-discovery/print/regles-visions.html).
+Créez un personnage avec une culture, une **Vision**, des **Runes**, et une feuille qui le suivra entre les volumes. Vous disposez de cinq saisons pour explorer Glorantha à votre rythme : **Mer, Feu, Terre, Sombre/Ténèbres, Tempêtes**.
 
-## Deux sortes de mots-clés
+Un livre propose des **hubs**, des lieux où choisir des possibilités. À la **première découverte** d'une possibilité, un texte vous présente une situation et éventuellement une résolution. Lors d'une **saison ultérieure**, vous pouvez revenir : **imaginez dans votre tête votre propre scène**, choisissez un enjeu parmi ceux que le lieu permet et jouez la résolution prévue. Le livre encadre **ce qu'on peut gagner et perdre**, pas les dialogues et l'histoire personnelle que vous inventez.
 
-**Lore de Glorantha — EN MAJUSCULES.** La liste présente les lieux, peuples, personnes, dieux et mythes du monde. Au départ, ils n'ont **aucune marque**. Une rencontre ou une expérience réellement vécue permet normalement **d'entourer le nom**. Dans les quelques situations où un conflit ou une proscription durable se produit, le paragraphe peut demander **de barrer ce même nom** au lieu de l'entourer. Le texte décide de la marque. Un nom barré signifie une expérience défavorable, **pas une connaissance effacée** : aucun second mot-clé « ennemi », « rapport » ou « proscrit » n'est nécessaire.
-
-Pour lire une condition, distinguez donc : « DARVAST HORNOS entouré », « DARVAST HORNOS barré » ou « sans marque ». Une marque ne change que si un paragraphe le demande explicitement. La plupart des mots-clés de lore ne sont destinés qu'à être entourés. Une résolution éventuelle ne supprime pas le fait d'avoir vécu la rencontre : elle peut en déterminer l'issue et donc la marque.
-
-**Déclencheurs de ce livre — en minuscules et en gras**, comme **piste-hornos**. Ce sont simplement des cases à cocher pour accéder à d'autres paragraphes ; ils ne décrivent pas une relation et ne sont jamais barrés. Ils sont généralement acquis dans un seul paragraphe. Certaines cases dépendent d'une issue de résolution.
-
-On n'acquiert pas PAVIS en entendant seulement parler de Pavis : il faut y arriver ou vivre la situation que le texte prévoit. Une rencontre peut procurer plusieurs acquisitions, indépendamment de l'issue, tandis que des déclencheurs supplémentaires en dépendent. Quand un mot-clé de lore réapparaît dans un autre paragraphe ou un autre livre, **son état demeure le même**, tant qu'une scène ne le modifie pas. Si le nom est imprimé sur plusieurs listes, reportez-y la même marque.
-
-L'identité (culture, Vision, Runes, culte) demeure sur la feuille du personnage ; les prodiges, grimoires, esprits et Compréhensions sont des capacités séparées.
+Une même possibilité est résolue **au plus une fois par saison**. Après chaque passage, inscrivez **Livre – § – Saison** dans le journal de votre [feuille de personnage](./fiche-personnage.md). Il n'existe pas encore de grandes listes statiques de cases à remplir pour toutes les possibilités.
 
 ## Voyages et calendrier
 
-Chaque tronçon possède un paragraphe unique pour les deux sens. Effectuez sa rencontre puis rejoignez l'autre extrémité. Un voyage réellement achevé donne **une case de calendrier**, quel que soit le résultat. Huit coches font avancer d'une période ; six périodes forment une année : Mer, Feu, Terre, Sombre, Tempêtes et Temps sacré.
+- Un **trajet de hub à hub** consomme **une coche**, y compris entre deux livres contigus.
+- Un **voyage entre livres non contigus** coûte **une saison** (huit coches dans le calendrier actuel).
+- **Jouer, discuter, imaginer ou résoudre une situation dans un hub ne coûte aucune coche.** Vous êtes libre d'y rester. Le calendrier encadre le retour aux possibilités, sans limiter le récit que vous faites vivre à votre personnage.
+- Une situation aléatoire rencontrée sur une route peut laisser une marque persistante ; **sa disponibilité n'est pas indexée sur la saison** comme une possibilité locale.
 
-Une initiation ou un voyage distant qui coûte une saison ajoute huit coches et conserve la position dans la période suivante. Le calendrier appartient au personnage entre tous les livres.
+Une saison d'exploration compte **huit coches**. Après les **cinq saisons**, le **Temps sacré** mène à un livre distinct de **Quêtes Héroïques** dans le Temps des Dieux. La Quête peut échouer, mais **termine toujours la partie** : il n'y a pas de deuxième année d'exploration.
 
-## Résolutions
+## Résoudre une situation : 3D6 et quatre Visions
 
-La résolution lance toujours trois dés à six faces, lus selon la Vision. Deux issues restent jouables, sans mort ordinaire. Le résultat peut modifier **la marque portée au nom rencontré** ou attribuer un déclencheur du livre ; il ne retire pas l'expérience vécue.
+Le paragraphe indique **D1, D2 ou D3**, les Runes favorables et défavorables pertinentes et deux conséquences intéressantes. Lancez **trois dés à six faces** et lisez-les selon votre Vision :
 
-**État du prototype :** départ de Sartar en Saison de la Mer 1619 ; jalons historiques 1621 et 1625, et carte géographique finale encore à écrire.
+- [Théisme](./visions/theisme.md) : les dés pairs comptent, les 6 permettent de relancer un impair.
+- [Animisme](./visions/animisme.md) : dés pairs et paires de dés impairs identiques.
+- [Logique](./visions/logique.md) : somme des trois dés, divisée par cinq (partie entière).
+- [Mysticisme](./visions/mysticisme.md) : dés pairs et correspondance avec la difficulté initiale.
+
+Une Rune favorable apporte **au maximum +1 Réussite**, une défavorable **au maximum −1** selon les exceptions prévues. L'issue favorable exige **strictement plus de Réussites que D**. L'autre issue produit aussi du jeu : **pas de mort comme conséquence ordinaire**.
+
+Les ressources des Visions ne sont pas interchangeables : **prodiges** théistes, **esprits** animistes, **grimoires** logiques, **Compréhensions** mystiques. Le paragraphe doit toujours autoriser l'acquisition : le joueur peut inventer sa scène, mais pas s'octroyer librement un objet, un mythe ou un pouvoir.
+
+[Imprimer les quatre aides de résolution A4](https://aleascript.github.io/glorantha-discovery/print/regles-visions.html)
+
+## Noms de lore et déclencheurs
+
+Les **noms du lore en MAJUSCULES** sont normalement **entourés** après une expérience vécue et peuvent être **barrés** lorsqu'un paragraphe établit une conséquence défavorable durable. Un nom barré reste une expérience connue ; une simple mention ne suffit pas à l'acquérir.
+
+Les **déclencheurs narratifs en minuscules et gras** sont des cases à cocher pour débloquer un choix ou conserver un état local. Les deux catégories sont distinctes des capacités et du **journal Livre – § – Saison**.
+
+## Le Temps sacré
+
+La **Quête Héroïque terminale** reconnaîtra les choix, rencontres, Runes et acquis de l'année. Elle aura une architecture différente des hubs. **Cette partie du jeu reste à écrire** ; aucun livre de région ni de Quêtes Héroïques n'est développé au stade actuel.

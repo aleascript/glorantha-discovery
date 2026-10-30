@@ -1,48 +1,59 @@
 ---
 id: fiche-personnage
-title: Feuille de personnage universelle
+title: Feuille de personnage
 ---
 
 # Feuille de personnage universelle
 
-La même feuille accompagne le personnage dans tous les livres de Glorantha Discovery. Une seule Vision est active ; rayez les trois autres catégories de capacités.
+La même feuille suit votre personnage **pendant les cinq saisons d'exploration**, y compris lorsqu'il change de livre. Elle conserve aussi ce qui pourra influencer la Quête Héroïque du Temps sacré.
 
-[Version recto verso imprimable (A4)](https://aleascript.github.io/glorantha-discovery/print/fiche-personnage.html) — sur la branche de prototype, le lien public pourra dépendre de la mise en ligne.
+[Imprimer la feuille A4 recto verso](https://aleascript.github.io/glorantha-discovery/print/fiche-personnage.html)
 
-| Identité | Valeur |
+| Identité | À renseigner |
 | --- | --- |
-| Nom | ______________________________ |
-| Sexe | ______________________________ |
-| Âge | ______________________________ |
-| Culture | ______________________________ |
-| Vision | Théisme / Animisme / Logique / Mysticisme |
-| Runes | ______________________________ |
-| Culte | ______________________________ |
-| Illuminé ? | ☐ Oui ☐ Non |
+| Nom | __________________________ |
+| Âge et autres indications personnelles | __________________________ |
+| Culture | __________________________ |
+| Vision | **Théisme / Animisme / Logique / Mysticisme** |
+| Runes personnelles | __________________________ |
+| Culte ou affiliation | __________________________ |
+| Illumination éventuelle | Oui / Non |
 
-## Calendrier commun
+## Calendrier
 
-**Année :** _______  **Saison :** Mer / Feu / Terre / Sombre / Tempêtes / Temps sacré
+**Année historique choisie pour la partie :** ______
 
-**Huit coches de saison :** ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐
+**Saison :** Mer / Feu / Terre / Sombre / Tempêtes / **Temps sacré (final)**
 
-Un trajet accompli : une coche. Huit coches : saison suivante et huit nouvelles cases vides. Après Temps sacré, augmenter l'année. Une initiation ou un voyage lointain prescrivant une saison ajoute huit coches, en conservant la position dans la période suivante.
+**Huit coches de la saison courante :** ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐
 
-## Capacités : ne garder que la rubrique de sa Vision
+Un voyage de **hub à hub** coche une case, y compris entre livres contigus. Un transfert entre livres **non contigus** avance d'une saison (huit coches). **Aucune action locale ne coche le calendrier**. Le Temps sacré termine la période d'exploration : il ne recommence pas une nouvelle année.
 
-**Prodiges / Grimoires / Esprits / Compréhensions** (rayez les trois catégories qui ne correspondent pas à votre Vision)
+## Capacités
 
-- ________________________________________________
-- ________________________________________________
-- ________________________________________________
-- ________________________________________________
+Conserver uniquement la rubrique de sa Vision : **Prodiges / Esprits / Grimoires / Compréhensions**.
 
-Une capacité acquise n'est pas un mot-clé. Notez son nom, ses conditions et, le cas échéant, la période de réutilisation.
+Pour chaque acquisition, noter son nom, son effet, sa disponibilité éventuelle, les conditions de réutilisation et les pertes subies. Un nom connu du lore **n'accorde pas automatiquement** une capacité.
 
-## Verso
+## Journal des possibilités jouées
 
-La seconde page est volontairement libre pour les notes d'aventure.
+Le joueur remplit lui-même ce journal, sur le papier, **à chaque expérience de possibilité**. La même possibilité ne peut donner une nouvelle résolution **qu'à partir d'une autre saison**.
 
-Les mots-clés sont sur le **verso de la carte de chaque volume**, et non sur cette feuille : **noms en MAJUSCULES à entourer ou barrer selon le §**, déclencheurs du livre **en minuscules et en gras, avec une simple case à cocher**. La marque d'un même nom gloranthien se conserve d'un volume à l'autre.
+| Livre | § | Saison |
+| --- | --- | --- |
+| ______________ | _____ | _________ |
+| ______________ | _____ | _________ |
+| ______________ | _____ | _________ |
+| ______________ | _____ | _________ |
+| ______________ | _____ | _________ |
+| ______________ | _____ | _________ |
+| ______________ | _____ | _________ |
+| ______________ | _____ | _________ |
 
-[Découvertes de Sartar](./decouvertes-sartar.md) · [Règles de Vision](./enter-the-fiction.md) · [Imprimer quatre aides de résolution A4](https://aleascript.github.io/glorantha-discovery/print/regles-visions.html)
+La première inscription marque la **découverte** ; les suivantes permettent de déterminer **la saison de dernière résolution**. Le format reste libre et extensible ; aucune grille statique de cases par livre n'est nécessaire.
+
+## Notes de voyage et marques
+
+La feuille imprimable réserve aussi de l'espace aux **relations, promesses, rencontres, objets, mythes et pertes**. Les listes de chaque volume présenteront séparément les **noms de lore à entourer ou barrer** et les **déclencheurs narratifs à cocher**.
+
+[Comment jouer](./enter-the-fiction.md) · [Théisme](./visions/theisme.md) · [Animisme](./visions/animisme.md) · [Logique](./visions/logique.md) · [Mysticisme](./visions/mysticisme.md)

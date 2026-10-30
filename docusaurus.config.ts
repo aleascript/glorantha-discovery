@@ -148,13 +148,9 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'docsSidebar',
           position: 'left',
-          label: 'Contents',
+          label: 'Règles',
         },
-        {
-          to: '/publications/',
-          label: 'Publications',
-          position: 'left',
-        },
+
         {
           type: 'localeDropdown',
           position: 'right',

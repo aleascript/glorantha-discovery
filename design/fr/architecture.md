@@ -1,39 +1,62 @@
-# Architecture éditoriale — Glorantha Discovery
+# Glorantha Discovery — Architecture éditoriale commune
 
-Les paragraphes jouables sont accessibles par renvois, sans sommaire qui divulgue les numéros secrets.
+> **Statut : fondation des livres géographiques, sans setting rédigé.** Le cycle de cinq saisons et la Quête Héroïque terminale sont actés ; la forme détaillée des futurs paragraphes reste à tester.
 
-> **Piste de refonte à reprendre (29 octobre 2026) :** [Une année de JdR solo, vers une Quête Héroïque](jdr-solo-une-annee-et-quete-heroique.md). Elle explore des **hubs et § rejouables**, une **année d'aventure** conclue éventuellement au **Temps sacré** par un livre distinct de **Quêtes Héroïques**, où les acquisitions accumulées deviennent significatives. **Hypothèse de design non encore adoptée** : ne modifie ni les § existants, ni le calendrier, ni le contrat de résolution ci-dessous. L'absence de quête principale reste la règle de l'exploration libre, même si la proposition prévoit un aboutissement final.
+## Deux familles de livres
 
-## Numérotation
+1. **Livres géographiques** : réseau de lieux, de trajets et de possibilités. Le joueur découvre librement Glorantha et joue ses propres scènes en JdR solo.
+2. **Livre distinct des Quêtes Héroïques** : accessible au **Temps sacré**, il utilise l'histoire, les Runes et les acquis du personnage pour un parcours dans le Temps des Dieux. Sa structure spécifique sera étudiée ultérieurement. **Échec possible, fin de partie dans tous les cas.**
 
-- Réserve **§001..§600**, trois chiffres. §001 est réservé à la création locale et aux futurs mappings interlivres ; les autres numéros viennent du tirage stable graine 20261015 (tools/allocate-paragraphs.mjs).
-- Allocations historiques : §077 Jonstown, §193 Boldhome, §046 Wilmskirk, §458 Duck Point, §600 route Jonstown–Boldhome, §069 route Boldhome–Wilmskirk, §190 route Wilmskirk–Duck Point, §332 bibliothèque, §172 marché, §110 Darvast Hornos, §129 **retiré du jeu** (ancien événement de route commun, jamais réutiliser), §240 réseau de Goldgotti. Les **douze** numéros demeurent bloqués dans l'allocateur, même si le fichier 129 n'existe plus.
-- Ajouter tout nouveau numéro dans l'allocateur et ce registre ; ne jamais renuméroter un § déjà publié.
+Les livres géographiques sont **extensibles sans plafond de régions**. Ils partagent la même fiche, le même calendrier, les mêmes Visions et le même système de résolution.
 
-## Parcours et calendrier
+## Réseau des livres géographiques
 
-Un trajet possède **un seul § bidirectionnel** avec son événement intégré ; pas de § commun à tous les trajets. La destination est l'autre extrémité du tronçon, quel que soit le sens. Un trajet réellement achevé fait avancer le calendrier d'**une coche**. Huit coches par saison, six périodes par année. Voyages lointains : éventuellement une saison (+8), lorsque les volumes seront disponibles.
+- **Hub** : lieu d'orientation, reliant des possibilités locales et d'autres hubs.
+- **Possibilité locale, première découverte** : scène écrite et située, éventuellement avec résolution guidée ; indique précisément ce qui est découvert ou marqué.
+- **Possibilité locale, visite saisonnière ultérieure** : le joueur imagine sa propre histoire dans un cadre fourni ; une résolution autorise des **gains et pertes bornés**. Le journal `Livre – § – Saison` distingue la découverte initiale et la dernière saison jouée.
+- **Trajet** : liaison entre hubs, idéalement par un § commun aux deux sens pour ne pas multiplier les textes. Le trajet accompli coûte **une coche**, pas la résolution locale.
+- **Situation aléatoire de trajet** : possibilité et marque éventuelle **hors logique de rejouabilité saisonnière** ; une rencontre ne consomme pas automatiquement une coche supplémentaire.
+- **Transfert non contigu entre livres** : **une saison** (huit coches dans le calendrier actuel). Une connexion contiguë se parcourt hub par hub.
 
-Point de départ provisoire validé pour Sartar : **Mer 1619**. Les événements historiques majeurs à compter de 1621 et 1625 demandent encore leurs variantes.
+Le joueur choisit librement de rester dans un hub ; il n'y a **pas de compteur de temps pour les actions locales**. Il doit changer de saison avant de résoudre à nouveau une possibilité déjà jouée.
 
-Voir [personnage et calendrier](personnage-et-calendrier.md), [roadmap de volumes](roadmap-livres.md) et [Sartar — chronologie](sartar/chronologie-rencontres-et-etats.md).
+## Numérotation et navigation
 
-## Découvertes et états
+Les paragraphes sont identifiés par **numéros stables** et renvois internes. Les pages jouables ne sont pas exposées dans un sommaire qui divulguerait les secrets ; une carte peut être un support facultatif.
 
-Contrat détaillé : [mots-clés et supports](mots-cles-et-supports.md). Un mot-clé de lore officiel est écrit en **MAJUSCULES** : par défaut sans marque, il est **entouré ou barré** selon le § vécu. La plupart ne seront qu'entourés. La rencontre reste acquise quelle que soit la résolution, mais la marque peut en exprimer l'issue. Les déclencheurs spécifiques à Discovery sont **en minuscules et en gras**, seulement cochés et généralement obtenus dans un seul §. Les noms de lore sont uniques et communs aux volumes ; ne pas multiplier les relations artificiellement.
+Le POC employait une plage **§001–§600**, un §001 de création/arrivée et un tirage numéroté stable. Ce choix appartient à l'**historique d'expérimentation**. **Ne pas fixer de plage, ni attribuer des paragraphes régionaux**, avant le calcul prévisionnel de taille des livres. Il faudra ensuite garantir des renvois stables une fois publiés et un point d'entrée clair pour les voyageurs venant d'autres volumes.
 
-Cultes, Runes, cultures et Visions restent des identités, pas des mots-clés ; prodiges, grimoires, esprits et Compréhensions sont des capacités sur la feuille commune. Les états de visite peuvent demander des cases propres si un compteur est utile.
+## Conséquences et états
 
-## Développement et résolution
+Un nom de **lore en MAJUSCULES** est entouré ou barré selon la rencontre réellement vécue ; un **déclencheur local en minuscules et gras** est coché lorsqu'un texte le prescrit. Un état saisonnier de possibilité s'enregistre **sur la fiche**, non dans ces marqueurs.
 
-La méthode [par cellules d'exploration](sartar/methode-developpement.md) sert à concevoir un monde sans quête principale. Les scènes avec résolution conservent **deux conséquences intéressantes** et ne comportent pas de mort ordinaire. Les ramifications spécifiques à des Visions sont optionnelles, jamais un quota de quatre branches. Les règles de résolution figurent dans [résolution](resolution.md) et les [conséquences](paragraphes-et-consequences.md).
+Chaque possibilité distingue :
 
-## Publication
+1. ce que le personnage **connaît ou rencontre** ;
+2. ce qu'il **choisit de tenter** ;
+3. les **conditions de résolution** (D1/D2/D3, Runes) ;
+4. les **conséquences autorisées** : gains, pertes, relations, accès, transformations, marques ;
+5. la **saison** et le retour au hub.
 
-Le Markdown et le MDX sont sources du site. Les supports universels se trouvent dans docs/fr/fiche-personnage.md et docs/fr/visions/, les listes du volume dans docs/fr/decouvertes-sartar.md ; prototypes imprimables A4 dans static/print/. La carte de Sartar est encore **un schéma** : ne pas la présenter comme une carte géographique définitive.
+Les quatre Visions utilisent le même réseau sans qu'il faille écrire quatre branches par lieu. Aucune conséquence ordinaire ne tue le personnage ni ne l'enferme dans une impasse punitive.
 
-La chaîne de PDF/EPUB du template ne convertit pas encore automatiquement les renvois en §NNN ; ses publications de démonstration et licences ne constituent **pas** une autorisation de publication du contenu Glorantha.
+## Provisionnement
 
-## Direction artistique
+Pour préparer un livre sans rédiger immédiatement son setting :
 
-Illustrations de carnet antique ou mythique à développer sans copie d'œuvres protégées. Privilégier les descriptions observables, sans prescrire émotions et convictions du personnage ; reconnaître les choix vécus, et pas les informations seulement citées.
+`P ≈ H + 2O + L + E + S + I`
+
+- `H` : hubs ;
+- `O` : possibilités locales, chacune avec un volet **Discovery** et un volet **JdR solo** ;
+- `L` : liaisons distinctes ;
+- `E` : situations aléatoires, conséquences et retours de trajet ;
+- `S` : scènes particulières (mythes, esprits, grimoires, Compréhensions, relations, etc.) non déjà comptées ;
+- `I` : introductions et transitions entre volumes.
+
+C'est une **hypothèse d'estimation** : deux volets peuvent partager un § ou nécessiter des issues supplémentaires. Il faudra la tester sur un graphe **fictif**, avant d'inventer un contenu régional.
+
+## Discipline de source
+
+Pour chaque futur lieu, personnage, rite ou mythe, séparer : **canon attesté et source**, **situation à l'année choisie**, **adaptation écrite par Discovery** et **incertitudes**. Les règles de calendrier, marques, difficultés et finalité terminale sont des **choix de design**, pas des faits du canon de Glorantha.
+
+Voir [modèle de partie](jdr-solo-une-annee-et-quete-heroique.md), [structure d'une possibilité](paragraphes-et-consequences.md), [calendrier](personnage-et-calendrier.md) et [roadmap](roadmap-livres.md).

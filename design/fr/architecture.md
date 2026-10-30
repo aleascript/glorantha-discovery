@@ -50,7 +50,7 @@ Pour préparer un livre sans rédiger immédiatement son setting :
 - `O` : possibilités locales, chacune avec un volet **Discovery** et un volet **JdR solo** ;
 - `L` : liaisons distinctes ;
 - `E` : situations aléatoires, conséquences et retours de trajet ;
-- `S` : scènes particulières (mythes, esprits, grimoires, Compréhensions, relations, etc.) non déjà comptées ;
+- `S` : scènes particulières (mythes, esprits, grimoires, compréhensions, relations, etc.) non déjà comptées ;
 - `I` : introductions et transitions entre volumes.
 
 C'est une **hypothèse d'estimation** : deux volets peuvent partager un § ou nécessiter des issues supplémentaires. Il faudra la tester sur un graphe **fictif**, avant d'inventer un contenu régional.

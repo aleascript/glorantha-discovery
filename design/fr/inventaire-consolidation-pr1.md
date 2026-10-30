@@ -1,8 +1,8 @@
 # PR #1 — Inventaire de consolidation avant extraction du socle
 
-> **Statut : proposition de tri pour validation de design — 30 octobre 2026.** Ce document n'adopte pas de nouvelles règles et n'autorise ni suppression immédiate, ni fusion dans `main`.
+ > **Statut : inventaire de tri proposé — 30 octobre 2026.** Le modèle de partie et les trois arbitrages ci-dessous sont **actés** ; le choix des fichiers à supprimer ou refondre reste une proposition à valider. Aucune fusion dans `main` n'est autorisée.
 >
-> **Référence examinée :** PR [#1](https://github.com/aleascript/glorantha-discovery/pull/1), branche `feat/discovery-sartar-foundation`, tête `aa1b6404f2b2e4544795787cc498e57c1429ec0b` : 98 commits, 42 fichiers modifiés. La [note d'une année et de Quête Héroïque](jdr-solo-une-annee-et-quete-heroique.md) décrit encore largement une *hypothèse* ; l'orientation de cette reprise est plus affirmative, mais ses modalités restent à consolider.
+> **Référence examinée :** PR [#1](https://github.com/aleascript/glorantha-discovery/pull/1), branche `feat/discovery-sartar-foundation`, tête `aa1b6404f2b2e4544795787cc498e57c1429ec0b` : 98 commits, 42 fichiers modifiés. La [note de design mise à jour](jdr-solo-une-annee-et-quete-heroique.md) établit désormais **le cycle et les arbitrages adoptés** (liberté JdR solo, journal des possibilités et calendrier par voyages).
 
 ## 1. Périmètre visé pour le premier merge
 
@@ -13,9 +13,9 @@ Le premier merge doit installer **Glorantha Discovery comme moteur et contrat é
 - **Résolution :** 3D6 ; trois difficultés D1/D2/D3 ; issue favorable seulement si le résultat *dépasse* la difficulté ; Runes en appui / opposition (termes à arbitrer, effets plafonnés ±1) ; **aucune mort comme résolution ordinaire**. Deux suites jouables : bifurcations, transformations, relations, gains et pertes.
 - **Quatre Visions :** Théisme, Animisme, Logique, Mysticisme ; même procédure générale, quatre lectures des dés et voies d'acquisition distinctes, sans quota de quatre embranchements par scène.
 - **Marqueurs :** noms de **lore en MAJUSCULES** (sans marque / entourés / barrés) distincts des **déclencheurs locaux en minuscules et gras** (case à cocher). Définir précisément la différence entre *nom entendu*, *rencontre vécue* et *acquis effectivement intégré à la suite d'une résolution* ; la convention existante n'épuise pas cette question.
-- **Calendrier :** **cinq saisons explorables**, puis **Temps sacré comme seuil terminal** vers le Temps des Dieux. La répartition existante en huit coches par saison est une base à vérifier ; les huit coches aujourd'hui attribuées aussi au Temps sacré ne doivent pas être héritées automatiquement. Le cycle multiannuel et les variantes historiques 1621/1625 ne sont plus des exigences du jeu.
-- **Personnage :** une fiche portable entre les livres : identité, Vision, Runes, culture/culte, acquis propres à la Vision, marques persistantes et calendrier.
-- **Finalité de partie :** les expériences de l'année conditionnent les chemins possibles d'une Quête Héroïque au Temps sacré ; une quête peut échouer ; elle clôt **la partie**, sans reprise d'une nouvelle année. Le livre final aura sa structure propre et ne doit pas être développé maintenant.
+- **Calendrier :** **cinq saisons explorables × huit coches**, puis **Temps sacré terminal** vers le Temps des Dieux, sans nouvelle année. **Un déplacement de hub à hub coûte une coche**, y compris entre livres contigus ; **un transfert entre livres non contigus coûte une saison** (huit coches), plafond du voyage lointain. **Aucune coche pour les actions locales** : le joueur peut jouer librement dans son hub ; la rejouabilité d'une même possibilité est limitée par la saison, non par un coût d'action.
+- **Personnage :** une fiche portable entre les livres : identité, Vision, Runes, culture/culte, acquis propres à la Vision, marques persistantes, calendrier et **journal libre des possibilités jouées : Livre – § – Saison**. Pas de grilles statiques de coches par paragraphe au stade actuel.
+- **Finalité de partie (définitivement acquise) :** après cinq saisons, l'entrée au Temps sacré et la Quête Héroïque terminale sont **obligatoires dans le modèle**. Les expériences de l'année conditionnent les chemins possibles ; une quête peut échouer ; elle clôt **la partie**, sans nouvelle année. Le livre final aura sa structure propre et ne doit pas être développé maintenant.
 - **Aucun setting rédigé à ce stade :** ni chapitres de région, ni paragraphes jouables de Sartar, ni scénario de Quête Héroïque dans ce premier merge.
 
 **À distinguer :** les cinq saisons et le Temps sacré sont du canon gloranthien ; leur usage en « une année exploratoire puis finale obligatoire » est une **convention de Glorantha Discovery**, pas une affirmation sur tous les habitants de Glorantha.
@@ -27,8 +27,8 @@ Le premier merge doit installer **Glorantha Discovery comme moteur et contrat é
 | `design/fr/resolution.md` | **Conserver et consolider** en référence normative ; isoler les statistiques, versions écartées et essais pour ne plus confondre règle et laboratoire. |
 | `docs/fr/visions/{theisme,animisme,logique,mysticisme}.md` | **Conserver les quatre descriptions et règles**, les aligner sur les termes retenus et le calendrier terminal. |
 | `design/fr/mots-cles-et-supports.md` | **Conserver et clarifier** la distinction lore / déclencheurs, surtout connu vs vécu vs intégré et le rôle d'une résolution. |
-| `design/fr/personnage-et-calendrier.md` | **Conserver après refonte** : cinq saisons + bascule terminale, aucun passage automatique à une deuxième année ; sortir création heortling et initiation sartarite de la règle universelle. |
-| `docs/fr/fiche-personnage.md`, `static/print/fiche-personnage.html` | **Conserver et adapter** ; fiche universelle, sans mentions de départ à Sartar ni calendrier cyclique sur 48 cases. |
+| `design/fr/personnage-et-calendrier.md` | **Conserver après refonte** : cinq saisons de huit coches, voyages seuls consommateurs de calendrier, Temps sacré terminal, journal **Livre – § – Saison** ; sortir création heortling et initiation sartarite de la règle universelle. |
+| `docs/fr/fiche-personnage.md`, `static/print/fiche-personnage.html` | **Conserver et adapter** : fiche universelle avec **section manuscrite Livre – § – Saison**, sans départ à Sartar ni calendrier cyclique sur 48 cases. |
 | `static/print/regles-visions.html` | **Conserver**, mais synchroniser mécaniquement avec les quatre fiches de Vision et `resolution.md`. |
 | `design/fr/architecture.md` | **Réécrire** comme contrat générique (hubs, possibilités, parcours, liens interlivres, états saisonniers) ; écarter les allocations et noms propres du prototype. |
 | `design/fr/jdr-solo-une-annee-et-quete-heroique.md` | **Conserver la réflexion**, en séparant décisions d'orientation, règles à expérimenter et questions ouvertes ; lever les contradictions avec la présente reprise. |
@@ -66,8 +66,8 @@ Volumes candidats, sans ordre obligatoire : **Sartar, Prax/Pavis, Tarsh, Pélori
 
 1. **Hub** : présente le lieu et oriente vers plusieurs **possibilités**.
 2. **Possibilité, première expérience** : fiction située (discovery) et éventuelle résolution guidée ; marque une découverte ou un état persistant.
-3. **Même possibilité, revisite** : module de **JdR solo** avec enjeu libre *dans un cadre écrit*, difficulté, pertes/gains autorisés et conséquences ; **une nouvelle tentative seulement après changement de saison**, selon la règle exacte à définir.
-4. **Liaison de hubs** : **une coche de calendrier** pour le déplacement effectif, plus une **situation aléatoire** propre au trajet. Ses marques éventuelles sont persistantes, **distinctes des limites de revisite saisonnières**.
+3. **Même possibilité, saison ultérieure** : module de **JdR solo**. Le joueur invente et joue **dans sa tête** sa visite et son enjeu, par exemple revoir quelqu'un ; le paragraphe donne **D1/D2/D3, contexte runique et résultats possibles cadrés** (soutien, accès à un mythe, objet, relation, perte, nom barré...). La fiction appartient au joueur, les gains/pertes permis au texte. **Au plus une résolution par possibilité et par saison**, enregistrée sur la fiche.
+4. **Liaison de hubs** : **une coche de calendrier** pour le déplacement effectif, y compris vers un hub d'un livre contigu ; **passage entre livres non contigus = une saison**. Une situation aléatoire propre au trajet peut porter une marque persistante, **distincte des limites de revisite saisonnières**. Les actions sur place ne consomment pas de coche.
 5. **Autres paragraphes** : esprits, mythes, Compréhensions, grimoires, relations, rites, découvertes particulières ; ni tout acquis ni toute scène ne doit devenir une simple récompense chiffrée.
 6. **Quêtes Héroïques** : livre **hors périmètre actuel**, alimenté par les Runes, rencontres, acquis et chemins du personnage ; temps mythique et logique de progression propres ; échec possible, **fin de partie** quelle que soit l'issue.
 
@@ -88,15 +88,22 @@ Formule de travail, **non un format encore figé** :
 
 Un paragraphe à plusieurs issues peut nécessiter des paragraphes supplémentaires : c'est **une borne d'architecture, non le comptage final**. La taille `001–600` existante ne doit pas décider à elle seule du modèle.
 
-## 5. Décisions à trancher avant le nettoyage final
+## 5. Arbitrages actés et détails restant ouverts
 
-1. **Saisons et coches :** conserver huit actions/coches par saison ? Une action de revisite sur place consomme-t-elle une coche (sinon, boucle de ressources sans passage du temps) ? Le Temps sacré n'a-t-il plus de coches et déclenche-t-il directement la finale ?
-2. **État d'une possibilité :** comment distinguer première découverte et dernière saison jouée, avec le minimum de marques ? Quelle condition précise ouvre le mode JdR solo ? Un mot de lore entouré n'est pas nécessairement un indicateur de visite.
-3. **Connu / intégré :** une rencontre donne-t-elle toujours une marque lore ? Quand une résolution attribue-t-elle plutôt une capacité, un déclencheur ou une transformation de marque ? Doit-on introduire un état supplémentaire ou clarifier les catégories existantes ?
-4. **Terminologie :** « Runes favorables/défavorables » vs « d'appui/en tension », et « mots-clés » vs « noms de lore / déclencheurs » ; choisir séparément langage pour le joueur et terminologie d'implémentation.
-5. **Résolution des revisites :** critères généraux D1/D2/D3, pertes/gains permis, exclusions, re-jouabilité, sans arbitre ni inflation des acquis.
-6. **Datation :** sélectionner une année historique cohérente pour la série, sans promettre de variantes multiannuelles.
-7. **Structure des livres :** confirmer §001 interlivres, un § de trajet bidirectionnel et numérotation aléatoire stable **après** le calcul de volume.
+### Acquis au 30 octobre 2026
+
+1. **Cinq saisons d'exploration puis Quête Héroïque terminale : décision définitive.** Le livre mythique peut aboutir à un échec mais met toujours fin à la partie.
+2. **Résolution autonome :** le joueur compose librement sa fiction, choisit son enjeu parmi les possibilités cadrées ; le livre fixe difficulté, Runes d'appui/opposition, gains et pertes possibles.
+3. **Suivi dynamique :** le joueur inscrit **Livre – § – Saison** dans une section dédiée de sa feuille ; pas de liste statique de cases à la *Fabled Lands*.
+4. **Temps :** trajets hub-hub = une coche, transfert entre volumes non contigus = une saison ; **aucune coche sur les actions locales**. La disponibilité d'une possibilité est **saisonnière** (une résolution par saison). La liberté de rester dans un hub est voulue.
+
+### Encore à concevoir ou vérifier
+
+1. **Gabarit du paragraphe solo :** comment présenter les enjeux et éventails de gains/pertes pour autoriser la fiction libre sans demander au joueur d'inventer une récompense de lore ?
+2. **Connu / intégré :** quelles acquisitions sont des noms de lore, des capacités, des déclencheurs ou des transformations de marque ? Le journal de saison reste un autre registre.
+3. **Terminologie :** « Runes favorables/défavorables » vs « d'appui/en tension », « noms de lore » et « clés/déclencheurs narratifs ».
+4. **Datation :** choisir une année historique cohérente, sans variantes multiannuelles obligatoires.
+5. **Budget et numérotation :** vérifier §001 interlivres, trajet bidirectionnel et numérotation stable **après** le calcul de volume.
 
 ## 6. Séquence de PR proposée
 

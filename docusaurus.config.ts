@@ -63,7 +63,7 @@ const baseUrl = normalizeBaseUrl(
   process.env.SITE_BASE_URL ?? (isUserPagesRepository ? '/' : projectName),
 );
 const repositoryUrl = `https://github.com/${repositoryFullName}`;
-const locales = Object.keys(site.locales);
+const locales = ['fr']; // Prototype français uniquement ; anglais activé après validation du POC.
 const requestedLocale = process.env.DOCUSAURUS_CURRENT_LOCALE;
 const contentLocale =
   requestedLocale && requestedLocale !== 'undefined'
@@ -148,13 +148,9 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'docsSidebar',
           position: 'left',
-          label: 'Contents',
+          label: 'Règles',
         },
-        {
-          to: '/publications/',
-          label: 'Publications',
-          position: 'left',
-        },
+
         {
           type: 'localeDropdown',
           position: 'right',

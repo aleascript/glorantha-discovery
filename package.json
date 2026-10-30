@@ -13,13 +13,14 @@
     "publication:build": "node tools/build-publications.mjs",
     "publication:site": "node tools/copy-publications-to-site.mjs",
     "release:prepare": "node tools/prepare-release.mjs",
-    "check": "npm run typecheck && npm run build",
+    "check": "npm run typecheck && npm run discovery:check && npm run build",
     "swizzle": "docusaurus swizzle",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
-    "typecheck": "tsc"
+    "typecheck": "tsc",
+    "discovery:check": "node tools/check-discovery.mjs"
   },
   "dependencies": {
     "24": "^0.0.0",

@@ -1,29 +1,20 @@
 ---
 id: home
-title: Le Monde
+title: Glorantha Discovery
 slug: /
-sidebar_position: 1
 hide_table_of_contents: true
-description: Chaque jeu commence par un monde qui attend de répondre.
 ---
 
-# Un monde commence par une question
+# Glorantha Discovery
 
-Au-delà de la dernière route familière s'étend un lieu qui n'a encore jamais
-existé. Ses habitants se souviennent d'anciennes promesses. Ses ruines gardent
-patiemment leurs secrets. Quelque chose a changé, et les personnages sont ceux
-qui ne peuvent simplement détourner le regard.
+**Explorer Glorantha en la vivant.**
 
-Ce soir, la table donne une voix à ce monde.
+*Glorantha Discovery* est un projet de **livres-jeux de rôle solo**. Le joueur explore librement des régions de Glorantha, imagine ses propres histoires à partir des possibilités proposées, puis affronte une **Quête Héroïque terminale** au Temps sacré.
 
-Vous direz ce que vos personnages remarquent, ce qu'ils désirent et ce qu'ils
-sont prêts à risquer. Leurs choix révéleront des chemins que personne n'aurait
-pu tracer à l'avance. En retour, le monde répondra — parfois par l'émerveillement,
-parfois par le danger, toujours par des conséquences.
+Le principe de partie est fixé : **cinq saisons d'exploration**, avec une fiche portable entre les livres, puis un parcours dans le **Temps des Dieux**. La Quête Héroïque peut échouer, mais clôt toujours la partie.
 
-## La promesse du jeu
+Le projet est actuellement en **consolidation des règles et de l'architecture éditoriale**. Les livres régionaux et leurs paragraphes jouables ne sont **pas encore publiés**.
 
-Venez avec des questions plutôt qu'avec des solutions. Écoutez les détails qui
-comptent. Laissez chaque personnage transformer ce qui devient possible.
+[Comment jouer](./enter-the-fiction.md) · [Feuille de personnage](./fiche-personnage.md)
 
-Personne ne connaît encore toute l'histoire. C'est pour cela que nous jouons.
+Projet amateur non officiel dans l'univers de Glorantha. Les conditions de publication et droits du contenu doivent être vérifiés avant diffusion des livres.

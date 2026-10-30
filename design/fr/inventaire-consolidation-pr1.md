@@ -1,6 +1,6 @@
-# PR #1 — Inventaire de consolidation avant extraction du socle
+# PR #1 — Inventaire et bilan de consolidation du socle
 
- > **Statut : inventaire de tri proposé — 30 octobre 2026.** Le modèle de partie et les trois arbitrages ci-dessous sont **actés** ; le choix des fichiers à supprimer ou refondre reste une proposition à valider. Aucune fusion dans `main` n'est autorisée.
+> **Statut : consolidation exécutée dans la PR #1 le 30 octobre 2026, toujours en brouillon.** Modèle et arbitrages adoptés. Les fichiers régionaux ont été retirés **de la branche active**, et restent consultables sur la [branche d'archive du POC](https://github.com/aleascript/glorantha-discovery/tree/archive/sartar-poc-pre-consolidation-2026-10-30). **Aucune fusion dans `main`**.
 >
 > **Référence examinée :** PR [#1](https://github.com/aleascript/glorantha-discovery/pull/1), branche `feat/discovery-sartar-foundation`, tête `aa1b6404f2b2e4544795787cc498e57c1429ec0b` : 98 commits, 42 fichiers modifiés. La [note de design mise à jour](jdr-solo-une-annee-et-quete-heroique.md) établit désormais **le cycle et les arbitrages adoptés** (liberté JdR solo, journal des possibilités et calendrier par voyages).
 
@@ -20,7 +20,7 @@ Le premier merge doit installer **Glorantha Discovery comme moteur et contrat é
 
 **À distinguer :** les cinq saisons et le Temps sacré sont du canon gloranthien ; leur usage en « une année exploratoire puis finale obligatoire » est une **convention de Glorantha Discovery**, pas une affirmation sur tous les habitants de Glorantha.
 
-## 2. Inventaire fichier par fichier — socle à garder, après réduction
+## 2. Inventaire fichier par fichier — socle conservé et réduit
 
 | Fichier actuel | Décision proposée pour le premier merge |
 | --- | --- |
@@ -43,7 +43,7 @@ Le premier merge doit installer **Glorantha Discovery comme moteur et contrat é
 - `sidebars.ts`, `site.config.ts`, `docusaurus.config.ts`, `package.json`, `.github/workflows/deploy-pages.yml` : **ne garder que les adaptations indispensables** à un site Discovery présentant le socle ; la configuration de base existe déjà dans `main`.
 - Les supports imprimés doivent avoir **une source de vérité** pour éviter que règles Web et A4 divergent.
 
-## 3. Hors du premier merge — retirer du périmètre actif, pas perdre la mémoire du POC
+## 3. Hors du premier merge — retiré du périmètre actif, préservé dans l'archive
 
 | Ensemble | Action proposée |
 | --- | --- |
@@ -54,7 +54,7 @@ Le premier merge doit installer **Glorantha Discovery comme moteur et contrat é
 | `src/components/TravelDie.tsx` | **Retirer** tant que le modèle de trajets/événements n'est pas stabilisé ; utilisé par les trajets du POC. |
 | `tools/allocate-paragraphs.mjs` | **Mettre en attente** : l'allocation stable 001–600 ne doit pas préjuger du budget éditorial du nouveau modèle. Préserver sa logique si elle s'avère utile ensuite. |
 
-**Préservation historique :** avant de retirer ces éléments de la branche active, garder un ref Git explicite (branche ou tag d'archive) pointant vers le dernier POC, en plus de l'historique Git. Ne pas les copier vers `main` en tant que règles actives.
+**Préservation historique effectuée :** branche `archive/sartar-poc-pre-consolidation-2026-10-30` pointant sur le dernier POC avant retrait. Les **19 fichiers régionaux ou techniques propres au prototype** ont été retirés de la PR active ; ils restent récupérables dans cette archive. Ils ne sont pas proposés au merge dans `main`.
 
 ## 4. Roadmap de design à conserver, sans produire de régions
 
@@ -105,12 +105,14 @@ Un paragraphe à plusieurs issues peut nécessiter des paragraphes supplémentai
 4. **Datation :** choisir une année historique cohérente, sans variantes multiannuelles obligatoires.
 5. **Budget et numérotation :** vérifier §001 interlivres, trajet bidirectionnel et numérotation stable **après** le calcul de volume.
 
-## 6. Séquence de PR proposée
+## 6. État de l'exécution
 
-1. **Valider le présent inventaire** comme périmètre, en conservant la PR #1 en brouillon.
-2. **Figer un ref d'archive du POC Sartar**, puis transformer la PR #1 en une **PR de fondations** (documents de règle concis, roadmap, fiche, aides, site minimal).
-3. **Retirer les fichiers hors périmètre** et les références cassées ; aligner règles, fiche et A4 ; lancer les contrôles/build.
-4. **Relire puis fusionner explicitement** cette seule fondation dans `main` (squash possible pour ne pas y importer les 98 commits de recherche).
-5. Toute itération suivante — prototype de possibilité, trajet, budget éditorial, ou contenu régional — se fait dans **une nouvelle PR courte**, issue de `main`.
+- [x] Modèle « cinq saisons puis Quête Héroïque terminale » et arbitrages du JdR solo confirmés.
+- [x] Branche d'archive du dernier POC Sartar créée à `06e05c0a2006db989ae98308dcd3bc036ba3e6db`.
+- [x] Règles et architecture du socle condensées, fiche et journal `Livre – § – Saison` alignés, support A4 actualisé.
+- [x] **19 fichiers** de paragraphes, régions, carte et auxiliaires du POC retirés de la branche active.
+- [x] Pages publiques rendues génériques ; mention de licence CC BY du template neutralisée en attente de vérification des droits.
+- [ ] Vérification des workflows GitHub et dernière revue de cohérence.
+- [ ] Fusion **uniquement sur validation explicite**, en conservant la PR en brouillon d'ici là.
 
-*Aucune suppression ou fusion n'a été effectuée par cet audit.*
+Après fusion, les prototypes de possibilités et les livres géographiques devront être développés dans **des PR courtes issues de `main`**. La numérotation et la taille des volumes restent à dimensionner.

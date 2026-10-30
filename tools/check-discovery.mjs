@@ -45,7 +45,8 @@ for (const v of visions) {
   check(/D1|difficulté/i.test(body), 'Vision sans difficulté : ' + v);
 }
 const resolution = read(path.join(design, 'resolution.md'));
-for (const v of visions) check(resolution.includes(v[0].toUpperCase() + v.slice(1)), 'Vision absente du contrat : ' + v);
+const visionLabels = {theisme: 'Théisme', animisme: 'Animisme', logique: 'Logique', mysticisme: 'Mysticisme'};
+for (const v of visions) check(resolution.includes(visionLabels[v]), 'Vision absente du contrat : ' + v);
 for (const d of ['D1','D2','D3']) check(resolution.includes(d), 'Difficulté manquante : ' + d);
 const calendar = read(path.join(design, 'personnage-et-calendrier.md'));
 check(calendar.includes('Livre – § – Saison'), 'Journal saisonnier absent du contrat');
@@ -53,7 +54,7 @@ check(calendar.includes('Temps sacré'), 'Temps sacré terminal absent du contra
 const sheet = read(path.join(root,'static','print','fiche-personnage.html'));
 for (const word of ['Livre','Saison','Temps sacré','cinq saisons']) check(sheet.includes(word), 'Feuille A4 sans : ' + word);
 const visionA4 = read(path.join(root,'static','print','regles-visions.html'));
-for (const v of visions) check(visionA4.includes(v[0].toUpperCase()+v.slice(1)), 'Aide A4 manquante : ' + v);
+for (const v of visions) check(visionA4.includes(visionLabels[v]), 'Aide A4 manquante : ' + v);
 check(!fs.existsSync(path.join(docs,'paragraphes')), 'Les paragraphes régionaux du POC doivent rester dans la branche archive');
 
 if (errors.length) {

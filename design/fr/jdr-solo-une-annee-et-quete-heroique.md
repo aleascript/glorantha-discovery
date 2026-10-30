@@ -1,165 +1,129 @@
-# Glorantha Discovery — Une année de JdR solo, vers une Quête Héroïque
+# Glorantha Discovery — Cinq saisons d'exploration, puis Quête Héroïque
 
-> **Statut : NOTE DE DESIGN / PISTE STRUCTURANTE À REPRENDRE.** Formulation de l'orientation discutée le 29 octobre 2026. **Ni règle adoptée, ni modification des § jouables.** Les principes établis ci-dessous restent ceux des documents existants ; le reste est un ensemble d'hypothèses à prototyper, critiquer et éventuellement abandonner.
+> **Statut : modèle de jeu adopté le 30 octobre 2026.** Le cycle **cinq saisons d'exploration → Temps sacré → Quête Héroïque terminale** est une décision de design, non une hypothèse à réexaminer. Les modalités éditoriales de chaque possibilité et du livre final restent à prototyper. Les paragraphes Sartar existants appartiennent au POC antérieur et **ne constituent pas la spécification de ce nouveau modèle**.
 >
-> **Thèse :** Glorantha Discovery pourrait devenir un **JdR solo cadré par une année gloranthienne**. Les livres de lieux servent à **habiter** et explorer Glorantha, non à consommer un nombre fini de paragraphes. Les expériences et capacités acquises durant l'année trouvent leur aboutissement dans un **livre distinct de Quêtes Héroïques**, au Temps sacré ; ce parcours terminal diffère radicalement de la circulation ordinaire et clôt la partie.
+> **Frontière canon / design :** saisons, Temps sacré et temps mythique relèvent de Glorantha. Le fait qu'un héros explore cinq saisons puis entre nécessairement dans une Quête Héroïque qui clôt sa partie est une **convention propre à Glorantha Discovery**, pas une prescription du canon.
 
-## 1. Ce que nous avons déjà — ne pas le réinventer
+## 1. Objet et fin d'une partie
 
-Les décisions/règles déjà documentées sont un point de départ, **pas des propositions de cette note** :
+*Glorantha Discovery* est un **JdR solo sans meneur**, appuyé sur des livres géographiques extensibles. Le joueur construit **dans sa tête sa propre histoire** ; les livres apportent lieux, situations, possibilités, contraintes, difficultés et conséquences possibles. Ils ne dictent ni une quête principale durant l'année, ni un récit unique à suivre.
 
-- **Résolution à 3D6** avec difficultés **D1 / D2 / D3**, lecture propre aux **quatre Visions** : théisme, animisme, logique et mysticisme. Voir [résolution](resolution.md).
-- **Progression par expérience**, plutôt que niveaux : Runes et changements possibles d'affinités, mythes et prodiges théistes, esprits animistes, grimoires logiques, Compréhensions mystiques. Voir [magie et progression](magie-et-progression.md). *Rune Quest* désigne ici le **moteur de recherche de Runes**, pas une transposition des règles de RuneQuest.
-- **Identité portable** (Vision, Runes, culte, culture…) et **mots-clés de lore** en MAJUSCULES : **un seul nom**, éventuellement **entouré ou barré sur instruction du §**. Déclencheurs locaux en **minuscules et en gras**, à cocher seulement. Voir [contrat des mots-clés](mots-cles-et-supports.md).
-- **Hubs géographiques reliés** et trajets qui avancent le calendrier. La convention actuelle est **8 coches par période, 6 périodes par année**, soit 48 coches ; Mer, Feu, Terre, Sombre, Tempêtes, Temps sacré. Un vrai trajet entre hubs coûte actuellement une coche ; certaines grandes actions (initiation, voyage lointain) peuvent coûter +8 coches. Voir [personnage et calendrier](personnage-et-calendrier.md).
-- **Ouverture de l'exploration** : pas de quête principale à suivre d'un paragraphe à l'autre, pas de mort ou d'impasse punitive comme résolution ordinaire.
+La partie suit un personnage pendant **cinq saisons exploratoires** : **Mer, Feu, Terre, Sombre/Ténèbres, Tempêtes**. À leur terme, le **Temps sacré** ouvre le **livre distinct des Quêtes Héroïques**, dans le Temps des Dieux. Le parcours mythique dépend de l'histoire effectivement vécue : Runes, Vision, relations, mythes, acquis et marques de découverte.
 
-Ces fondations sont **compatibles** avec la nouvelle piste, mais le sens du calendrier, les § rejouables et la finalité du jeu changeraient.
+La Quête Héroïque **peut échouer**. Elle clôt la **partie** dans tous les cas : on ne reprend pas une nouvelle année avec le même calendrier. Une fin de partie n'implique pas la mort du personnage.
 
-## 2. Nouvelle boucle envisagée
+La série des livres de lieux reste **indéfiniment extensible** : Sartar, Prax/Pavis, Tarsh, Péloria, Esrolia/Pays Saint, Ralios, Kralorela, etc. Une seule partie ne visitera pas nécessairement tous les volumes. On ne développe **aucun setting** et aucune Quête Héroïque jouable lors de la consolidation présente.
 
-**Début :** création d'un personnage dans un lieu/culture et une année de départ définis pour la partie (Sartar commence actuellement en Mer 1619).
+## 2. Socle de règles à conserver
 
-**Pendant l'année :** liberté de circuler entre hubs, voyager, découvrir des lieux, rencontrer des habitants et des puissances, choisir des enjeux personnels, effectuer des résolutions, obtenir ou perdre des relations, acquérir des Runes et les ressources propres à sa Vision. Les § de lieux sont **revisitables**.
+Ces mécanismes sont déjà documentés et devront être remis en cohérence avec le cycle ci-dessus :
 
-**À l'arrivée du Temps sacré :** bascule depuis les volumes géographiques vers un **livre des Quêtes Héroïques** (titre de travail), qui reconnaît les choix, les marques de lore, les Runes, les rites, les capacités et les rencontres de l'année.
+- **Résolution :** 3D6, difficultés **D1 / D2 / D3**, issue favorable si les Réussites finales dépassent **strictement** la difficulté. Deux conséquences jouables ; **pas de mort comme résultat ordinaire**. Voir [résolution](resolution.md).
+- **Quatre Visions :** Théisme, Animisme, Logique, Mysticisme. Elles lisent différemment les trois dés et acquièrent des capacités différentes (prodiges, esprits, grimoires, Compréhensions). Il n'y a pas de quota de quatre branches par possibilité. Voir [magie et progression](magie-et-progression.md).
+- **Runes :** un appui favorable plafonné à **+1** et une opposition défavorable plafonnée à **−1**, sous réserve des exceptions déjà écrites (mystique, Illumination, Compréhension). **Terminologie à choisir** : « favorable/défavorable » ou « d'appui/en tension », notamment.
+- **Marqueurs :** noms de lore en **MAJUSCULES**, laissés sans marque, **entourés** ou **barrés** selon une expérience vécue et le texte ; déclencheurs locaux en **minuscules et gras**, seulement cochés. L'identité, les Runes, les cultes et les capacités restent séparés. Voir [mots-clés et supports](mots-cles-et-supports.md).
+- **Feuille portable :** identité, Vision, Runes, culture/culte, capacités, calendrier et marques suivent le personnage d'un livre à l'autre. Voir [personnage et calendrier](personnage-et-calendrier.md).
 
-**Fin :** la Quête Héroïque mène à une conclusion complète de cette **partie**, avec différentes issues et transformations possibles ; on ne repart pas automatiquement pour une nouvelle année.
+**Question de clarification à traiter au niveau éditorial :** distinguer nettement le nom simplement *entendu*, l'élément *effectivement rencontré/connu* et l'acquis *intégré grâce à une résolution*. La connaissance d'un nom n'accorde pas automatiquement une capacité, un accès, une relation favorable ou un objet.
 
-Cela pourrait donner une expérience **rejouable avec des personnages et des parcours différents**, plutôt qu'une campagne sans fin. La conclusion mythique est un horizon commun, **sans transformer l'année en liste d'objectifs obligatoires**.
+## 3. Calendrier : le voyage fait avancer le temps
 
-### Décision NON prise : durée exacte
+Les cinq saisons sont les périodes de jeu géographique. La convention existante donne **huit coches par saison**, soit **40 coches** d'exploration ; elle est conservée pour la consolidation du socle. Le Temps sacré est la **bascule vers le livre final**, pas une sixième saison de huit coches exploratoires. Sa structure rituelle et mythique appartient au futur livre des Quêtes Héroïques.
 
-Hypothèse forte : **une année d'aventure**, dont **cinq périodes de huit coches** (40 unités abstraites) consacrées à l'exploration et le **Temps sacré réservé au final**.
+- **Un trajet accompli de hub en hub : une coche**, dans les deux sens et y compris lorsqu'il relie deux livres contigus.
+- **Transfert entre livres non contigus : une saison**, soit huit coches dans la convention actuelle. C'est le coût maximal d'un voyage lointain.
+- **Action dans un hub : aucune coche.** Le joueur peut rester et imaginer autant de fiction qu'il le souhaite. Ce n'est **pas une faille à corriger** par un coût systématique des recherches, rites, discussions ou résolutions.
+- La **limitation des possibilités rejouables** est saisonnière : une possibilité déjà jouée attend une autre saison avant d'offrir une nouvelle résolution solo. Il faut distinguer ce verrou de la liberté d'interpréter, de discuter ou de se représenter la vie du lieu.
+- Un retour purement technique vers un paragraphe, une consultation ou un clic ne coûtent rien. Une situation aléatoire de voyage ne crée pas automatiquement une coche supplémentaire.
 
-Mais **les huit coches actuelles du Temps sacré n'ont pas nécessairement à devenir huit épreuves de Quête Héroïque** : ce serait une seconde décision. Dans le calendrier gloranthien, le Temps sacré dure **14 jours**, et non huit semaines. Nous utilisons déjà huit cases *abstraites* pour cette période ; le découpage rituel précis et son articulation avec le livre final restent à choisir.
+**Conséquence assumée :** le joueur n'est pas forcé de quitter son hub pour « faire passer le temps ». Le calendrier progresse quand il voyage ; la variation saisonnière règle l'accès aux **nouvelles résolutions de possibilités déjà jouées**. Nous ne rajoutons pas de consommation artificielle du temps pour accélérer la finale.
 
-Variantes à tester :
-1. entrée automatique dans le livre final dès le début du Temps sacré ;
-2. courte préparation rituelle durant le Temps sacré, puis Quête Héroïque ;
-3. choix d'une quête parmi plusieurs propositions auxquelles le personnage peut réellement répondre.
+Il n'est plus nécessaire de simuler plusieurs années et les jalons successifs **1621/1625** dans un même parcours. Il faut toutefois **choisir une année historique de référence** pour la série, afin que les situations et personnages soient cohérents avec le lore. Le départ « Mer 1619 » est actuellement un **choix du POC Sartar**, pas une règle universelle définitivement reconduite.
 
-Ne pas figer maintenant « 40 tours de préparation + 8 étapes finales » en règle.
+## 4. Le modèle hub → possibilités
 
-## 3. Les § géographiques changent de nature
+Un **hub** représente un lieu qui oriente vers différentes **possibilités**. Le joueur choisit lesquelles explorer, dans quel ordre et dans quels lieux revenir. Le réseau est traversable entre les livres.
 
-Un § ne serait plus seulement **un événement consommable** donnant un renvoi. Il présenterait un **lieu où le joueur peut agir**, avec deux usages :
+### Premier passage — Discovery
 
-| | Première visite | Visites suivantes |
+Une possibilité offre une **fiction écrite et située dans Glorantha**, avec une rencontre, une expérience et éventuellement une résolution guidée. Le livre précise ce qui peut être connu, entouré/barré, obtenu ou perdu. Il ne distribue pas une capacité extraordinaire pour la simple mention d'un nom.
+
+### Passage ultérieur, à partir d'une autre saison — JdR solo
+
+Le joueur retourne par exemple voir une personne déjà rencontrée et **joue librement la scène dans sa tête** : ce qu'il dit, entreprend, risque, cherche à obtenir ou préfère éviter. Il est l'auteur de **son histoire** ; le texte n'a pas à scénariser chaque conversation.
+
+La possibilité fournit un **cadre de jeu explicite** :
+
+1. **Contexte et possibles** : personnages, ressources, contraintes du lieu, situation et types d'enjeux qu'il permet.
+2. **Résolution** : difficulté D1/D2/D3 et Runes d'appui ou en opposition **illustrant ces possibilités**, dans les limites du moteur.
+3. **Conséquences autorisées** : par exemple soutien, relation, accès à un mythe, objet, esprit, grimoire ou autre acquis approprié ; mais aussi perte, dette, accès refusé, changement de relation, ou **nom de lore barré** si le texte le prévoit.
+4. **Choix du joueur** : il détermine **ce qu'il tente** dans l'offre du paragraphe, joue la fiction et applique la branche de résolution. Il ne s'attribue pas librement un pouvoir, un objet ou un fait de lore extérieur aux acquisitions autorisées.
+
+Les deux issues doivent faire avancer l'histoire, y compris si le personnage n'obtient pas ce qu'il cherchait. Le système ne raconte pas toute l'histoire à sa place : il **délimite les possibles et arbitre la conséquence**.
+
+**Rejouabilité :** la même possibilité peut être résolue **au plus une fois par saison**, après la découverte initiale. Sa disponibilité est contrôlée par le journal saisonnier du personnage et non par une case préimprimée à côté de chaque §.
+
+## 5. Journal sur la feuille de personnage
+
+Ajouter une section **« Possibilités jouées »**, que le joueur remplit lui-même, sous la forme :
+
+| Livre | § | Saison |
 | --- | --- | --- |
-| Fonction | Découvrir un lieu et apprendre à y jouer | Réutiliser ce lieu comme situation de JdR solo |
-| Fiction | Exemple concret et situé dans Glorantha | Cadre, personnes, pratiques et contraintes restant disponibles |
-| Jeu | Un enjeu et éventuellement une résolution guidée | Le joueur formule **un enjeu** et joue une résolution adaptée |
-| Effets | Découverte, marque de lore, possible déclencheur | Conséquence fictionnelle et évolution permise par le § / les règles |
-| Temps | Coût explicite, à confirmer pour chaque action | Coût explicite selon l'action, pas selon le simple clic/relecture |
+| Sartar *(exemple de notation)* | 332 | Mer |
+| Sartar *(même possibilité rejouée plus tard)* | 332 | Feu |
 
-**Exemple de travail : bibliothèque de Jonstown (§332).** À la première visite : rencontre avec les Sages Libres et exemple de recherche ou de récit. Aux suivantes : le joueur peut décider de demander une aide, travailler sur un mythe, comprendre une tradition, etc. Il invente l'**enjeu situé**, pas le résultat garanti ni de nouveaux faits de lore.
+Le journal permet de savoir **si la possibilité a déjà été découverte** et **dans quelle saison elle a été jouée pour la dernière fois**. Une nouvelle ligne enregistre une nouvelle expérience saisonnière ; aucune liste exhaustive de cases par paragraphe n'est nécessaire sur les feuilles ni dans le livre.
 
-### Problème central : arbitrage sans meneur
+Ce choix est **volontairement dynamique**, à la différence d'un grand support préimprimé à cases façon *Fabled Lands*. Les livres ne sont pas encore figés ; on n'a pas besoin d'un index statique d'états de chaque paragraphe.
 
-La proposition suppose que le joueur **imagine et arbitre** une part de l'enjeu et de la fiction. Il faut lui fournir un protocole **léger, mais suffisant** :
+Les noms de lore et déclencheurs **restent des catégories distinctes** de ce journal : savoir que DARVAST HORNOS est entouré ou barré n'indique pas, à lui seul, quand sa possibilité a été jouée pour la dernière fois.
 
-1. **Qu'est-ce que le lieu permet réellement ?** Ressources, personnes, interdits, contraintes, saison, éventuelles relations déjà marquées.
-2. **Que cherche le personnage, ici et maintenant ?** Un enjeu concret à deux issues acceptables, non un achat automatique de récompense.
-3. **Quelle difficulté ?** D1, D2, D3 suivant des critères partagés ; D3 peut être inaccessible sans appui runique net ou autre exception explicite, d'après la résolution actuelle.
-4. **Qu'est-ce qui est engagé ?** Temps, obligation, accès, rencontre, prestige, compromis ou renoncement. Une issue défavorable doit produire du jeu, pas un « recommencez » sans coût.
-5. **Qu'est-ce que le joueur a le droit d'inscrire ?** L'issue peut transformer la fiction ; les **acquisitions nommées et extraordinaires** (Rune, prodige, esprit, grimoire, Compréhension, marque de lore) demandent un **cadre explicite d'autorisation**. On ne s'auto-attribue pas une Rune ou un secret canonique en inventant une action et en réussissant D1.
+## 6. Voyages et situations aléatoires
 
-**Question de design à résoudre :** quels éléments sont fournis par le livre (offres du lieu, enjeux possibles, coûts et acquisitions autorisées) et quels éléments le joueur est-il libre d'imaginer ? Trouver la frontière **entre autonomie de jeu et arbitraire** sera probablement l'expérience décisive.
+Chaque **liaison entre hubs** a son trajet (dans le POC, un § bidirectionnel). Le trajet accompli consomme **une coche**, indépendamment de la rencontre qui peut y survenir.
 
-### Coches de § et revisites
+Une **situation aléatoire** de voyage offre une possibilité supplémentaire et, si nécessaire, une **marque persistante à cocher**. Cette marque est **indépendante des saisons** : il ne faut pas lui imposer la même logique de revisite saisonnière qu'aux possibilités locales.
 
-Une marque de première visite pourrait déverrouiller le **mode ouvert** du §. C'est une **hypothèse**, pas un troisième système de mots-clés validé : étudier si les noms de lore déjà entourés suffisent à détecter la première visite, ou s'il faut exceptionnellement une coche propre à un §.
+Le choix du nombre de situations aléatoires, de leurs renvois et de leur distribution doit être pris au moment du provisionnement éditorial.
 
-Éviter de multiplier les compteurs. Une revisite n'efface ni la mémoire d'une rencontre, ni une inimitié acquise. Les § doivent pouvoir être joués **dans la tête du joueur**, même lorsque leurs exemples initiaux sont déjà connus.
+## 7. Provisionnement des livres de lieux
 
-## 4. Faire du calendrier un moteur d'aventure
+Compter séparément :
 
-Le système actuel fait avancer le temps lors des **trajets** ; si l'année devient une limite significative, les actions importantes **sur place** doivent probablement en consommer aussi : recherche, médiation, apprentissage, rite, négociation spirituelle, etc. Sinon on pourrait accumuler des capacités à volonté dans un seul hub sans jamais atteindre le Temps sacré.
+- les **hubs** et leurs orientations ;
+- les **possibilités** : un premier paragraphe *Discovery* et un paragraphe *JdR solo*, si cette séparation demeure la meilleure forme de rédaction ;
+- les **liaisons** entre hubs ;
+- les **situations aléatoires** propres aux liaisons ;
+- les **scènes particulières** (esprits, mythes, Compréhensions, grimoires, relations, etc.) ;
+- les **entrées/sorties interlivres** et transitions.
 
-**Hypothèse :** une coche = une **action d'aventure significative**, dont le voyage est un cas particulier. Ce n'est ni nécessairement une semaine, ni un nombre fixe de jours. Coûts exceptionnels de plusieurs coches lorsque la situation l'impose.
+Formule initiale de dimensionnement : `P ≈ H + 2O + L + E + S + I`, **sans déduire une limite arbitraire de la plage historique §001–§600**. Cette formule doit être confrontée à un prototype de possibilité autonome : elle ne mesure pas encore tous les paragraphes d'issues et de retours.
 
-À tester contre trois dérives :
-- **Grind** : allers-retours répétitifs pour faire passer les saisons ou obtenir des ressources sans véritable changement fictionnel.
-- **Optimisation avant l'examen** : accumulation des « meilleurs bonus » pour réussir la finale.
-- **Géographie irréaliste** : un voyage très lointain peut actuellement coûter huit coches ; si la partie ne dure qu'une année, ce coût limite fortement le nombre de livres visitables. Ce peut être un choix fertile, mais doit être volontaire.
+## 8. Le livre terminal des Quêtes Héroïques
 
-Une année cadrée rend les déplacements et les initiations réellement coûteux. **Ne pas modifier encore les coûts de calendrier** dans les règles publiées avant d'avoir éprouvé la boucle.
+Le **Temps sacré mène au Temps des Dieux**, mais l'entrée, les chemins et les épreuves du livre final sont une **architecture distincte** de celle des hubs.
 
-## 5. La Quête Héroïque comme autre expérience de jeu
+Ce que le parcours du personnage peut rendre pertinent :
 
-Le projet ne serait pas une dernière série de §§ géographiques un peu plus difficiles. Le livre final pourrait avoir **sa propre architecture de parcours** : lieux mythiques, passages, contradictions runiques, renoncements, transformations et retours. Le personnage ne circule plus dans les hubs ordinaires.
+- Runes et oppositions runiques ;
+- tradition et Vision active ;
+- mythes rencontrés, compris ou vécus ;
+- prodiges, esprits, grimoires ou Compréhensions ;
+- noms entourés ou barrés, relations heureuses ou conflictuelles ;
+- choix et renoncements de l'année.
 
-**Principe de design proposé :** les acquisitions de l'année déterminent moins **la puissance d'un score** que **les chemins mythiques qui deviennent pensables ou accessibles**.
+Ces acquis ouvrent **des formes de parcours** plutôt qu'un simple score d'optimisation. Le livre doit laisser une véritable quête à un personnage ayant peu découvert. Il peut y avoir échec, transformation ou retour différent dans le récit ; **aucune issue ne relance le calendrier d'exploration**.
 
-Exemples *hypothétiques*, non tirés d'un scénario canonique :
-- un récit mythique effectivement rencontré rend un symbole reconnaissable, ou permet de choisir une autre interprétation ;
-- un prodige théiste peut faire face à une puissance sous conditions cultuelles ;
-- un esprit animiste ouvre une négociation que d'autres ne peuvent entreprendre de la même façon ;
-- un grimoire logique fournit une manière particulière de traiter une opposition runique ;
-- une Compréhension mystique change le rapport à une dualité explicitement présente ;
-- un nom de lore barré peut resurgir sous une forme mythique sans devenir automatiquement une punition ni une nouvelle caractéristique.
+Pour l'instant, **aucun setting et aucune quête ne sont rédigés**. Le lore précis et les traditions mythiques seront vérifiés dans les sources au moment de leur conception.
 
-La finale devrait **reconnaître chaque Vision dans sa logique propre**, sans quatre branches artificielles à chaque page. Les Runes et les expériences collectées deviennent des ressources **de sens et de bifurcation**, pas des objets à « dépenser » systématiquement.
+## 9. Travail restant — uniquement sur le modèle
 
-### Un final accessible même à un personnage peu préparé
+1. Définir le **gabarit éditorial minimal d'une possibilité** (cadre, choix d'enjeu, difficulté et Runes, menu borné de gains/pertes, retours).
+2. Clarifier la différence entre **nom connu, expérience vécue, acquis intégré** et les effets des résultats sur les marques.
+3. Intégrer le **journal Livre – § – Saison** sur la fiche et ses versions imprimables.
+4. Synchroniser **calendrier 5 × 8**, voyages simples, voyage lointain et accès terminal au Temps sacré dans tous les supports.
+5. Fixer les termes publics pour **Runes d'appui/opposition** et **marqueurs de lore/histoire**.
+6. Éprouver le **provisionnement** sur une structure fictive *sans setting*.
+7. Choisir plus tard l'**année historique de départ** et, encore plus tard, la structure du livre terminal.
 
-**Hypothèse forte à préserver :** aucun seuil de collection obligatoire, aucune « bonne liste » de Runes ou de prodiges. Un personnage ayant peu découvert doit pouvoir vivre une Quête Héroïque entière, peut-être avec d'autres médiations, d'autres coûts et d'autres conclusions.
-
-Le défi est d'obtenir des **finales nettement différentes** tout en maintenant un véritable enjeu : ni réussite automatique, ni examen que seuls les personnages optimisés peuvent passer.
-
-### Canon vs design
-
-L'importance du Temps sacré et des réactualisations mythiques appartient à l'univers de Glorantha. En revanche, **imposer une Quête Héroïque finale à tout personnage au bout d'une année, faire de cette quête la fin du jeu, et répartir les volumes en « exploration / finale » sont des conventions Discovery**, pas des faits canoniques à attribuer aux sources.
-
-La nature précise des Quêtes Héroïques, les mythes joués et les cadres culturels doivent être documentés au cas par cas dans les ouvrages du projet avant une rédaction définitive.
-
-## 6. Conséquences sur l'architecture des livres
-
-### Livres géographiques
-
-Leur fonction deviendrait : **présenter les lieux**, ouvrir des enjeux, accueillir des actions inventées à partir de contraintes écrites, gérer des trajets et offrir des voies d'acquisition. Ils n'ont pas à contenir une narration exhaustive ni une unique ligne de quête.
-
-Chaque livre peut accueillir les **quatre Visions**, des arrivées en provenance d'autres volumes et une part de rejouabilité. Reste à déterminer combien de lieux sont accessibles **en une seule année**, avec des trajets crédibles.
-
-### Livre des Quêtes Héroïques
-
-Volume distinct, accessible au moment convenu, dont l'entrée examinerait **l'état global** du personnage et éventuellement son lieu, sa tradition, ses engagements, l'année et la saison. Il proposerait une ou plusieurs Quêtes Héroïques **écrites et situées**, pas un générateur universel de toutes les quêtes de Glorantha.
-
-Le livre final doit **clore la partie** ; une nouvelle partie pourra rejouer une autre année ou un autre personnage. Ne pas confondre cette fin de partie avec une affirmation canonique sur la fin de la vie ou des aventures du héros.
-
-### Cohabitation avec le prototype actuel
-
-- **Ne pas réécrire maintenant** les §001, §332, §110, les trajets, la fiche ou les aides de Vision. Ils restent un POC de la version « exploration ».
-- Les notes en vigueur, qui décrivent une aventure **« sans quête principale »**, restent vraies **pour l'année libre**, mais pas nécessairement pour le **dispositif de finale**.
-- Ce document constitue une **piste de refonte du modèle éditorial**, et non une décision qui rend immédiatement les autres documents obsolètes.
-- Le §001 de chaque livre peut rester le point de passage interlivres ; le livre final aura une **entrée distincte** pour l'état accumulé.
-
-## 7. Questions ouvertes — ordre de travail conseillé
-
-1. **Quel contrat de jeu pour un § revisité ?** Définir ce que le livre donne, ce que le joueur peut imaginer, les critères D1/D2/D3, les issues et les acquisitions autorisées. C'est le **premier prototype à tenter**.
-2. **Qu'est-ce qui fait avancer le calendrier ?** Une action significative, un trajet, un rite ? Combien de coches et quelles limites sur les actions répétées ?
-3. **Le Temps sacré déclenche-t-il toujours la finale ?** Déterminer l'entrée, la préparation éventuelle, le nombre d'étapes et l'articulation avec ses 14 jours canoniques.
-4. **Quelle Quête Héroïque ?** Une quête commune et modulable, un petit choix de quêtes situées, ou un parcours déterminé par les rencontres de l'année ? Éviter de promettre une quête universelle indépendante des cultures.
-5. **Comment toutes les Visions ont-elles une voie pleinement jouable ?** Sans les forcer à pratiquer le même type de magie ni privilégier le théisme.
-6. **Que reconnaît la finale ?** Runes, états de noms entourés/barrés, mythes, capacités, engagements ; définir une épreuve de test pour chacun sans seuil de collection.
-7. **Que signifie une « fin » ?** Transformation mythique, relation au monde, conclusion du personnage, plusieurs issues — sans mort automatique ni score final.
-8. **Quelle échelle géographique dans une année ?** Ajuster les coûts et le nombre de hubs/volumes accessibles à une partie.
-
-## 8. Petit prototype discriminant — à écrire plus tard
-
-**Tester seulement trois éléments**, sans réécrire tout Sartar :
-
-1. **§332, bibliothèque de Jonstown** : première visite guidée ; deuxième visite avec un enjeu libre et D1/D2/D3 déterminée dans un cadre écrit ; un coût de calendrier.
-2. **§110, Darvast Hornos** : revisite si le nom est entouré ou barré ; enjeu social libre, mais conséquences bornées et aucune création automatique de nouveaux mots-clés.
-3. **Une micro-Quête Héroïque de démonstration** (3 à 5 étapes, **non canonique tant qu'elle n'est pas sourcée**) : faire reconnaître une Rune, un acquis de Vision, un nom de lore et une relation négative, avec au moins une voie intéressante pour un personnage ayant peu progressé.
-
-**Critère d'évaluation :** le joueur a-t-il réellement joué ses propres enjeux ? Est-ce que la résolution a produit des conséquences gloranthiennes crédibles, sans arbitraire ? Les acquis de l'année ont-ils changé le *sens* du final, et pas seulement ses chances de réussite ?
-
----
-
-## À décider lors de la reprise
-
-> **Question centrale :** *Quelle est la plus petite règle permettant au joueur de vivre librement une scène lors de sa deuxième visite, tout en respectant les limites fictionnelles, les acquis et les difficultés définis par Glorantha Discovery ?*
-
-C'est le test à réaliser **avant** de verrouiller « un an / Temps sacré / Quête Héroïque terminale ». La forme des hubs et la richesse de l'exploration en dépendront.
+**Ne pas réécrire le POC Sartar pour effectuer ces vérifications.** Il est conservable dans l'historique Git, mais son contenu n'a pas vocation à devenir le socle fusionné dans `main`.

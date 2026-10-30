@@ -42,12 +42,12 @@ for (const p of mandatoryDocs) read(path.join(docs, p));
 for (const v of visions) {
   const body = read(path.join(docs, 'visions', v + '.md'));
   check(/3D6|trois dés/i.test(body), 'Vision sans procédure 3D6 : ' + v);
-  check(/D1|difficulté/i.test(body), 'Vision sans difficulté : ' + v);
+  check(/[I]|difficulté/i.test(body), 'Vision sans difficulté : ' + v);
 }
 const resolution = read(path.join(design, 'resolution.md'));
 const visionLabels = {theisme: 'Théisme', animisme: 'Animisme', logique: 'Logique', mysticisme: 'Mysticisme'};
 for (const v of visions) check(resolution.includes(visionLabels[v]), 'Vision absente du contrat : ' + v);
-for (const d of ['D1','D2','D3']) check(resolution.includes(d), 'Difficulté manquante : ' + d);
+for (const d of ['[I]','[II]','[III]']) check(resolution.includes(d), 'Difficulté manquante : ' + d);
 const calendar = read(path.join(design, 'personnage-et-calendrier.md'));
 check(calendar.includes('Livre – § – Saison'), 'Journal saisonnier absent du contrat');
 check(calendar.includes('Temps sacré'), 'Temps sacré terminal absent du contrat');

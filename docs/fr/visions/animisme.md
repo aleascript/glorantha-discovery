@@ -7,7 +7,7 @@ title: Résolution — Animisme
 
 ## Procédure commune
 
-La scène annonce une difficulté D1, D2 ou D3 et deux issues jouables. Lancez exactement **3D6**. Une Rune favorable disponible donne au plus **+1 Réussite** ; une Rune personnelle défavorable impose au plus **−1 Réussite**. L'Illumination annule ce malus. L'issue favorable exige **strictement plus de Réussites que D**. À égalité, l'autre issue s'applique et demeure jouable.
+La scène annonce une difficulté [I],[II] ou [III] et deux issues jouables. Lancez exactement **3D6**. Une Rune favorable disponible donne au plus **+1 Réussite** ; une Rune personnelle défavorable impose au plus **−1 Réussite**. L'Illumination annule ce malus. L'issue favorable exige **strictement plus de Réussites que D**. À égalité, l'autre issue s'applique et demeure jouable.
 
 ## Lire les trois dés avec l'Animisme
 

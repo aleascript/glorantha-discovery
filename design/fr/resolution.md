@@ -10,10 +10,10 @@ Le joueur joue librement sa scène et choisit un **enjeu autorisé par la possib
 
 ## Procédure commune
 
-1. Retenir la **difficulté initiale** : **D1**, **D2** ou **D3**. Le paragraphe décrit une conséquence favorable et une autre conséquence intéressante.
+1. Retenir la **difficulté initiale** : [I], [II] ou [III]. Le paragraphe décrit une conséquence favorable et une autre conséquence intéressante.
 2. Identifier les **Runes favorables** et **Runes défavorables** dans cette situation ; un appui pertinent donne **+1 Réussite maximum**, une opposition runique applicable **−1 Réussite maximum**. Plusieurs Runes du même côté ne se cumulent pas. Les deux effets peuvent s'annuler. *Terminologie « appui / contre » à finaliser*.
 3. Le **Mysticisme** ignore toujours les malus runiques. Un personnage **illuminé** les ignore également, quelle que soit sa Vision ; cela ne change ni son mode de lancer ni ses autres capacités.
-4. Si le mystique dispose d'une **Compréhension applicable**, réduire la difficulté de **1** (voir ci-dessous). **D1 → D0** donne directement l'issue favorable, sans jet.
+4. Si le mystique dispose d'une **Compréhension applicable**, réduire la difficulté de **1** (voir ci-dessous). **[I] → [0]** donne directement l'issue favorable, sans jet.
 5. Dans tous les autres cas, lancer **exactement 3D6** et les lire selon la **Vision** du personnage. Les relances théistes remplacent une face, elles n'ajoutent pas de dé.
 6. Calculer **Réussites finales = Réussites de Vision + appui runique − opposition runique** (opposition ignorée si mystique ou illuminé). L'issue favorable demande **strictement plus de Réussites que la difficulté applicable**. L'égalité entraîne l'autre issue.
 
@@ -37,9 +37,9 @@ Exemples :
 
 | Difficulté | Usage dans le livre |
 | --- | --- |
-| **D1 — Ordinaire** | Situation accessible mais incertaine ; l'appui runique aide sensiblement. |
-| **D2 — Difficile** | Enjeu réellement délicat ; une Rune peut faire la différence. |
-| **D3 — Runique / exceptionnelle** | Sans appui net ou capacité exceptionnelle, l'issue favorable est généralement **inaccessible** avec les trois dés ordinaires. Ce n'est **jamais l'unique passage indispensable**. |
+| **[I] — Ordinaire** | Situation accessible mais incertaine ; l'appui runique aide sensiblement. |
+| **[II] — Difficile** | Enjeu réellement délicat ; une Rune peut faire la différence. |
+| **[III] — Runique / exceptionnelle** | Sans appui net ou capacité exceptionnelle, l'issue favorable est généralement **inaccessible** avec les trois dés ordinaires. Ce n'est **jamais l'unique passage indispensable**. |
 
 D3 ne signifie pas que la situation est mortelle. Une seconde tentative n'est pas une simple relance immédiate : le joueur doit respecter les conditions de nouvelle résolution de la possibilité, notamment **une autre saison**.
 
@@ -49,7 +49,7 @@ Les gains/pertes possibles sont **nommés et bornés par le paragraphe**. Le jou
 
 Une **Compréhension** est une capacité durable entre **deux Runes distinctes**, notée sur la fiche. Elle s'applique uniquement si la situation présente **explicitement l'une favorable et l'autre défavorable**, dans n'importe quel ordre. Elle abaisse D de **1**, une seule Compréhension par résolution.
 
-La correspondance mystique sur les dés reste fondée sur la **difficulté initiale** : si D3 descend à D2, le mystique cherche encore un dé affichant **3**. Si D1 descend à D0, l'issue favorable est automatique, sans dé.
+La correspondance mystique sur les dés reste fondée sur la **difficulté initiale** : si D3 descend à D2, le mystique cherche encore un dé affichant **3**. Si [I] descend à [0], l'issue favorable est automatique, sans dé.
 
 L'Illumination est un **statut séparé**, possible pour toute Vision. Son seul effet mécanique actuel est d'**ignorer le malus runique** ; elle ne devient ni une cinquième Vision ni un bonus supplémentaire pour le mystique.
 

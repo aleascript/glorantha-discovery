@@ -78,8 +78,8 @@ export const site = {
     defaultFullName: 'aleascript/glorantha-discovery',
   },
   identity: {
-    logo: 'img/site/resonance_simple_200x200.png',
-    favicon: 'img/site/resonance_simple_200x200.png',
+    logo: 'img/site/icon.png',
+    favicon: 'img/site/icon.png',
   } satisfies SiteIdentity,
   // Licence de publication non fixée : ne pas hériter du CC BY de démonstration du template.
   license: null as ContentLicense | null,

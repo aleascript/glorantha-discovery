@@ -7,7 +7,7 @@ title: Résolution — Mysticisme
 
 ## Procédure commune
 
-La scène annonce une difficulté **initiale** D1, D2 ou D3, des Runes et deux issues jouables. Lancez exactement **3D6**, sauf si une Compréhension applicable abaisse D1 à D0 : dans ce cas, choisissez directement l'issue favorable.
+La scène annonce une difficulté **initiale** [I], [II] ou [III], des Runes et deux issues jouables. Lancez exactement **3D6**, sauf si une Compréhension applicable abaisse [I] à [0] : dans ce cas, choisissez directement l'issue favorable.
 
 Les Runes favorables disponibles donnent au plus **+1 Réussite**. Le mystique **ignore toujours les malus runiques défavorables**, dès la création. L'Illumination n'ajoute aucun avantage mécanique à cet égard. L'issue favorable demande strictement plus de Réussites que la difficulté éventuellement réduite.
 

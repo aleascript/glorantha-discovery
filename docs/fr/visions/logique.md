@@ -7,7 +7,7 @@ title: Résolution — Logique
 
 ## Procédure commune
 
-La scène annonce une difficulté D1, D2 ou D3 et deux issues jouables. Lancez exactement **3D6**. Une Rune favorable disponible donne au plus **+1 Réussite** ; une Rune personnelle défavorable impose au plus **−1 Réussite**. Un personnage illuminé ignore le malus défavorable. L'issue favorable demande **strictement plus de Réussites que D** ; l'égalité donne la seconde issue.
+La scène annonce une difficulté [I],[II] ou [III] et deux issues jouables. Lancez exactement **3D6**. Une Rune favorable disponible donne au plus **+1 Réussite** ; une Rune personnelle défavorable impose au plus **−1 Réussite**. Un personnage illuminé ignore le malus défavorable. L'issue favorable demande **strictement plus de Réussites que D** ; l'égalité donne la seconde issue.
 
 ## Lire les trois dés avec la Logique
 

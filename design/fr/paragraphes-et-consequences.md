@@ -8,7 +8,7 @@
 | --- | --- | --- |
 | Fonction | Faire découvrir une scène située du monde et illustrer le jeu | Permettre au joueur de revenir, choisir son enjeu et jouer librement sa propre scène |
 | Fiction | Situation écrite, personnage ou lieu, éventuellement résolution guidée | Contexte et possibilités disponibles ; **dialogues et événements joués dans la tête du joueur** |
-| Résolution | Si elle est pertinente : D1/D2/D3, Runes et deux issues | Le joueur choisit **ce qu'il tente** parmi une offre bornée ; difficulté et appuis/contres annoncés pour ces possibilités |
+| Résolution | Si elle est pertinente : [I]/[II]/[III], Runes et deux issues | Le joueur choisit **ce qu'il tente** parmi une offre bornée ; difficulté et appuis/contres annoncés pour ces possibilités |
 | Conséquences | Rencontre, nom entouré/barré selon texte, éventuel acquis autorisé | **Gains et pertes possibles identifiés**, relation, accès, objet, esprit, mythe, grimoire, obligation, marque, etc. |
 | Persistance | Inscrire `Livre – § – Saison` sur la fiche | Nouvelle ligne du journal, **au plus une résolution dans une même saison** |
 | Retour | Renvoi au hub ou vers une conséquence ouverte | Retour au hub ou suite permise, sans mort ni impasse |
@@ -21,7 +21,7 @@ Le deuxième mode ne doit pas seulement faire « rejouer le texte ». Il crée *
 2. **Contexte** : personnes et ressources disponibles, contraintes, interdits, relations déjà inscrites, conditions saisonnières éventuelles.
 3. **Première visite** : scène de découverte, texte fictionnel, marques à attribuer et résolution d'exemple si utile.
 4. **Revisite saisonnière** : formulation ouverte « Que cherchez-vous à obtenir ici ? », avec exemples d'actions possibles et **menu de conséquences autorisées**.
-5. **Mécanique** : pour chaque famille d'enjeux, **D1/D2/D3**, Runes d'appui et de tension, deux issues (ni succès garanti ni échec stérile).
+5. **Mécanique** : pour chaque famille d'enjeux, **[I]/[II]/[III]**, Runes d'appui et de tension, deux issues (ni succès garanti ni échec stérile).
 6. **Persistance** : acquis à écrire sur la fiche, noms à entourer/barrer, déclencheurs à cocher ; ne pas utiliser ces marques pour enregistrer la saison d'une possibilité.
 7. **Retour** : renvoi au hub, trajet ou scène suivante, cohérent avec les deux issues et les quatre Visions.
 8. **Rejouabilité** : le joueur consulte son **journal Livre – § – Saison** ; découverte initiale puis nouvelle résolution **au plus une fois par saison ultérieure**.

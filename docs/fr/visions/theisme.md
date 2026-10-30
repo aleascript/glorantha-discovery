@@ -7,7 +7,7 @@ title: Résolution — Théisme
 
 ## Procédure commune
 
-La scène indique une difficulté D1, D2 ou D3, ses Runes favorables et défavorables, et deux issues jouables. Lancez exactement **3D6**. Ajoutez au plus **+1 Réussite** si une Rune disponible est favorable ; retirez au plus **1 Réussite** si une Rune personnelle est défavorable. Ces deux effets peuvent s'annuler. Si vous êtes illuminé, ignorez le malus défavorable.
+La scène indique une difficulté [I], [II] ou [III], ses Runes favorables et défavorables, et deux issues jouables. Lancez exactement **3D6**. Ajoutez au plus **+1 Réussite** si une Rune disponible est favorable ; retirez au plus **1 Réussite** si une Rune personnelle est défavorable. Ces deux effets peuvent s'annuler. Si vous êtes illuminé, ignorez le malus défavorable.
 
 L'issue favorable demande **strictement plus de Réussites que la difficulté** ; une égalité donne la seconde issue. Aucune issue de résolution ordinaire ne tue le personnage.
 

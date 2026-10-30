@@ -18,7 +18,7 @@ La série des livres de lieux reste **indéfiniment extensible** : Sartar, Prax/
 
 Ces mécanismes sont déjà documentés et devront être remis en cohérence avec le cycle ci-dessus :
 
-- **Résolution :** 3D6, difficultés **D1 / D2 / D3**, issue favorable si les Réussites finales dépassent **strictement** la difficulté. Deux conséquences jouables ; **pas de mort comme résultat ordinaire**. Voir [résolution](resolution.md).
+- **Résolution :** 3D6, difficultés **[I]/[II]/[III]**, issue favorable si les Réussites finales dépassent **strictement** la difficulté. Deux conséquences jouables ; **pas de mort comme résultat ordinaire**. Voir [résolution](resolution.md).
 - **Quatre Visions :** Théisme, Animisme, Logique, Mysticisme. Elles lisent différemment les trois dés et acquièrent des capacités différentes (prodiges, esprits, grimoires, Compréhensions). Il n'y a pas de quota de quatre branches par possibilité. Voir [magie et progression](magie-et-progression.md).
 - **Runes :** un appui favorable plafonné à **+1** et une opposition défavorable plafonnée à **−1**, sous réserve des exceptions déjà écrites (mystique, Illumination, Compréhension). **Terminologie à choisir** : « favorable/défavorable » ou « d'appui/en tension », notamment.
 - **Marqueurs :** noms de lore en **MAJUSCULES**, laissés sans marque, **entourés** ou **barrés** selon une expérience vécue et le texte ; déclencheurs locaux en **minuscules et gras**, seulement cochés. L'identité, les Runes, les cultes et les capacités restent séparés. Voir [mots-clés et supports](mots-cles-et-supports.md).
@@ -55,7 +55,7 @@ Le joueur retourne par exemple voir une personne déjà rencontrée et **joue li
 La possibilité fournit un **cadre de jeu explicite** :
 
 1. **Contexte et possibles** : personnages, ressources, contraintes du lieu, situation et types d'enjeux qu'il permet.
-2. **Résolution** : difficulté D1/D2/D3 et Runes d'appui ou en opposition **illustrant ces possibilités**, dans les limites du moteur.
+2. **Résolution** : difficulté [I]/[II]/[III] et Runes d'appui ou en opposition **illustrant ces possibilités**, dans les limites du moteur.
 3. **Conséquences autorisées** : par exemple soutien, relation, accès à un mythe, objet, esprit, grimoire ou autre acquis approprié ; mais aussi perte, dette, accès refusé, changement de relation, ou **nom de lore barré** si le texte le prévoit.
 4. **Choix du joueur** : il détermine **ce qu'il tente** dans l'offre du paragraphe, joue la fiction et applique la branche de résolution. Il ne s'attribue pas librement un pouvoir, un objet ou un fait de lore extérieur aux acquisitions autorisées.
 

@@ -34,7 +34,7 @@ Chaque possibilité distingue :
 
 1. ce que le personnage **connaît ou rencontre** ;
 2. ce qu'il **choisit de tenter** ;
-3. les **conditions de résolution** (D1/D2/D3, Runes) ;
+3. les **conditions de résolution** ([I]/[II]/[III], Runes) ;
 4. les **conséquences autorisées** : gains, pertes, relations, accès, transformations, marques ;
 5. la **saison** et le retour au hub.
 

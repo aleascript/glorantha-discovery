@@ -10,7 +10,7 @@ Le premier merge doit installer **Glorantha Discovery comme moteur et contrat é
 
 ### Orientation à formaliser dans le socle
 
-- **Résolution :** 3D6 ; trois difficultés D1/D2/D3 ; issue favorable seulement si le résultat *dépasse* la difficulté ; Runes en appui / opposition (termes à arbitrer, effets plafonnés ±1) ; **aucune mort comme résolution ordinaire**. Deux suites jouables : bifurcations, transformations, relations, gains et pertes.
+- **Résolution :** 3D6 ; trois difficultés [I]/[II]/[III] ; issue favorable seulement si le résultat *dépasse* la difficulté ; Runes en appui / opposition (termes à arbitrer, effets plafonnés ±1) ; **aucune mort comme résolution ordinaire**. Deux suites jouables : bifurcations, transformations, relations, gains et pertes.
 - **Quatre Visions :** Théisme, Animisme, Logique, Mysticisme ; même procédure générale, quatre lectures des dés et voies d'acquisition distinctes, sans quota de quatre embranchements par scène.
 - **Marqueurs :** noms de **lore en MAJUSCULES** (sans marque / entourés / barrés) distincts des **déclencheurs locaux en minuscules et gras** (case à cocher). Définir précisément la différence entre *nom entendu*, *rencontre vécue* et *acquis effectivement intégré à la suite d'une résolution* ; la convention existante n'épuise pas cette question.
 - **Calendrier :** **cinq saisons explorables × huit coches**, puis **Temps sacré terminal** vers le Temps des Dieux, sans nouvelle année. **Un déplacement de hub à hub coûte une coche**, y compris entre livres contigus ; **un transfert entre livres non contigus coûte une saison** (huit coches), plafond du voyage lointain. **Aucune coche pour les actions locales** : le joueur peut jouer librement dans son hub ; la rejouabilité d'une même possibilité est limitée par la saison, non par un coût d'action.
@@ -66,12 +66,12 @@ Volumes candidats, sans ordre obligatoire : **Sartar, Prax/Pavis, Tarsh, Pélori
 
 1. **Hub** : présente le lieu et oriente vers plusieurs **possibilités**.
 2. **Possibilité, première expérience** : fiction située (discovery) et éventuelle résolution guidée ; marque une découverte ou un état persistant.
-3. **Même possibilité, saison ultérieure** : module de **JdR solo**. Le joueur invente et joue **dans sa tête** sa visite et son enjeu, par exemple revoir quelqu'un ; le paragraphe donne **D1/D2/D3, contexte runique et résultats possibles cadrés** (soutien, accès à un mythe, objet, relation, perte, nom barré...). La fiction appartient au joueur, les gains/pertes permis au texte. **Au plus une résolution par possibilité et par saison**, enregistrée sur la fiche.
+3. **Même possibilité, saison ultérieure** : module de **JdR solo**. Le joueur invente et joue **dans sa tête** sa visite et son enjeu, par exemple revoir quelqu'un ; le paragraphe donne **[I]/[II]/[III], contexte runique et résultats possibles cadrés** (soutien, accès à un mythe, objet, relation, perte, nom barré...). La fiction appartient au joueur, les gains/pertes permis au texte. **Au plus une résolution par possibilité et par saison**, enregistrée sur la fiche.
 4. **Liaison de hubs** : **une coche de calendrier** pour le déplacement effectif, y compris vers un hub d'un livre contigu ; **passage entre livres non contigus = une saison**. Une situation aléatoire propre au trajet peut porter une marque persistante, **distincte des limites de revisite saisonnières**. Les actions sur place ne consomment pas de coche.
 5. **Autres paragraphes** : esprits, mythes, Compréhensions, grimoires, relations, rites, découvertes particulières ; ni tout acquis ni toute scène ne doit devenir une simple récompense chiffrée.
 6. **Quêtes Héroïques** : livre **hors périmètre actuel**, alimenté par les Runes, rencontres, acquis et chemins du personnage ; temps mythique et logique de progression propres ; échec possible, **fin de partie** quelle que soit l'issue.
 
-**Frontière fondamentale à tester :** qu'est-ce que le livre autorise concrètement lors d'une revisite, et qu'est-ce que le joueur invente ? Un succès D1 ne peut créer seul une Rune, un esprit, une relation canonique ou un grimoire sans autorisation éditoriale.
+**Frontière fondamentale à tester :** qu'est-ce que le livre autorise concrètement lors d'une revisite, et qu'est-ce que le joueur invente ? Un succès [I] ne peut créer seul une Rune, un esprit, une relation canonique ou un grimoire sans autorisation éditoriale.
 
 ### Provisionnement prévisionnel de paragraphes
 

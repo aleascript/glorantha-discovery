@@ -24,9 +24,23 @@ Une même possibilité est résolue **au plus une fois par saison**. Après chaq
 
 Une saison d'exploration compte **huit coches**. Après les **cinq saisons**, le **Temps sacré** mène à un livre distinct de **Quêtes Héroïques** dans le Temps des Dieux. La Quête peut échouer, mais **termine toujours la partie** : il n'y a pas de deuxième année d'exploration.
 
-## Résoudre une situation : 3D6 et quatre Visions
+## Résoudre une situation : 3D6 et quatre Visions face à une difficulté
 
-Le paragraphe indique **D1, D2 ou D3**, les Runes favorables et défavorables pertinentes et deux conséquences intéressantes. Lancez **trois dés à six faces** et lisez-les selon votre Vision :
+Un paragraphe impliquant une résolution indiquera le niveau de difficulté graduée sur trois niveaux: **[I], [II] ou [III]**, les Runes favorables et défavorables pertinentes et deux conséquences intéressantes. 
+
+Sens des difficultés:
+
+| Difficulté | Usage dans le livre |
+| --- | --- |
+| **[I] — Ordinaire** | Situation accessible mais incertaine ; l'appui runique aide sensiblement. |
+| **[II] — Difficile** | Enjeu réellement délicat ; une Rune peut faire la différence. |
+| **[III] — Runique / exceptionnelle** | Sans appui net ou capacité exceptionnelle, l'issue favorable est généralement **inaccessible** avec les trois dés ordinaires. Ce n'est **jamais l'unique passage indispensable**. |
+
+[III] ne signifie pas que la situation est mortelle. Une seconde tentative n'est pas une simple relance immédiate : le joueur doit respecter les conditions de nouvelle résolution de la possibilité, notamment **une autre saison**.
+
+Les gains/pertes possibles sont **nommés et bornés par le paragraphe**. Le joueur peut improviser son action et ses dialogues ; il ne crée pas un prodige, une Rune, un esprit, un grimoire, une connaissance mythique ou une relation canonique sans que le texte ne l'autorise.
+
+Lancez **trois dés à six faces** et lisez-les selon votre Vision :
 
 - [Théisme](./visions/theisme.md) : les dés pairs comptent, les 6 permettent de relancer un impair.
 - [Animisme](./visions/animisme.md) : dés pairs et paires de dés impairs identiques.
@@ -35,9 +49,7 @@ Le paragraphe indique **D1, D2 ou D3**, les Runes favorables et défavorables pe
 
 Une Rune favorable apporte **au maximum +1 Réussite**, une défavorable **au maximum −1** selon les exceptions prévues. L'issue favorable exige **strictement plus de Réussites que D**. L'autre issue produit aussi du jeu : **pas de mort comme conséquence ordinaire**.
 
-Les ressources des Visions ne sont pas interchangeables : **prodiges** théistes, **esprits** animistes, **grimoires** logiques, **Compréhensions** mystiques. Le paragraphe doit toujours autoriser l'acquisition : le joueur peut inventer sa scène, mais pas s'octroyer librement un objet, un mythe ou un pouvoir.
-
-[Imprimer les quatre aides de résolution A4](https://aleascript.github.io/glorantha-discovery/print/regles-visions.html)
+Les ressources des Visions ne sont pas interchangeables : **prodiges** théistes, **esprits** animistes, **grimoires** logiques, **compréhensions** mystiques. Le paragraphe doit toujours autoriser l'acquisition : le joueur peut inventer sa scène, mais pas s'octroyer librement un objet, un mythe ou un pouvoir.
 
 ## Noms de lore et déclencheurs
 

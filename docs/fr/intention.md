@@ -8,7 +8,7 @@ Cette page explicite ce que servent les règles et l'architecture des livres. El
 
 ## 1. Un projet de découverte avant tout
 
-*Glorantha Discovery* est d'abord un **projet de découverte de Glorantha**. Il s'adresse en priorité à celui qui découvre l'univers ou le connaît mal ; les joueurs chevronnés pourront y trouver leur plaisir, mais ils ne sont pas la cible première de l'écriture. On ne demande pas d'apprendre Glorantha avant de jouer : **on la découvre en la parcourant**.
+*Glorantha Discovery* est d'abord un **projet de découverte de Glorantha**. Il s'adresse en priorité à celui qui découvre l'univers ou le connaît mal ; les joueurs chevronnés pourront y trouver leur plaisir, mais ils ne sont pas la cible première de l'écriture. On ne demande pas d'apprendre Glorantha avant de jouer : **on la découvre en la parcourant**. Lors de parties suivantes, le joueur peut explorer d'autres possibilités avec une autre Vision, un autre personnage ou une autre région de départ.
 
 **Conséquence éditoriale :** la première visite d'une rencontre doit **faire découvrir** — situer, montrer, faire rencontrer — sans présupposer de connaissance du lore.
 

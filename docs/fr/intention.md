@@ -8,7 +8,7 @@ Cette page explicite ce que servent les règles et l'architecture des livres. El
 
 ## 1. Un projet de découverte avant tout
 
-*Glorantha Discovery* est d'abord un **projet de découverte de Glorantha**. Il s'adresse en priorité à celui qui découvre l'univers ou le connaît mal ; les joueurs chevronnés pourront y trouver leur plaisir, mais ils ne sont pas la cible première de l'écriture. On ne demande pas d'apprendre Glorantha avant de jouer : **on la découvre en la parcourant**.
+*Glorantha Discovery* est d'abord un **projet de découverte de Glorantha**. Il s'adresse en priorité à celui qui découvre l'univers ou le connaît mal ; les joueurs chevronnés pourront y trouver leur plaisir, mais ils ne sont pas la cible première de l'écriture. On ne demande pas d'apprendre Glorantha avant de jouer : **on la découvre en la parcourant**. Lors de parties suivantes, le joueur peut explorer d'autres possibilités avec une autre Vision, un autre personnage ou une autre région de départ.
 
 **Conséquence éditoriale :** la première visite d'une rencontre doit **faire découvrir** — situer, montrer, faire rencontrer — sans présupposer de connaissance du lore.
 
@@ -51,14 +51,6 @@ Rester ne coûte rien ; **partir fait avancer l'année**. Le joueur arbitre libr
 Au **Temps sacré**, Glorantha se renouvelle par la Quête Héroïque. Le lien entre l'année d'exploration et la quête **est porté par Glorantha elle-même** : une Quête Héroïque rejoue un mythe, étape après étape, et s'appuie sur ce que le quêteur en connaît, sur ses alliés, ses objets, ses liens avec les dieux ou les esprits, ses Runes. Ce que l'aventurier rassemble pendant ses cinq saisons est donc **naturellement ce que la quête lui demandera** ; il n'y a pas d'interface artificielle à inventer entre les livres de lieux et le livre final.
 
 La quête peut échouer et clôt toujours la partie. Cette clôture obligatoire est une **convention de Discovery** ; la logique de la Quête Héroïque, elle, relève du canon. Voir [le livre des Quêtes Héroïques](./livres/quetes-heroiques.md).
-
-## 9. Une expérience humaine, un livre fini
-
-Le livre est **immuable** : il n'évolue pas en fonction des parties, et la fin d'une Quête Héroïque n'exige aucune transformation du monde de Glorantha. L'expérience recherchée est celle du **joueur humain** qui lit, imagine, résout, s'émerveille et donne éventuellement un sens personnel à ce qu'il a vécu. Puis **The End**. Il n'y a pas de suite ou de conséquence fictionnelle obligatoire à inventer.
-
-La première partie privilégie la **découverte** : le joueur ne sait pas encore comment ses rencontres pèseront sur la Quête Héroïque. Lors de parties suivantes, il peut créer un autre personnage, choisir une autre Vision et commencer dans une autre région. Sa connaissance du dispositif lui permet alors d'explorer délibérément d'autres possibilités. **Découverte initiale et rejouabilité informée se complètent**.
-
-La réussite de la Quête Héroïque vise avant tout une **expérience extraordinaire** : le sentiment d'avoir côtoyé des dieux ou des puissances hors normes, un effet « Waou ». La conclusion peut inviter le joueur à interpréter cette expérience par des questions, des réponses ou des choix personnels ; elle n'a pas à modifier le monde. Voir [le livre des Quêtes Héroïques](./livres/quetes-heroiques.md).
 
 ## Ce que cette note implique pour l'écriture
 

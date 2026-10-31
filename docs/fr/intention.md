@@ -52,6 +52,14 @@ Au **Temps sacré**, Glorantha se renouvelle par la Quête Héroïque. Le lien e
 
 La quête peut échouer et clôt toujours la partie. Cette clôture obligatoire est une **convention de Discovery** ; la logique de la Quête Héroïque, elle, relève du canon. Voir [le livre des Quêtes Héroïques](./livres/quetes-heroiques.md).
 
+## 9. Une expérience humaine, un livre fini
+
+Le livre est **immuable** : il n'évolue pas en fonction des parties, et la fin d'une Quête Héroïque n'exige aucune transformation du monde de Glorantha. L'expérience recherchée est celle du **joueur humain** qui lit, imagine, résout, s'émerveille et donne éventuellement un sens personnel à ce qu'il a vécu. Puis **The End**. Il n'y a pas de suite ou de conséquence fictionnelle obligatoire à inventer.
+
+La première partie privilégie la **découverte** : le joueur ne sait pas encore comment ses rencontres pèseront sur la Quête Héroïque. Lors de parties suivantes, il peut créer un autre personnage, choisir une autre Vision et commencer dans une autre région. Sa connaissance du dispositif lui permet alors d'explorer délibérément d'autres possibilités. **Découverte initiale et rejouabilité informée se complètent**.
+
+La réussite de la Quête Héroïque vise avant tout une **expérience extraordinaire** : le sentiment d'avoir côtoyé des dieux ou des puissances hors normes, un effet « Waou ». La conclusion peut inviter le joueur à interpréter cette expérience par des questions, des réponses ou des choix personnels ; elle n'a pas à modifier le monde. Voir [le livre des Quêtes Héroïques](./livres/quetes-heroiques.md).
+
 ## Ce que cette note implique pour l'écriture
 
 - Écrire pour **quelqu'un qui découvre** ; laisser le chevronné reconnaître ce qu'il aime.

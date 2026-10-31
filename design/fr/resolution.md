@@ -13,7 +13,7 @@ Le joueur joue librement sa scène et choisit un **enjeu autorisé par la possib
 1. Retenir la **difficulté initiale** : [I], [II] ou [III]. Le paragraphe décrit une conséquence favorable et une autre conséquence intéressante.
 2. Identifier les **Runes favorables** et **Runes défavorables** dans cette situation ; un appui pertinent donne **+1 Réussite maximum**, une opposition runique applicable **−1 Réussite maximum**. Plusieurs Runes du même côté ne se cumulent pas. Les deux effets peuvent s'annuler. *Terminologie « appui / contre » à finaliser*.
 3. Le **Mysticisme** ignore toujours les malus runiques. Un personnage **illuminé** les ignore également, quelle que soit sa Vision ; cela ne change ni son mode de lancer ni ses autres capacités.
-4. Si le mystique dispose d'une **Compréhension applicable**, réduire la difficulté de **1** (voir ci-dessous). **[I] → [0]** donne directement l'issue favorable, sans jet.
+4. Si le mystique dispose d'une **compréhension applicable**, réduire la difficulté de **1** (voir ci-dessous). **[I] → [0]** donne directement l'issue favorable, sans jet.
 5. Dans tous les autres cas, lancer **exactement 3D6** et les lire selon la **Vision** du personnage. Les relances théistes remplacent une face, elles n'ajoutent pas de dé.
 6. Calculer **Réussites finales = Réussites de Vision + appui runique − opposition runique** (opposition ignorée si mystique ou illuminé). L'issue favorable demande **strictement plus de Réussites que la difficulté applicable**. L'égalité entraîne l'autre issue.
 
@@ -31,7 +31,7 @@ Exemples :
 - Théisme : `6, 3, 5` ; relancer le 3 grâce au 6 ; s'il devient 4, résultat final `6, 4, 5`, soit **2** Réussites.
 - Animisme : `1, 1, 4` = **2** ; `3, 3, 3` = **1** ; `3, 5, 6` = **1**.
 - Logique : `3 + 5 + 6 = 14` donne **2** ; `5 + 5 + 5 = 15` donne **3**.
-- Mysticisme : à D2, `2, 3, 6` donne **3** et `2, 2, 6` **4** ; à D3, `3, 2, 4` donne **3**.
+- Mysticisme : à [II], `2, 3, 6` donne **3** et `2, 2, 6` **4** ; à [III], `3, 2, 4` donne **3**.
 
 ## Sens des difficultés
 
@@ -41,15 +41,15 @@ Exemples :
 | **[II] — Difficile** | Enjeu réellement délicat ; une Rune peut faire la différence. |
 | **[III] — Runique / exceptionnelle** | Sans appui net ou capacité exceptionnelle, l'issue favorable est généralement **inaccessible** avec les trois dés ordinaires. Ce n'est **jamais l'unique passage indispensable**. |
 
-D3 ne signifie pas que la situation est mortelle. Une seconde tentative n'est pas une simple relance immédiate : le joueur doit respecter les conditions de nouvelle résolution de la possibilité, notamment **une autre saison**.
+[III] ne signifie pas que la situation est mortelle. Une seconde tentative n'est pas une simple relance immédiate : le joueur doit respecter les conditions de nouvelle résolution de la possibilité, notamment **une autre saison**.
 
 Les gains/pertes possibles sont **nommés et bornés par le paragraphe**. Le joueur peut improviser son action et ses dialogues ; il ne crée pas un prodige, une Rune, un esprit, un grimoire, une connaissance mythique ou une relation canonique sans que le texte ne l'autorise.
 
 ## Compréhensions mystiques
 
-Une **Compréhension** est une capacité durable entre **deux Runes distinctes**, notée sur la fiche. Elle s'applique uniquement si la situation présente **explicitement l'une favorable et l'autre défavorable**, dans n'importe quel ordre. Elle abaisse D de **1**, une seule Compréhension par résolution.
+Une **compréhension** est une capacité durable entre **deux Runes distinctes**, notée sur la fiche. Elle s'applique uniquement si la situation présente **explicitement l'une favorable et l'autre défavorable**, dans n'importe quel ordre. Elle abaisse D de **1**, une seule compréhension par résolution.
 
-La correspondance mystique sur les dés reste fondée sur la **difficulté initiale** : si D3 descend à D2, le mystique cherche encore un dé affichant **3**. Si [I] descend à [0], l'issue favorable est automatique, sans dé.
+La correspondance mystique sur les dés reste fondée sur la **difficulté initiale** : si [III] descend à [II], le mystique cherche encore un dé affichant **3**. Si [I] descend à [0], l'issue favorable est automatique, sans dé.
 
 L'Illumination est un **statut séparé**, possible pour toute Vision. Son seul effet mécanique actuel est d'**ignorer le malus runique** ; elle ne devient ni une cinquième Vision ni un bonus supplémentaire pour le mystique.
 

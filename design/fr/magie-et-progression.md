@@ -25,7 +25,7 @@ La **Vision** appartient au personnage et continue de fonctionner lorsqu'il trav
 
 ## Compréhensions et Illumination
 
-Une **Compréhension mystique** relie deux Runes distinctes. Elle s'applique lorsque le paragraphe présente explicitement l'une favorable et l'autre défavorable, dans l'un ou l'autre sens : **−1 à la difficulté**, éventuellement **[I] → [0]**, issue favorable automatique. Une seule Compréhension peut être appliquée à la fois. La lecture des dés mystiques reconnaît toujours la **difficulté initiale**.
+Une **compréhension mystique** relie deux Runes distinctes. Elle s'applique lorsque le paragraphe présente explicitement l'une favorable et l'autre défavorable, dans l'un ou l'autre sens : **−1 à la difficulté**, éventuellement **[I] → [0]**, issue favorable automatique. Une seule compréhension peut être appliquée à la fois. La lecture des dés mystiques reconnaît toujours la **difficulté initiale**.
 
 Le mystique ignore déjà les malus runiques. L'**Illumination** est un statut distinct, possible pour n'importe quelle Vision et n'accordant ici qu'un effet mécanique : **ignorer le malus runique −1**. Elle ne donne pas de dé, de Rune ni de Vision supplémentaire.
 

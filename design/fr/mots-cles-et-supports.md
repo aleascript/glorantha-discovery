@@ -16,7 +16,7 @@ Un nom possède un **état global unique pour le personnage**, y compris s'il ap
 
 La marque initiale est normalement absente. Un personnage venant d'une culture peut cependant **déjà connaître** certains noms par expérience de vie, si sa création l'indique. Il n'est pas nécessaire de « réussir » un jet pour avoir réellement rencontré quelqu'un. Une résolution peut déterminer si le nom est **entouré ou barré**, ou laisser inchangée la rencontre vécue.
 
-**Connu n'est pas intégré :** rencontrer un culte, entendre un mythe ou avoir une conversation ne suffit pas à obtenir un **prodige**, un **objet**, un **grimoire**, un **esprit**, une **Compréhension** ou une autre capacité. Ces acquisitions demandent une autorisation explicite de la possibilité et, s'il y a lieu, une résolution.
+**Connu n'est pas intégré :** rencontrer un culte, entendre un mythe ou avoir une conversation ne suffit pas à obtenir un **prodige**, un **objet**, un **grimoire**, un **esprit**, une **compréhension** ou une autre capacité. Ces acquisitions demandent une autorisation explicite de la possibilité et, s'il y a lieu, une résolution.
 
 Une marque peut changer **seulement si une scène l'autorise explicitement** ; une relation négative n'est pas automatiquement réparable partout. Pas de jauges numériques de réputation ni de doublons « nom + ennemi + recommandation ».
 
@@ -35,7 +35,7 @@ La dénomination finale reste ouverte : « mots-clés », « noms de lore », «
 ## 3. Ce qui n'est pas un mot-clé
 
 - **Identité :** culture, culte, Vision, Runes personnelles, Illumination.
-- **Acquis :** prodiges, esprits, grimoires, Compréhensions, objets, relations et obligations nommées selon le cas.
+- **Acquis :** prodiges, esprits, grimoires, compréhensions, objets, relations et obligations nommées selon le cas.
 - **Calendrier :** saison et coches de voyage.
 - **Journal des possibilités :** `Livre – § – Saison` inscrit manuellement sur la fiche à chaque passage jouable ; permet de vérifier qu'une possibilité a déjà été découverte et ne se résout pas plusieurs fois dans la même saison.
 

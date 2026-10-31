@@ -20,6 +20,7 @@ L'année historique exacte et les settings des futurs volumes ne sont pas encore
 
 ## Documents de référence
 
+- [Intention et esprit du projet](design/fr/intention-et-esprit.md) — à lire en premier
 - [Modèle de partie et Quête Héroïque terminale](design/fr/jdr-solo-une-annee-et-quete-heroique.md)
 - [Résolution](design/fr/resolution.md) et [progression par Vision](design/fr/magie-et-progression.md)
 - [Marqueurs de lore et déclencheurs narratifs](design/fr/mots-cles-et-supports.md)

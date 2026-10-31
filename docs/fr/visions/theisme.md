@@ -20,10 +20,10 @@ L'issue favorable demande **strictement plus de Réussites que la difficulté** 
 
 Exemple : sur 6, 3, 5, le 6 peut faire relancer le 3. S'il devient 4, les dés finaux 6, 4, 5 donnent deux Réussites avant modificateurs.
 
-D3 exige normalement un bonus runique net ou une capacité exceptionnelle ; n'attendez pas qu'un jet de trois dés donne quatre réussites à lui seul.
+[III] exige normalement un bonus runique net ou une capacité exceptionnelle ; n'attendez pas qu'un jet de trois dés donne quatre réussites à lui seul.
 
 ## Progression
 
-Le théiste peut découvrir des **prodiges** auprès des cultes et des mythes. Notez sur la fiche leur effet et leur fréquence, par exemple une fois par saison ou par année. Les prodiges n'augmentent pas le nombre de dés.
+Le théiste peut découvrir des **prodiges** auprès des cultes et des mythes. Notez sur la fiche leur effet et leur fréquence, par exemple une fois par saison. Les prodiges n'augmentent pas le nombre de dés.
 
 **Mots-clés** : un nom de lore en MAJUSCULES représente une rencontre vécue : entourez-le ou barrez-le seulement si le § le demande. La résolution peut déterminer la marque, sans supprimer l'expérience. Un déclencheur local en minuscules/gras se coche simplement si le § l'accorde.

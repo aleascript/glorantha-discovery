@@ -59,4 +59,4 @@ C'est une **hypothèse d'estimation** : deux volets peuvent partager un § ou n�
 
 Pour chaque futur lieu, personnage, rite ou mythe, séparer : **canon attesté et source**, **situation à l'année choisie**, **adaptation écrite par Discovery** et **incertitudes**. Les règles de calendrier, marques, difficultés et finalité terminale sont des **choix de design**, pas des faits du canon de Glorantha.
 
-Voir [modèle de partie](jdr-solo-une-annee-et-quete-heroique.md), [structure d'une possibilité](paragraphes-et-consequences.md), [calendrier](personnage-et-calendrier.md) et [roadmap](roadmap-livres.md).
+Voir [intention et esprit du projet](intention-et-esprit.md), [modèle de partie](jdr-solo-une-annee-et-quete-heroique.md), [structure d'une possibilité](paragraphes-et-consequences.md), [calendrier](personnage-et-calendrier.md) et [roadmap](roadmap-livres.md).

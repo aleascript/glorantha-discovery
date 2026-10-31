@@ -19,8 +19,8 @@ La série des livres de lieux reste **indéfiniment extensible** : Sartar, Prax/
 Ces mécanismes sont déjà documentés et devront être remis en cohérence avec le cycle ci-dessus :
 
 - **Résolution :** 3D6, difficultés **[I]/[II]/[III]**, issue favorable si les Réussites finales dépassent **strictement** la difficulté. Deux conséquences jouables ; **pas de mort comme résultat ordinaire**. Voir [résolution](resolution.md).
-- **Quatre Visions :** Théisme, Animisme, Logique, Mysticisme. Elles lisent différemment les trois dés et acquièrent des capacités différentes (prodiges, esprits, grimoires, Compréhensions). Il n'y a pas de quota de quatre branches par possibilité. Voir [magie et progression](magie-et-progression.md).
-- **Runes :** un appui favorable plafonné à **+1** et une opposition défavorable plafonnée à **−1**, sous réserve des exceptions déjà écrites (mystique, Illumination, Compréhension). **Terminologie à choisir** : « favorable/défavorable » ou « d'appui/en tension », notamment.
+- **Quatre Visions :** Théisme, Animisme, Logique, Mysticisme. Elles lisent différemment les trois dés et acquièrent des capacités différentes (prodiges, esprits, grimoires, compréhensions). Il n'y a pas de quota de quatre branches par possibilité. Voir [magie et progression](magie-et-progression.md).
+- **Runes :** un appui favorable plafonné à **+1** et une opposition défavorable plafonnée à **−1**, sous réserve des exceptions déjà écrites (mystique, Illumination, compréhension). **Terminologie à choisir** : « favorable/défavorable » ou « d'appui/en tension », notamment.
 - **Marqueurs :** noms de lore en **MAJUSCULES**, laissés sans marque, **entourés** ou **barrés** selon une expérience vécue et le texte ; déclencheurs locaux en **minuscules et gras**, seulement cochés. L'identité, les Runes, les cultes et les capacités restent séparés. Voir [mots-clés et supports](mots-cles-et-supports.md).
 - **Feuille portable :** identité, Vision, Runes, culture/culte, capacités, calendrier et marques suivent le personnage d'un livre à l'autre. Voir [personnage et calendrier](personnage-et-calendrier.md).
 
@@ -94,7 +94,7 @@ Compter séparément :
 - les **possibilités** : un premier paragraphe *Discovery* et un paragraphe *JdR solo*, si cette séparation demeure la meilleure forme de rédaction ;
 - les **liaisons** entre hubs ;
 - les **situations aléatoires** propres aux liaisons ;
-- les **scènes particulières** (esprits, mythes, Compréhensions, grimoires, relations, etc.) ;
+- les **scènes particulières** (esprits, mythes, compréhensions, grimoires, relations, etc.) ;
 - les **entrées/sorties interlivres** et transitions.
 
 Formule initiale de dimensionnement : `P ≈ H + 2O + L + E + S + I`, **sans déduire une limite arbitraire de la plage historique §001–§600**. Cette formule doit être confrontée à un prototype de possibilité autonome : elle ne mesure pas encore tous les paragraphes d'issues et de retours.
@@ -108,7 +108,7 @@ Ce que le parcours du personnage peut rendre pertinent :
 - Runes et oppositions runiques ;
 - tradition et Vision active ;
 - mythes rencontrés, compris ou vécus ;
-- prodiges, esprits, grimoires ou Compréhensions ;
+- prodiges, esprits, grimoires ou compréhensions ;
 - noms entourés ou barrés, relations heureuses ou conflictuelles ;
 - choix et renoncements de l'année.
 

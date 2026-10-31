@@ -7,7 +7,7 @@
 Conserver au minimum :
 
 - **Identité :** nom, âge, sexe/genre si souhaité, culture, Vision active, Runes personnelles, culte ou statut non initié, Illumination éventuelle.
-- **Capacités propres à la Vision :** prodiges, esprits, grimoires ou Compréhensions ; noter conditions et limites.
+- **Capacités propres à la Vision :** prodiges, esprits, grimoires ou compréhensions ; noter conditions et limites.
 - **Calendrier :** année historique de référence à renseigner lors de la création, saison courante et ses **huit coches de voyage**.
 - **Journal des possibilités jouées :** lignes manuscrites **Livre – § – Saison**.
 - **Notes libres :** relations, expériences, promesses, pertes, mythes et objets.

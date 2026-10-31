@@ -17,7 +17,7 @@ La scène annonce une difficulté [I],[II] ou [III] et deux issues jouables. Lan
 
 Exemples : 1, 1, 4 donne deux Réussites (une paire impaire et un dé pair) ; 3, 5, 6 donne une Réussite ; 3, 3, 3 donne une seule Réussite par paire disponible parmi trois dés.
 
-Il n'y a jamais plus de trois dés à lancer. D3 exige normalement un appui runique net ou une exception explicitement décrite.
+Il n'y a jamais plus de trois dés à lancer. [III] exige normalement un appui runique net ou une exception explicitement décrite.
 
 ## Progression
 

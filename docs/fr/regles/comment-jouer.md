@@ -30,12 +30,6 @@ Un livre géographique est un réseau de **lieux**. Chaque lieu propose des **re
 
 Les deux issues d'une résolution font avancer l'histoire, même quand le personnage n'obtient pas ce qu'il cherchait.
 
-## Jouer la scène, puis résoudre
-
-Dans une rencontre en JdR solo, **le roleplay se déroule dans l'imagination du joueur**, notamment au moment où il lance les dés pour résoudre l'enjeu. Il imagine comment son personnage agit, parle et vit la scène. Le livre, lui, reste fixe : il propose le contexte, les issues possibles et les marques autorisées. Le jet n'est pas un substitut à la scène imaginée ; il en arbitre l'issue dans les limites écrites.
-
-Une fois la Quête Héroïque terminée, **la partie est finie**. Le livre ne change pas, et le joueur n'a pas à décrire une transformation durable de Glorantha. Il peut rejouer avec un autre personnage, une autre Vision ou une autre région de départ : ce nouveau parcours constitue une **nouvelle partie**, et non la continuation de la précédente.
-
 ## Une résolution par saison
 
 Une même rencontre se résout **au plus une fois par saison**. Le mode JdR solo n'est accessible qu'**à partir d'une saison ultérieure** à la découverte.

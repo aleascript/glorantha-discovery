@@ -20,4 +20,4 @@ Trois dés ne donnent jamais plus de trois Réussites : [III] demande un appui r
 
 ## Acquis : les prodiges
 
-Le théiste découvre des **prodiges** auprès des cultes et des mythes, ainsi que des rites et des mythes effectivement accessibles. Un prodige a un effet **situé**, avec des conditions et une fréquence définies par la possibilité qui l'accorde (par exemple une fois par saison). Notez-les sur la fiche. Les prodiges n'augmentent pas le nombre de dés.
+Le théiste découvre des **prodiges** auprès des cultes et des mythes, ainsi que des rites et des mythes effectivement accessibles. Un prodige a un effet **situé**, avec des conditions et une fréquence définies par la rencontre qui l'accorde (par exemple une fois par saison). Notez-les sur la fiche. Les prodiges n'augmentent pas le nombre de dés.

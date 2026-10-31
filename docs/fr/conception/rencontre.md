@@ -1,17 +1,17 @@
 ---
-title: Contrat d'une possibilité
+title: Contrat d'une rencontre
 sidebar_position: 2
 ---
 
 :::warning[En cours de conception]
-Le principe des deux lectures est acté. Le gabarit de rédaction reste à éprouver sur une première possibilité.
+Le principe des deux lectures est acté. Le gabarit de rédaction reste à éprouver sur une première rencontre.
 :::
 
-# Contrat d'une possibilité
+# Contrat d'une rencontre
 
-Le joueur **imagine et joue son histoire** ; le paragraphe délimite ce qui est possible et la résolution tranche. Le partage des rôles entre joueur et livre est fixé dans [Comment jouer](../regles/comment-jouer.md#hubs-et-possibilités).
+Le joueur **imagine et joue son histoire** ; le paragraphe délimite ce qui est possible et la résolution tranche. Le partage des rôles entre joueur et livre est fixé dans [Comment jouer](../regles/comment-jouer.md#lieux-et-rencontres).
 
-## Deux lectures d'une même possibilité
+## Deux lectures d'une même rencontre
 
 | | Première visite — **Discovery** | Saison ultérieure — **JdR solo** |
 | --- | --- | --- |
@@ -19,23 +19,23 @@ Le joueur **imagine et joue son histoire** ; le paragraphe délimite ce qui est 
 | Fiction | Situation écrite, personnage ou lieu, éventuellement résolution guidée | Contexte et possibles du lieu ; **dialogues et événements joués dans la tête du joueur** |
 | Résolution | Si elle est pertinente : difficulté, Runes et deux issues | Le joueur choisit **ce qu'il tente** parmi une offre bornée ; difficulté et Runes annoncées pour chaque enjeu |
 | Conséquences | Rencontre, nom entouré ou barré, acquis éventuel | **Gains et pertes identifiés** : relation, accès, objet, esprit, mythe, grimoire, obligation, marque |
-| Retour | Au hub, ou vers une suite ouverte | Au hub, ou vers une suite permise, sans impasse |
+| Retour | Vers le lieu, ou vers une suite ouverte | Vers le lieu, ou vers une suite permise, sans impasse |
 
 La revisite ne fait pas « rejouer le texte » : elle ouvre **un espace de JdR solo**.
 
 ## Gabarit de rédaction
 
-1. **Ancrage** : hub, type d'expérience, rôle du lieu, source canonique et adaptation (voir la [discipline de source](./architecture.md#discipline-de-source)).
+1. **Ancrage** : lieu, type d'expérience, source canonique et adaptation (voir la [discipline de source](./architecture.md#discipline-de-source)).
 2. **Contexte** : personnes et ressources présentes, contraintes, interdits, relations déjà possibles, conditions saisonnières.
 3. **Première visite** : la scène de découverte, les marques à attribuer, une résolution si elle est utile. Elle doit **laisser au joueur de quoi revenir**.
 4. **Revisite** : « Que venez-vous chercher ici ? », quelques exemples d'actions et le **menu des conséquences autorisées**.
 5. **Mécanique** : pour chaque famille d'enjeux, la difficulté, les Runes favorables et défavorables, et deux issues — ni succès garanti, ni échec stérile.
 6. **Persistance** : acquis à noter, noms à entourer ou barrer, déclencheurs à cocher.
-7. **Retour** : renvoi au hub, à un trajet ou à une suite, cohérent avec les deux issues.
+7. **Retour** : renvoi vers le lieu, un trajet ou une suite, cohérent avec les deux issues.
 
 ## Écrire une acquisition
 
-Une possibilité qui permet une acquisition annonce :
+Une rencontre qui permet une acquisition annonce :
 
 - **l'acquis exact** disponible et ses conditions ;
 - ce que le joueur **engage** et ce qu'il peut **perdre** ;
@@ -63,7 +63,7 @@ Un joueur revient demander l'aide d'une personne rencontrée lors d'une saison p
 
 ## Épreuve du gabarit
 
-Rédiger une première possibilité, la jouer une première fois, puis une seconde lors d'une autre saison, et vérifier :
+Rédiger une première rencontre, la jouer une première fois, puis une seconde lors d'une autre saison, et vérifier :
 
 - La fiction du joueur reste-t-elle le cœur de la revisite ?
 - Les enjeux, gains et pertes sont-ils assez clairs pour se passer d'arbitre ?

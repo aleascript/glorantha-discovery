@@ -9,18 +9,14 @@ Cette page rassemble les questions ouvertes et l'ordre de travail. Elle évolue 
 
 # Feuille de route
 
-## Bibliothèque des livres géographiques
-
-Candidats : **Sartar, Prax/Pavis, Tarsh, Péloria, Esrolia/Pays Saint, Ralios, Kralorela**, puis Maniria, Seshnela, Fronela et toute autre région pertinente. Il n'y a ni ordre imposé, ni « une Vision par territoire ». Une partie ne visitera pas nécessairement tous les volumes.
-
 ## Ordre de travail
 
-1. **Éprouver une possibilité** : première découverte, retour lors d'une saison suivante, enjeu choisi, gains et pertes autorisés. Voir le [contrat d'une possibilité](./possibilite.md).
-2. **Éprouver un réseau de hubs** : déplacements, situation de trajet persistante, arrivée depuis un autre livre.
+1. **Éprouver une rencontre** : première découverte, retour lors d'une saison suivante, enjeu choisi, gains et pertes autorisés. Voir le [contrat d'une rencontre](./rencontre.md).
+2. **Éprouver un réseau de lieux** : déplacements, événement de voyage persistant, arrivée depuis un autre livre.
 3. **Mesurer le budget de paragraphes** sur plusieurs tailles de réseau. Voir le [provisionnement](./provisionnement.md).
 4. **Choisir l'année de référence** avant de rédiger personnages, institutions et événements régionaux.
-5. **Développer les livres régionaux**, dans des PR courtes, limitées à un volume ou à une partie de volume.
-6. **Concevoir le livre des Quêtes Héroïques**. Voir [le livre des Quêtes Héroïques](./quete-heroique.md).
+5. **Développer les [livres](../livres/index.md)**, dans des PR courtes, limitées à un volume ou à une partie de volume.
+6. **Concevoir le livre des Quêtes Héroïques**. Voir [le livre des Quêtes Héroïques](../livres/quetes-heroiques.md).
 
 ## Questions ouvertes
 

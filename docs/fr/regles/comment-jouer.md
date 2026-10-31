@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Comment jouer
 
-*Glorantha Discovery* est un **jeu de rôle solo sans meneur**, appuyé sur des livres géographiques. Le joueur construit **dans sa tête sa propre histoire** ; les livres apportent lieux, situations, possibilités, difficultés et conséquences. Ils n'imposent ni quête principale, ni récit unique à suivre.
+*Glorantha Discovery* est un **jeu de rôle solo sans meneur**, appuyé sur des livres géographiques. Le joueur construit **dans sa tête sa propre histoire** ; les livres apportent lieux, situations, rencontres, difficultés et conséquences. Ils n'imposent ni quête principale, ni récit unique à suivre.
 
 ## Une partie : cinq saisons, puis la Quête Héroïque
 
@@ -17,22 +17,22 @@ La Quête Héroïque **peut échouer**. Elle **clôt la partie dans tous les cas
 
 Les saisons, le Temps sacré et le Temps des Dieux appartiennent à Glorantha. Qu'une partie compte cinq saisons d'exploration puis se termine obligatoirement par une Quête Héroïque est une **convention de Glorantha Discovery**, non une règle du canon.
 
-## Hubs et possibilités
+## Lieux et rencontres
 
-Un livre géographique est un réseau de **hubs** : des lieux qui orientent vers des **possibilités** et vers d'autres hubs, y compris dans les livres voisins. Vous choisissez librement quelles possibilités explorer, dans quel ordre, et où revenir.
+Un livre géographique est un réseau de **lieux**. Chaque lieu propose des **rencontres** et mène vers d'autres lieux, y compris dans les livres voisins. Vous choisissez librement quelles rencontres explorer, dans quel ordre, et où revenir.
 
-- **Première visite — Discovery.** Le livre raconte : une scène écrite et située dans Glorantha, une rencontre, éventuellement une résolution guidée. Il indique ce qui est découvert, marqué, obtenu ou perdu.
+- **Première visite — Discovery.** Le livre raconte : une scène écrite et située dans Glorantha — une personne, un site, un rite —, éventuellement une résolution guidée. Il indique ce qui est découvert, marqué, obtenu ou perdu.
 - **Visite lors d'une saison ultérieure — JdR solo.** Vous savez pourquoi vous revenez : chercher une alliance, un mythe, un objet, un renfort, une relation. **Imaginez votre scène**, choisissez votre enjeu parmi ceux que le lieu permet, puis jouez la résolution prévue.
 
 **Vous décidez** de ce que pense et ressent votre personnage, des paroles échangées, des actions tentées dans le contexte du lieu et des relations que vous cultivez.
 
-**Le livre définit** ce qui existe dans le lieu, les actions recevables, la difficulté, les Runes pertinentes, les gains et les pertes autorisés, et les changements permanents à inscrire. Les dés tranchent à l'intérieur de ce cadre. Vous ne vous attribuez jamais un pouvoir, un objet ou un fait de lore que la possibilité n'offre pas.
+**Le livre définit** ce qui existe dans le lieu, les actions recevables, la difficulté, les Runes pertinentes, les gains et les pertes autorisés, et les changements permanents à inscrire. Les dés tranchent à l'intérieur de ce cadre. Vous ne vous attribuez jamais un pouvoir, un objet ou un fait de lore que la rencontre n'offre pas.
 
 Les deux issues d'une résolution font avancer l'histoire, même quand le personnage n'obtient pas ce qu'il cherchait.
 
 ## Une résolution par saison
 
-Une même possibilité se résout **au plus une fois par saison**. Le mode JdR solo n'est accessible qu'**à partir d'une saison ultérieure** à la découverte.
+Une même rencontre se résout **au plus une fois par saison**. Le mode JdR solo n'est accessible qu'**à partir d'une saison ultérieure** à la découverte.
 
 Après chaque passage, inscrivez une ligne **Livre – § – Saison** dans le journal de votre [feuille de personnage](./fiche-personnage.md) :
 

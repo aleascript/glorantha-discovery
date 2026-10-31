@@ -10,7 +10,7 @@ Cette page explicite ce que servent les règles et l'architecture des livres. El
 
 *Glorantha Discovery* est d'abord un **projet de découverte de Glorantha**. Il s'adresse en priorité à celui qui découvre l'univers ou le connaît mal ; les joueurs chevronnés pourront y trouver leur plaisir, mais ils ne sont pas la cible première de l'écriture. On ne demande pas d'apprendre Glorantha avant de jouer : **on la découvre en la parcourant**.
 
-**Conséquence éditoriale :** la première visite d'une possibilité doit **faire découvrir** — situer, montrer, faire rencontrer — sans présupposer de connaissance du lore.
+**Conséquence éditoriale :** la première visite d'une rencontre doit **faire découvrir** — situer, montrer, faire rencontrer — sans présupposer de connaissance du lore.
 
 ## 2. Un aventurier, pas un héros
 
@@ -22,15 +22,15 @@ Il peut en revanche **croiser des Héros connus du lore**. Ces rencontres sont e
 
 **Rien n'est statique.** Comme dans tout livre-jeu, c'est **la lecture qui pousse le joueur** : chaque paragraphe ouvre des noms, des pistes, des lieux et des rencontres qui donnent envie d'aller voir. Le jeu n'a besoin ni d'une quête principale imposée, ni d'une pression artificielle du temps pour avoir du mouvement : la curiosité suscitée par le texte en est le moteur.
 
-**Conséquence éditoriale :** un texte de découverte **ouvre** — vers d'autres hubs, d'autres noms, d'autres possibilités — plutôt qu'il ne clôt.
+**Conséquence éditoriale :** un texte de découverte **ouvre** — vers d'autres lieux, d'autres noms, d'autres rencontres — plutôt qu'il ne clôt.
 
 ## 4. Découvrir, puis revenir chercher
 
-La première visite d'une possibilité est **la voix du livre** : une scène écrite, située dans le canon, qui fait connaître un lieu, des personnes, des ressources.
+La première visite d'une rencontre est **la voix du livre** : une scène écrite, située dans le canon, qui fait connaître un lieu, des personnes, des ressources.
 
 Ensuite, **le joueur sait pourquoi y retourner**. C'est **lui qui fait l'histoire** : il revient chercher une **alliance**, un **mythe**, un **objet**, un **renfort**, une **relation** — quelque chose qui lui sera utile plus tard, **dans la Quête Héroïque en particulier**, ou ailleurs dans son année. Il imagine la scène ; le livre arbitre ce qui est possible, ce que cela coûte et ce qui peut être gagné ou perdu.
 
-Au fil des saisons, la parole passe ainsi **du livre au joueur** : le livre enseigne le monde, puis le joueur s'en sert pour préparer son propre destin. Voir le [contrat d'une possibilité](./conception/possibilite.md).
+Au fil des saisons, la parole passe ainsi **du livre au joueur** : le livre enseigne le monde, puis le joueur s'en sert pour préparer son propre destin. Voir le [contrat d'une rencontre](./conception/rencontre.md).
 
 ## 5. Les noms : une Glorantha vécue
 
@@ -44,13 +44,13 @@ Le même monde est lu autrement, sans écrire quatre versions de chaque scène. 
 
 ## 7. Le temps se mesure en chemin
 
-Rester ne coûte rien ; **partir fait avancer l'année**. Le joueur arbitre librement entre **approfondir** un lieu et **découvrir** le suivant. Le verrou saisonnier des possibilités donne à l'année un rythme de départs et de retours : on revient voir ce qui a changé, chez les autres comme en soi. Voir [calendrier et voyages](./regles/calendrier.md).
+Rester ne coûte rien ; **partir fait avancer l'année**. Le joueur arbitre librement entre **approfondir** un lieu et **découvrir** le suivant. Le verrou saisonnier des rencontres donne à l'année un rythme de départs et de retours : on revient voir ce qui a changé, chez les autres comme en soi. Voir [calendrier et voyages](./regles/calendrier.md).
 
 ## 8. L'année devient mythe
 
 Au **Temps sacré**, Glorantha se renouvelle par la Quête Héroïque. Le lien entre l'année d'exploration et la quête **est porté par Glorantha elle-même** : une Quête Héroïque rejoue un mythe, étape après étape, et s'appuie sur ce que le quêteur en connaît, sur ses alliés, ses objets, ses liens avec les dieux ou les esprits, ses Runes. Ce que l'aventurier rassemble pendant ses cinq saisons est donc **naturellement ce que la quête lui demandera** ; il n'y a pas d'interface artificielle à inventer entre les livres de lieux et le livre final.
 
-La quête peut échouer et clôt toujours la partie. Cette clôture obligatoire est une **convention de Discovery** ; la logique de la Quête Héroïque, elle, relève du canon. Voir [le livre des Quêtes Héroïques](./conception/quete-heroique.md).
+La quête peut échouer et clôt toujours la partie. Cette clôture obligatoire est une **convention de Discovery** ; la logique de la Quête Héroïque, elle, relève du canon. Voir [le livre des Quêtes Héroïques](./livres/quetes-heroiques.md).
 
 ## Ce que cette note implique pour l'écriture
 

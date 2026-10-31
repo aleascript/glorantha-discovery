@@ -39,4 +39,4 @@ Les déclencheurs propres à un livre s'écrivent **en minuscules et en gras**, 
 - **L'identité** : culture, culte, Vision, Runes personnelles, Illumination.
 - **Les acquis** : prodiges, esprits, grimoires, compréhensions, objets, relations et obligations.
 - **Le calendrier** : saison et coches de voyage.
-- **Le journal Livre – § – Saison**, qui enregistre les possibilités jouées (voir [Comment jouer](./comment-jouer.md#une-résolution-par-saison)).
+- **Le journal Livre – § – Saison**, qui enregistre les rencontres jouées (voir [Comment jouer](./comment-jouer.md#une-résolution-par-saison)).

@@ -33,7 +33,7 @@ Voir [calendrier et voyages](./calendrier.md).
 
 Ne garder que la rubrique de sa Vision : **prodiges / esprits / grimoires / compréhensions**. Pour chacune, noter son nom, son effet, ses conditions d'usage et ses limites.
 
-## Journal des possibilités jouées
+## Journal des rencontres jouées
 
 | Livre | § | Saison |
 | --- | --- | --- |

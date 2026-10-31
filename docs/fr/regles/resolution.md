@@ -7,7 +7,7 @@ sidebar_position: 3
 
 ## Une résolution, deux conséquences
 
-Vous jouez librement votre scène et choisissez un **enjeu autorisé par la possibilité**. Le paragraphe indique la difficulté, les Runes pertinentes, ce que l'on peut gagner ou perdre, et **deux conséquences jouables**. La résolution arbitre la situation ; elle ne remplace pas l'histoire que vous imaginez.
+Vous jouez librement votre scène et choisissez un **enjeu autorisé par la rencontre**. Le paragraphe indique la difficulté, les Runes pertinentes, ce que l'on peut gagner ou perdre, et **deux conséquences jouables**. La résolution arbitre la situation ; elle ne remplace pas l'histoire que vous imaginez.
 
 **Une issue défavorable n'entraîne jamais la mort ordinaire du personnage**, ni une impasse. Elle peut transformer une relation, fermer un accès, imposer une dette, faire perdre un objet, orienter vers un autre lieu ou modifier une marque, si le paragraphe le prévoit.
 

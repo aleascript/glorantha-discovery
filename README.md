@@ -14,9 +14,10 @@ Tout le contenu est publié sur le site, sans doublon : chaque règle n'est écr
 | --- | --- | --- |
 | `docs/fr/index.md`, `docs/fr/intention.md` | Accueil et intention du projet | Acté |
 | `docs/fr/regles/` | Comment jouer, calendrier, résolution, Visions, progression, noms de lore, feuille de personnage | Acté |
-| `docs/fr/conception/` | Architecture des livres, contrat d'une possibilité, provisionnement, Quête Héroïque, feuille de route | En cours : chaque page s'ouvre sur un bandeau « En cours de conception » |
+| `docs/fr/conception/` | Architecture des livres, contrat d'une rencontre, provisionnement, feuille de route | En cours : chaque page s'ouvre sur un bandeau « En cours de conception » |
+| `docs/fr/livres/` | Conception de chaque livre (Sartar, Prax, Tarsh… et le livre des Quêtes Héroïques) | En cours, même bandeau ; les pages d'un livre terminé quitteront le site |
 
-Le validateur `npm run discovery:check` vérifie les renvois internes, la présence du bandeau sur les pages de conception et l'absence de doublons connus.
+Le validateur `npm run discovery:check` vérifie les renvois internes, la présence du bandeau sur les pages de conception et de livres, la terminologie (lieu, rencontre, événement de voyage) et l'absence de doublons connus.
 
 ## Développement
 

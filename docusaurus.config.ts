@@ -85,6 +85,7 @@ const config: Config = {
   trailingSlash: true,
   onBrokenLinks: 'throw',
   markdown: {
+    mermaid: true,
     hooks: {
       onBrokenMarkdownLinks: 'throw',
     },
@@ -106,6 +107,8 @@ const config: Config = {
     locales,
     localeConfigs: site.locales,
   },
+
+  themes: ['@docusaurus/theme-mermaid'],
 
   presets: [
     [
@@ -167,6 +170,12 @@ const config: Config = {
           docId: 'conception/architecture',
           position: 'left',
           label: 'Conception',
+        },
+        {
+          type: 'doc',
+          docId: 'livres/index',
+          position: 'left',
+          label: 'Livres',
         },
         {
           href: repositoryUrl,

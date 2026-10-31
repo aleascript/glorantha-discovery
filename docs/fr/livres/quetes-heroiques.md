@@ -1,6 +1,6 @@
 ---
 title: Le livre des Quêtes Héroïques
-sidebar_position: 4
+sidebar_position: 100
 ---
 
 :::warning[En cours de conception]
@@ -9,7 +9,7 @@ La place du livre dans la partie est actée. Sa structure, ses chemins et ses é
 
 # Le livre des Quêtes Héroïques
 
-À la fin de Tempêtes, le **Temps sacré** mène le personnage dans le **Temps des Dieux**. Le livre des Quêtes Héroïques a une **architecture distincte** de celle des hubs : son entrée, ses chemins et ses épreuves lui sont propres.
+À la fin de Tempêtes, le **Temps sacré** mène le personnage dans le **Temps des Dieux**. Le livre des Quêtes Héroïques a une **architecture distincte** de celle des livres géographiques : son entrée, ses chemins et ses épreuves lui sont propres.
 
 ## Ce que l'année apporte à la quête
 

@@ -4,25 +4,25 @@ sidebar_position: 1
 ---
 
 :::warning[En cours de conception]
-Les familles de livres et le réseau de hubs sont actés. La forme des paragraphes, la numérotation et les points d'entrée interlivres restent à prototyper.
+Les familles de livres et le réseau de lieux sont actés. La forme des paragraphes, la numérotation et les points d'entrée interlivres restent à prototyper.
 :::
 
 # Architecture des livres
 
 ## Deux familles de livres
 
-1. **Les livres géographiques** : un réseau de lieux, de trajets et de possibilités. Le joueur y découvre librement Glorantha et joue ses propres scènes en JdR solo. Ils sont **extensibles sans plafond de régions** et partagent la même feuille, le même calendrier, les mêmes Visions et la même résolution.
-2. **Le livre des Quêtes Héroïques** : ouvert au Temps sacré, il conduit le personnage dans le Temps des Dieux. Voir [le livre des Quêtes Héroïques](./quete-heroique.md).
+1. **Les livres géographiques** : un réseau de lieux, de trajets et de rencontres. Le joueur y découvre librement Glorantha et joue ses propres scènes en JdR solo. Ils sont **extensibles sans plafond de régions** et partagent la même feuille, le même calendrier, les mêmes Visions et la même résolution.
+2. **Le livre des Quêtes Héroïques** : ouvert au Temps sacré, il conduit le personnage dans le Temps des Dieux. Voir [le livre des Quêtes Héroïques](../livres/quetes-heroiques.md).
 
 ## Le réseau d'un livre géographique
 
 | Élément | Rôle |
 | --- | --- |
-| **Hub** | Lieu d'orientation, relié à des possibilités locales et à d'autres hubs. |
-| **Possibilité** | Une première visite écrite (Discovery), puis des revisites en JdR solo lors des saisons suivantes. Voir le [contrat d'une possibilité](./possibilite.md). |
-| **Trajet** | Liaison entre deux hubs, idéalement par un § commun aux deux sens pour ne pas multiplier les textes. |
-| **Situation de trajet** | Rencontre aléatoire sur une liaison ; elle peut laisser une marque persistante, hors de la règle saisonnière des possibilités. |
-| **Passage interlivres** | Vers un livre contigu, hub par hub ; vers un livre non contigu, par un voyage lointain. |
+| **Lieu** | Point d'orientation du réseau : il propose des rencontres et mène à d'autres lieux. |
+| **Rencontre** | Une première visite écrite (Discovery), puis des revisites en JdR solo lors des saisons suivantes. Voir le [contrat d'une rencontre](./rencontre.md). |
+| **Trajet** | Liaison entre deux lieux, idéalement par un § commun aux deux sens pour ne pas multiplier les textes. |
+| **Événement de voyage** | Événement aléatoire survenu sur un trajet ; il peut laisser une marque persistante, hors de la règle saisonnière des rencontres. |
+| **Passage interlivres** | Vers un livre contigu, lieu par lieu ; vers un livre non contigu, par un voyage lointain. |
 
 Les coûts en temps de ces déplacements sont fixés par les règles : voir [calendrier et voyages](../regles/calendrier.md).
 

@@ -17,15 +17,15 @@ Chaque saison d'exploration compte **huit coches**, soit **40 coches** au total 
 
 | Action | Coût |
 | --- | --- |
-| Trajet accompli d'un hub à un autre, dans un sens ou dans l'autre, y compris vers un hub d'un livre contigu | **1 coche** |
+| Trajet accompli d'un lieu à un autre, dans un sens ou dans l'autre, y compris vers un lieu d'un livre contigu | **1 coche** |
 | Voyage entre deux livres **non contigus** | **1 saison** (8 coches) : c'est le coût maximal d'un voyage lointain. La position dans la saison est conservée. |
-| Scènes imaginées, conversations, rites, résolutions et revisites dans un hub | **Aucune coche** |
-| Situation aléatoire survenue pendant un trajet | **Aucune coche** supplémentaire |
+| Scènes imaginées, conversations, rites, résolutions et revisites dans un lieu | **Aucune coche** |
+| Événement de voyage survenu pendant un trajet | **Aucune coche** supplémentaire |
 | Retour technique à un §, consultation d'un livre | **Aucune coche** |
 
-Vous pouvez rester dans un hub aussi longtemps que vous le souhaitez. Ce n'est pas le temps qui borne les nouvelles résolutions, c'est la règle d'**une résolution par possibilité et par saison** (voir [Comment jouer](./comment-jouer.md#une-résolution-par-saison)).
+Vous pouvez rester dans un lieu aussi longtemps que vous le souhaitez. Ce n'est pas le temps qui borne les nouvelles résolutions, c'est la règle d'**une résolution par rencontre et par saison** (voir [Comment jouer](./comment-jouer.md#une-résolution-par-saison)).
 
-Une situation aléatoire de trajet peut laisser une **marque persistante à cocher**. Cette marque ne dépend pas des saisons.
+Un **événement de voyage** peut laisser une **marque persistante à cocher**. Cette marque ne dépend pas des saisons.
 
 ## Le Temps sacré
 
@@ -39,4 +39,4 @@ Toute la série se déroule pendant **une même année historique de Glorantha**
 
 Tout livre géographique accueille un personnage venu d'un autre volume **sans recréer son identité** ni réinitialiser ses Runes, ses acquis, ses noms de lore, son journal ou son calendrier. La création d'un personnage dépend du lieu et de la tradition où il commence.
 
-Les initiations, changements de culte et transformations runiques passent par des possibilités explicitement écrites ; aucune règle générale de coût en temps ne s'y ajoute.
+Les initiations, changements de culte et transformations runiques passent par des rencontres explicitement écrites ; aucune règle générale de coût en temps ne s'y ajoute.

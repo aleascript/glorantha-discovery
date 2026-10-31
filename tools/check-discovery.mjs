@@ -44,11 +44,11 @@ const visions = ['theisme', 'animisme', 'logique', 'mysticisme'];
 for (const p of ['index', 'intention']) read(path.join(docs, p + '.md'));
 for (const p of regles) read(path.join(docs, 'regles', p + '.md'));
 
-// Statut : seules les pages de conception portent le bandeau, et toutes le portent en tête.
+// Statut : seules les pages de conception et de livres portent le bandeau, et toutes le portent en tête.
 for (const file of pages) {
-  const isConception = rel(file).startsWith(path.join('docs', 'fr', 'conception'));
+  const isWip = ['conception', 'livres'].some(dir => rel(file).startsWith(path.join('docs', 'fr', dir)));
   const body = withoutFrontMatter(read(file));
-  if (isConception) check(body.startsWith(WIP), rel(file) + ' : bandeau « En cours de conception » absent en tête');
+  if (isWip) check(body.startsWith(WIP), rel(file) + ' : bandeau « En cours de conception » absent en tête');
   else check(!body.includes(WIP), rel(file) + ' : page actée portant un bandeau de conception');
 }
 
@@ -65,6 +65,14 @@ const calendar = read(path.join(docs, 'regles', 'calendrier.md'));
 check(calendar.includes('Temps sacré'), 'Temps sacré absent du calendrier');
 const sheet = read(path.join(docs, 'regles', 'fiche-personnage.md'));
 for (const word of ['Livre', '§', 'Saison']) check(sheet.includes(word), 'Journal incomplet sur la feuille : ' + word);
+
+// Terminologie : lieu, rencontre et événement de voyage remplacent hub, possibilité et situation de trajet.
+for (const file of [...pages, path.join(root, 'README.md')]) {
+  const body = read(file);
+  for (const [old, term] of [[/(?<!\p{L})hubs?(?!\p{L})/iu, 'lieu'], [/(?<!\p{L})possibilités?(?!\p{L})/iu, 'rencontre'], [/situations? (aléatoires? )?de trajet/iu, 'événement de voyage']]) {
+    check(!old.test(body), rel(file) + ' : ancien terme, employer « ' + term + ' »');
+  }
+}
 
 // Plus de supports parallèles ni de traces du prototype abandonné.
 check(!fs.existsSync(path.join(root, 'design')), 'Le dossier design/ ne doit plus exister : tout le contenu est sur le site');

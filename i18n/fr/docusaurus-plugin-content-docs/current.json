@@ -2,5 +2,17 @@
   "version.label": {
     "message": "Actuelle",
     "description": "The label for version current"
+  },
+  "sidebar.docsSidebar.category.Règles": {
+    "message": "Règles",
+    "description": "The label for category 'Règles' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Visions": {
+    "message": "Visions",
+    "description": "The label for category 'Visions' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Conception": {
+    "message": "Conception",
+    "description": "The label for category 'Conception' in sidebar 'docsSidebar'"
   }
 }

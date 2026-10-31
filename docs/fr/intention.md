@@ -1,6 +1,10 @@
-# Glorantha Discovery — Intention et esprit du projet
+---
+title: Intention et esprit du projet
+---
 
-> **Statut : note d'intention, à lire avant les autres notes de design.** Elle explicite ce que servent les contrats de résolution, de calendrier, de marqueurs et de possibilités. Décisions d'auteur au 30 octobre 2026. Les règles elles-mêmes restent dans leurs notes respectives.
+# Intention et esprit du projet
+
+Cette page explicite ce que servent les règles et l'architecture des livres. Elle est à lire avant toutes les autres.
 
 ## 1. Un projet de découverte avant tout
 
@@ -12,7 +16,7 @@
 
 Le personnage est un **aventurier dans Glorantha**, à hauteur d'homme. Le jeu ne se joue **pas à l'échelle héroïque** : le personnage ne décide pas du cours des Guerres des Héros et ne commande pas d'armées.
 
-Il peut en revanche **croiser des Héros connus du lore**. Ces rencontres sont elles-mêmes des découvertes : elles montrent Glorantha à travers ses grandes figures, vues par quelqu'un qui n'en est pas une. Leur situation à l'année choisie relève de la [discipline de source](architecture.md#discipline-de-source).
+Il peut en revanche **croiser des Héros connus du lore**. Ces rencontres sont elles-mêmes des découvertes : elles montrent Glorantha à travers ses grandes figures, vues par quelqu'un qui n'en est pas une. Leur situation à l'année choisie relève de la [discipline de source](./conception/architecture.md#discipline-de-source).
 
 ## 3. La lecture fait avancer
 
@@ -26,27 +30,27 @@ La première visite d'une possibilité est **la voix du livre** : une scène éc
 
 Ensuite, **le joueur sait pourquoi y retourner**. C'est **lui qui fait l'histoire** : il revient chercher une **alliance**, un **mythe**, un **objet**, un **renfort**, une **relation** — quelque chose qui lui sera utile plus tard, **dans la Quête Héroïque en particulier**, ou ailleurs dans son année. Il imagine la scène ; le livre arbitre ce qui est possible, ce que cela coûte et ce qui peut être gagné ou perdu.
 
-Au fil des saisons, la parole passe ainsi **du livre au joueur** : le livre enseigne le monde, puis le joueur s'en sert pour préparer son propre destin. Voir le [contrat d'une possibilité](paragraphes-et-consequences.md).
+Au fil des saisons, la parole passe ainsi **du livre au joueur** : le livre enseigne le monde, puis le joueur s'en sert pour préparer son propre destin. Voir le [contrat d'une possibilité](./conception/possibilite.md).
 
 ## 5. Les noms : une Glorantha vécue
 
-Les noms de lore entourés ou barrés composent une **encyclopédie personnelle** : non pas « ce qu'il faut savoir de Glorantha », mais **ce que ce personnage en a vécu**. Un nom barré reste connu ; la relation au monde n'est jamais effacée, elle change de couleur. Connaître n'est pas posséder : un nom vécu n'accorde pas à lui seul un pouvoir ou un acquis. Voir [noms de lore et déclencheurs](mots-cles-et-supports.md).
+Les noms de lore entourés ou barrés composent une **encyclopédie personnelle** : non pas « ce qu'il faut savoir de Glorantha », mais **ce que ce personnage en a vécu**. Un nom barré reste connu ; la relation au monde n'est jamais effacée, elle change de couleur. Connaître n'est pas posséder : un nom vécu n'accorde pas à lui seul un pouvoir ou un acquis. Voir [noms de lore et déclencheurs](./regles/noms-et-declencheurs.md).
 
 ## 6. Quatre Visions, quatre manières de percevoir le monde
 
 Les Visions ne sont pas des classes. Elles reprennent les grandes voies magiques de Glorantha — les dieux, les esprits, les essences et la voie mystique — et **chaque lecture des dés exprime une façon de percevoir le monde** : la grâce qui relance (Théisme), le lien et la parenté (Animisme), le calcul qui accumule (Logique), l'accord avec la situation elle-même, détaché de ce qui s'y oppose (Mysticisme).
 
-Le même monde est lu autrement, sans écrire quatre versions de chaque scène. Un aventurier traversant une terre dont la tradition n'est pas la sienne fait aussi **l'expérience de l'étranger** : cela fait partie de la découverte. Voir [résolution](resolution.md) et [magie et progression](magie-et-progression.md).
+Le même monde est lu autrement, sans écrire quatre versions de chaque scène. Un aventurier traversant une terre dont la tradition n'est pas la sienne fait aussi **l'expérience de l'étranger** : cela fait partie de la découverte. Voir [résolution](./regles/resolution.md) et [progression](./regles/progression.md).
 
 ## 7. Le temps se mesure en chemin
 
-Rester ne coûte rien ; **partir fait avancer l'année**. Le joueur arbitre librement entre **approfondir** un lieu et **découvrir** le suivant. Le verrou saisonnier des possibilités donne à l'année un rythme de départs et de retours : on revient voir ce qui a changé, chez les autres comme en soi. Voir [personnage et calendrier](personnage-et-calendrier.md).
+Rester ne coûte rien ; **partir fait avancer l'année**. Le joueur arbitre librement entre **approfondir** un lieu et **découvrir** le suivant. Le verrou saisonnier des possibilités donne à l'année un rythme de départs et de retours : on revient voir ce qui a changé, chez les autres comme en soi. Voir [calendrier et voyages](./regles/calendrier.md).
 
 ## 8. L'année devient mythe
 
 Au **Temps sacré**, Glorantha se renouvelle par la Quête Héroïque. Le lien entre l'année d'exploration et la quête **est porté par Glorantha elle-même** : une Quête Héroïque rejoue un mythe, étape après étape, et s'appuie sur ce que le quêteur en connaît, sur ses alliés, ses objets, ses liens avec les dieux ou les esprits, ses Runes. Ce que l'aventurier rassemble pendant ses cinq saisons est donc **naturellement ce que la quête lui demandera** ; il n'y a pas d'interface artificielle à inventer entre les livres de lieux et le livre final.
 
-La quête peut échouer et clôt toujours la partie. Cette clôture obligatoire est une **convention de Discovery** ; la logique de la Quête Héroïque, elle, relève du canon. Voir le [modèle de partie](jdr-solo-une-annee-et-quete-heroique.md).
+La quête peut échouer et clôt toujours la partie. Cette clôture obligatoire est une **convention de Discovery** ; la logique de la Quête Héroïque, elle, relève du canon. Voir [le livre des Quêtes Héroïques](./conception/quete-heroique.md).
 
 ## Ce que cette note implique pour l'écriture
 
@@ -56,4 +60,4 @@ La quête peut échouer et clôt toujours la partie. Cette clôture obligatoire 
 - Donner au joueur, dès la première visite, **ce qu'il pourra revenir chercher**.
 - Laisser **Glorantha** fournir la cohérence entre l'année et la quête, plutôt qu'un système ajouté.
 
-Voir [architecture éditoriale](architecture.md) et [roadmap des volumes](roadmap-livres.md).
+Voir [architecture des livres](./conception/architecture.md) et [feuille de route](./conception/feuille-de-route.md).

@@ -1,54 +1,39 @@
 # Glorantha Discovery
 
-**Glorantha Discovery** est un projet de **livres-jeux de rôle solo** pour explorer Glorantha en jouant ses propres histoires. Les volumes géographiques seront extensibles et permettront de transporter un même personnage de région en région.
+**Glorantha Discovery** est un projet de **livres-jeux de rôle solo** pour découvrir Glorantha en y jouant ses propres histoires : cinq saisons d'exploration à travers des livres géographiques, puis une Quête Héroïque terminale au Temps sacré.
 
-## État du projet
+Le projet est **en cours de conception** : les règles communes sont actées, l'architecture des livres est en chantier, aucun livre jouable n'est publié.
 
-**Fondations de design en consolidation — aucun livre régional jouable publié.**
+Site : <https://aleascript.github.io/glorantha-discovery/>
 
-Le contrat de partie est fixé :
+## Organisation du contenu
 
-- **Cinq saisons** d'exploration libre, puis **Temps sacré et Quête Héroïque terminale** dans le Temps des Dieux.
-- La Quête Héroïque peut **échouer**, mais **clôt toujours la partie**.
-- **Quatre Visions** (Théisme, Animisme, Logique, Mysticisme) avec lecture différente des **3D6**.
-- **Trois difficultés**, Runes favorables/défavorables et conséquences jouables sans mort ordinaire.
-- Des **hubs** et **possibilités** : une première découverte guidée, puis une revisite en **JdR solo** lors d'une saison ultérieure. Le joueur imagine sa scène et choisit son enjeu ; le livre borne la résolution et les gains/pertes.
-- Une même possibilité ne peut être résolue **qu'une fois par saison**. Le journal manuscrit de la fiche suit `Livre – § – Saison`.
-- **Un voyage de hub à hub coûte une coche**, même entre livres contigus ; un passage entre livres non contigus coûte **une saison**. Les actions locales ne coûtent **aucune coche**.
+Tout le contenu est publié sur le site, sans doublon : chaque règle n'est écrite qu'à un seul endroit.
 
-L'année historique exacte et les settings des futurs volumes ne sont pas encore fixés. Les paragraphes régionaux du premier POC ont été **archivés**, pas repris comme contenu actif.
+| Dossier | Contenu | Statut |
+| --- | --- | --- |
+| `docs/fr/index.md`, `docs/fr/intention.md` | Accueil et intention du projet | Acté |
+| `docs/fr/regles/` | Comment jouer, calendrier, résolution, Visions, progression, noms de lore, feuille de personnage | Acté |
+| `docs/fr/conception/` | Architecture des livres, contrat d'une possibilité, provisionnement, Quête Héroïque, feuille de route | En cours : chaque page s'ouvre sur un bandeau « En cours de conception » |
 
-## Documents de référence
+Le validateur `npm run discovery:check` vérifie les renvois internes, la présence du bandeau sur les pages de conception et l'absence de doublons connus.
 
-- [Intention et esprit du projet](design/fr/intention-et-esprit.md) — à lire en premier
-- [Modèle de partie et Quête Héroïque terminale](design/fr/jdr-solo-une-annee-et-quete-heroique.md)
-- [Résolution](design/fr/resolution.md) et [progression par Vision](design/fr/magie-et-progression.md)
-- [Marqueurs de lore et déclencheurs narratifs](design/fr/mots-cles-et-supports.md)
-- [Personnage, journal et calendrier](design/fr/personnage-et-calendrier.md)
-- [Architecture éditoriale](design/fr/architecture.md) et [structure d'une possibilité](design/fr/paragraphes-et-consequences.md)
-- [Roadmap des volumes](design/fr/roadmap-livres.md)
-- [Inventaire et bilan de consolidation de la PR #1](design/fr/inventaire-consolidation-pr1.md)
+## Développement
 
-Le **POC Sartar antérieur** est accessible en lecture et récupérable sur la branche [`archive/sartar-poc-pre-consolidation-2026-10-30`](https://github.com/aleascript/glorantha-discovery/tree/archive/sartar-poc-pre-consolidation-2026-10-30).
-
-## Site et développement
-
-Le site repose sur [Docusaurus](https://docusaurus.io/) et l'infrastructure du template [Resonance Site Template](https://github.com/aleascript/resonance-site-template). Pour travailler localement :
+Le site repose sur [Docusaurus](https://docusaurus.io/) et l'infrastructure du template [Resonance Site Template](https://github.com/aleascript/resonance-site-template).
 
 ```sh
 npm install
 npm run start:fr
-npm run discovery:check
-npm run typecheck
-npm run build
+npm run check   # typecheck, discovery:check et build
 ```
 
-Les sources publiques françaises sont dans `docs/fr/` ; les notes internes dans `design/fr/` ; la fiche et les quatre aides imprimables dans `static/print/`. Les pages Web n'exposent pas de paragraphes régionaux tant que le modèle de production n'est pas validé.
-
-La chaîne de publication PDF/EPUB du template reste disponible, mais **aucune publication n'est actuellement configurée** dans `publications.config.mjs`. Les licences de publication et droits relatifs à Glorantha **ne sont pas encore décidés** ; aucune licence CC BY du template ne doit être interprétée comme une autorisation pour le lore.
+La chaîne de publication PDF/EPUB du template reste installée mais n'est pas utilisée : aucune publication n'est configurée dans `publications.config.mjs`.
 
 ## Travail en PR
 
-La [PR #1](https://github.com/aleascript/glorantha-discovery/pull/1) conserve le socle **en brouillon** jusqu'à validation explicite ; elle ne doit pas être fusionnée automatiquement. Les expérimentations à venir (possibilité autonome, réseau de hubs, provisionnement, puis contenu régional) se feront dans **des PR courtes** à partir de `main`.
+Chaque évolution passe par une PR courte à partir de `main`.
 
-Glorantha et ses éléments appartiennent à leurs ayants droit. Ce projet est amateur et non officiel.
+## Droits
+
+Projet amateur et non officiel. Glorantha et ses éléments appartiennent à leurs ayants droit. Aucune licence de contenu n'est encore fixée ; les conditions de publication seront vérifiées avant la diffusion des livres.

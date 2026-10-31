@@ -1,14 +1,26 @@
 {
   "title": {
     "message": "Glorantha Discovery",
-    "description": "Discover Glorantha"
-  },
-  "item.label.Contents": {
-    "message": "Sommaire",
-    "description": "Navbar item with label Contents"
+    "description": "The title in the navbar"
   },
   "item.label.GitHub": {
     "message": "GitHub",
     "description": "Navbar item with label GitHub"
+  },
+  "logo.alt": {
+    "message": "Glorantha Discovery logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Intention": {
+    "message": "Intention",
+    "description": "Navbar item with label Intention"
+  },
+  "item.label.Règles": {
+    "message": "Règles",
+    "description": "Navbar item with label Règles"
+  },
+  "item.label.Conception": {
+    "message": "Conception",
+    "description": "Navbar item with label Conception"
   }
 }

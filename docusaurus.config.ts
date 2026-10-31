@@ -63,7 +63,7 @@ const baseUrl = normalizeBaseUrl(
   process.env.SITE_BASE_URL ?? (isUserPagesRepository ? '/' : projectName),
 );
 const repositoryUrl = `https://github.com/${repositoryFullName}`;
-const locales = ['fr']; // Prototype français uniquement ; anglais activé après validation du POC.
+const locales = ['fr']; // Contenu rédigé en français uniquement pour l'instant.
 const requestedLocale = process.env.DOCUSAURUS_CURRENT_LOCALE;
 const contentLocale =
   requestedLocale && requestedLocale !== 'undefined'
@@ -130,6 +130,12 @@ const config: Config = {
 
   themeConfig: {
     metadata: [{name: 'description', content: site.description}],
+    announcementBar: {
+      id: 'wip',
+      content:
+        'Projet en cours de conception : règles actées, architecture des livres en chantier, aucun livre jouable publié.',
+      isCloseable: false,
+    },
     colorMode: {
       respectPrefersColorScheme: true,
     },
@@ -145,16 +151,22 @@ const config: Config = {
         : {}),
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'docsSidebar',
+          type: 'doc',
+          docId: 'intention',
+          position: 'left',
+          label: 'Intention',
+        },
+        {
+          type: 'doc',
+          docId: 'regles/comment-jouer',
           position: 'left',
           label: 'Règles',
         },
-
         {
-          type: 'localeDropdown',
-          position: 'right',
-          queryString: '?persistLocale=true',
+          type: 'doc',
+          docId: 'conception/architecture',
+          position: 'left',
+          label: 'Conception',
         },
         {
           href: repositoryUrl,
